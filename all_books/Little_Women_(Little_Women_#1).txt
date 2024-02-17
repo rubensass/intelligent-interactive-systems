@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/little-women-little-women-1_331/index.html
+
+title:
+Little Women (Little Women #1)
+
+availability:
+In stock (4 available)
+
+book_rating:
+80/100
+
+category:
+Classics
+
+description:
+Little Women is the heartwarming story of the March family that has thrilled generations of readers. It is the story of four sisters--Jo, Meg, Amy and Beth-- and of the courage, humor and ingenuity they display to survive poverty and the absence of their father during the Civil War.
+
+price:
+28.07 Dollars
+

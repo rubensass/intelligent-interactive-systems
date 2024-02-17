@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html
+
+title:
+Princess Between Worlds (Wide-Awake Princess #5)
+
+availability:
+In stock (16 available)
+
+book_rating:
+100/100
+
+category:
+Fantasy
+
+description:
+Just as Annie and Liam are busy making plans to travel the world, a witch shows up and gives them a collection of postcards from the Magic Marketplace. Each postcard gives Annie and Liam the opportunity to travel to exotic lands and far-flung kingdoms. What the witch doesn't give them are directions on how to safely return.
+
+price:
+13.34 Dollars
+

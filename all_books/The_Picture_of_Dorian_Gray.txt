@@ -1,0 +1,16 @@
+url:
+https://books.toscrape.com/catalogue/the-picture-of-dorian-gray_270/index.html
+
+title:
+The Picture of Dorian Gray
+
+availability:
+In stock (3 available)
+
+book_rating:
+40/100
+
+category:
+Classics
+
+description:

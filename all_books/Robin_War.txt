@@ -1,0 +1,16 @@
+url:
+https://books.toscrape.com/catalogue/robin-war_730/index.html
+
+title:
+Robin War
+
+availability:
+In stock (14 available)
+
+book_rating:
+60/100
+
+category:
+Sequential Art
+
+description:

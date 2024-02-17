@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/pet-sematary_726/index.html
+
+title:
+Pet Sematary
+
+availability:
+In stock (14 available)
+
+book_rating:
+60/100
+
+category:
+Horror
+
+description:
+Sometimes dead is better....When the Creeds move into a beautiful old house in rural Maine, it all seems too good to be true: physician father, beautiful wife, charming little daughter, adorable infant son -- and now an idyllic home. As a family, they've got it all...right down to the friendly cat.But the nearby woods hide a blood-chilling truth -- more terrifying than dea Sometimes dead is better....When the Creeds move into a beautiful old house in rural Maine, it all seems too good to be true: physician father, beautiful wife, charming little daughter, adorable infant son -- and now an idyllic home. As a family, they've got it all...right down to the friendly cat.But the nearby woods hide a blood-chilling truth -- more terrifying than death itself...and hideously more powerful. ...more
+
+price:
+10.56 Dollars
+

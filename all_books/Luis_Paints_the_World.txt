@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/luis-paints-the-world_714/index.html
+
+title:
+Luis Paints the World
+
+availability:
+In stock (14 available)
+
+book_rating:
+60/100
+
+category:
+Childrens
+
+description:
+Luis wishes Nico wasn't leaving for the Army. To show Nico he doesn't need to go, Luis begins a mural on the alleyway wall. Their house, the river, the Parque de las Ardillas—it's the world, all right there. Won't Nico miss Mami's sweet flan? What about their baseball games in the street? But as Luis awaits his brother's return from duty, his own world expands as well, thr Luis wishes Nico wasn't leaving for the Army. To show Nico he doesn't need to go, Luis begins a mural on the alleyway wall. Their house, the river, the Parque de las Ardillas—it's the world, all right there. Won't Nico miss Mami's sweet flan? What about their baseball games in the street? But as Luis awaits his brother's return from duty, his own world expands as well, through swooping paint and the help of their bustling Dominican neighborhood. ...more
+
+price:
+53.95 Dollars
+

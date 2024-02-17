@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/myriad-prentor-1_36/index.html
+
+title:
+Myriad (Prentor #1)
+
+availability:
+In stock (1 available)
+
+book_rating:
+80/100
+
+category:
+Fantasy
+
+description:
+Alternate Cover Edition: 14783849642016 Revised EditionKalin, tired of being put down for who he is, leaves home when he turns eighteen. Despite being a warlock, he’s denied his magic for years because his parents told him magic is evil. He just wants to start a new life and leave his past behind.But then Kalin is approached by a group who tell him he has a rare kind of po Alternate Cover Edition: 14783849642016 Revised EditionKalin, tired of being put down for who he is, leaves home when he turns eighteen. Despite being a warlock, he’s denied his magic for years because his parents told him magic is evil. He just wants to start a new life and leave his past behind.But then Kalin is approached by a group who tell him he has a rare kind of power—and the ability to stop a dark warlock from threatening the Royal family. Kalin doesn’t think he can help until one of the witches, a seer named Regina, has a vision about his future. The truth behind his ability shocks him—and may lead to his death and the death of his new friends. With Regina's visions as his guide, will he decide the risk is worth taking?This is a NOVELLA of approximately 27,000 words. ...more
+
+price:
+58.75 Dollars
+

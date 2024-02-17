@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/meternity_478/index.html
+
+title:
+Meternity
+
+availability:
+In stock (7 available)
+
+book_rating:
+60/100
+
+category:
+Womens Fiction
+
+description:
+The novel your book club must discuss!Meghann Foye was interviewed on The TODAY Show and The View regarding her new book Meternity."A fresh, contemporary take on love and work, marriage and motherhood, Meternity is guaranteed to surprise and delight!" â"Emily Giffin, #1 New York Times bestselling author of Something Borrowed and First Comes LoveLike everyone in New York me The novel your book club must discuss!Meghann Foye was interviewed on The TODAY Show and The View regarding her new book Meternity."A fresh, contemporary take on love and work, marriage and motherhood, Meternity is guaranteed to surprise and delight!" â€"Emily Giffin, #1 New York Times bestselling author of Something Borrowed and First Comes LoveLike everyone in New York media, editor Liz Buckley runs on cupcakes, caffeine and cocktails. But at thirty-one, she's plateaued at Paddy Cakes, a glossy baby magazine that flogs thousand-dollar strollers to entitled, hypercompetitive spawn-havers.Liz has spent years working a gazillion hours a week picking up the slack for coworkers with kids, and she's tired of it. So one day when her stress-related nausea is mistaken for morning sickness by her bossesâ€"boom! Liz is promoted to the mommy track. She decides to run with it and plans to use her paid time off to figure out her life: work, love and otherwise. It'll be her "meternity" leave.By day, Liz rocks a foam-rubber belly under fab maternity outfits. By night, she dumps the bump for karaoke nights and boozy dinners out. But how long can she keep up her charadeâ€¦and hide it from the guy who might just be The One?As her "due date" approaches, Liz is exhaustedâ€"and exhilaratedâ€"by the ruse, the guilt and the feelings brought on by a totally fictional belly-tenantâ€¦about happiness, success, family and the nature of love. ...more
+
+price:
+43.58 Dollars
+

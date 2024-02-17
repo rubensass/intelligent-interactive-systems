@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/charlie-and-the-chocolate-factory-charlie-bucket-1_13/index.html
+
+title:
+Charlie and the Chocolate Factory (Charlie Bucket #1)
+
+availability:
+In stock (1 available)
+
+book_rating:
+60/100
+
+category:
+Childrens
+
+description:
+Complete with stunning new movie art for the cover, and an eight-page full-color insert of stills from director Tim Burton's new adaptation, Dahl's treasured novel appears unabridged in this tie-in edition.
+
+price:
+22.85 Dollars
+

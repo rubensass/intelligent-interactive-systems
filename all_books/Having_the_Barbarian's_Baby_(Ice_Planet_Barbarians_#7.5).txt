@@ -1,0 +1,16 @@
+url:
+https://books.toscrape.com/catalogue/having-the-barbarians-baby-ice-planet-barbarians-75_23/index.html
+
+title:
+Having the Barbarian's Baby (Ice Planet Barbarians #7.5)
+
+availability:
+In stock (1 available)
+
+book_rating:
+80/100
+
+category:
+Science Fiction
+
+description:

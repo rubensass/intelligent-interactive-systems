@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/adultery_586/index.html
+
+title:
+Adultery
+
+availability:
+In stock (11 available)
+
+book_rating:
+100/100
+
+category:
+Default
+
+description:
+I want to change. I need to change. I'm gradually losing touch with myself. Adultery, the provocative new novel by Paulo Coelho, best-selling author of The Alchemist and Eleven Minutes, explores the question of what it means to live life fully and happily, finding the balance between life's routine and the desire for something new.
+
+price:
+20.88 Dollars
+

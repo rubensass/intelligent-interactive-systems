@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/hawkeye-vol-1-my-life-as-a-weapon-hawkeye-1_24/index.html
+
+title:
+Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)
+
+availability:
+In stock (1 available)
+
+book_rating:
+60/100
+
+category:
+Sequential Art
+
+description:
+The breakout star of this summer's blockbuster Avengers film, Clint Barton - aka the self-made hero Hawkeye - fights for justice! With ex-Young Avenger Kate Bishop by his side, he's out to prove himself as one of Earth's Mightiest Heroes! SHIELD recruits Clint to intercept a packet of incriminating evidence - before he becomes the most wanted man in the world. You won't be The breakout star of this summer's blockbuster Avengers film, Clint Barton - aka the self-made hero Hawkeye - fights for justice! With ex-Young Avenger Kate Bishop by his side, he's out to prove himself as one of Earth's Mightiest Heroes! SHIELD recruits Clint to intercept a packet of incriminating evidence - before he becomes the most wanted man in the world. You won't believe what is on The Tape! What is the Vagabond Code? Matt Fraction pens a Hawkeye thriller that spans the globe...and the darkest parts of Hawkeye's mind. Barton and Bishop mean double the Hawkeye and double the trouble...and stealing from the rich never looked so good.COLLECTING: Hawkeye 1-5, Young Avengers Presents 6 ...more
+
+price:
+45.24 Dollars
+

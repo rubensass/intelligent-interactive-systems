@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/fruits-basket-vol-3-fruits-basket-3_159/index.html
+
+title:
+Fruits Basket, Vol. 3 (Fruits Basket #3)
+
+availability:
+In stock (3 available)
+
+book_rating:
+40/100
+
+category:
+Sequential Art
+
+description:
+A family with an ancient curse...And the girl who will change their lives forever...It's Valentines Day and you know what that means - lots of chocolates for the cutest boys at school! In this case, it's a pretty close tie between hot-headed Kyo Sohma and "Prince Charming" Yuki Sohma. Of course the kind-hearted Tohru, guest of the Sohma family, has chocolates for everyone! A family with an ancient curse...And the girl who will change their lives forever...It's Valentines Day and you know what that means - lots of chocolates for the cutest boys at school! In this case, it's a pretty close tie between hot-headed Kyo Sohma and "Prince Charming" Yuki Sohma. Of course the kind-hearted Tohru, guest of the Sohma family, has chocolates for everyone! But when White Day comes around, what will the Sohma family give her in return? ...more
+
+price:
+45.17 Dollars
+

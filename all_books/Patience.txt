@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/patience_916/index.html
+
+title:
+Patience
+
+availability:
+In stock (16 available)
+
+book_rating:
+60/100
+
+category:
+Sequential Art
+
+description:
+Patience is a psychedelic science-fiction love story, veering with uncanny precision from violent destruction to deeply personal tenderness in a way that is both quintessentially “Clowesian” and utterly unique in the author’s body of work. This 180-page, full-color original graphic novel affords Clowes the opportunity to draw some of the most exuberant and breathtaking pag Patience is a psychedelic science-fiction love story, veering with uncanny precision from violent destruction to deeply personal tenderness in a way that is both quintessentially “Clowesian” and utterly unique in the author’s body of work. This 180-page, full-color original graphic novel affords Clowes the opportunity to draw some of the most exuberant and breathtaking pages of his life, and to tell his most suspenseful, surprising and affecting story yet. ...more
+
+price:
+10.16 Dollars
+

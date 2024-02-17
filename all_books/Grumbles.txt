@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/grumbles_812/index.html
+
+title:
+Grumbles
+
+availability:
+In stock (15 available)
+
+book_rating:
+40/100
+
+category:
+Default
+
+description:
+Grumbles is a little Nid that goes on her first day to school and has to answer the question of what she wants to be when she grows up. First Time Reader BookWritten and Illustrated by Sondra Faye
+
+price:
+22.16 Dollars
+

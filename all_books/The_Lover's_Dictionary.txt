@@ -1,0 +1,16 @@
+url:
+https://books.toscrape.com/catalogue/the-lovers-dictionary_262/index.html
+
+title:
+The Lover's Dictionary
+
+availability:
+In stock (3 available)
+
+book_rating:
+40/100
+
+category:
+Default
+
+description:

@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/salems-lot_309/index.html
+
+title:
+'Salem's Lot
+
+availability:
+In stock (4 available)
+
+book_rating:
+80/100
+
+category:
+Horror
+
+description:
+Thousands of miles away from the small township of 'Salem's Lot, two terrified people, a man and a boy, still share the secrets of those clapboard houses and tree-lined streets. They must return to 'Salem's Lot for a final confrontation with the unspeakable evil that lives on in the town.
+
+price:
+49.56 Dollars
+

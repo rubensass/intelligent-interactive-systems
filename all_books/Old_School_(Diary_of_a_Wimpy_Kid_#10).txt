@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/old-school-diary-of-a-wimpy-kid-10_723/index.html
+
+title:
+Old School (Diary of a Wimpy Kid #10)
+
+availability:
+In stock (14 available)
+
+book_rating:
+100/100
+
+category:
+Humor
+
+description:
+In the latest installment of the phenomenally bestselling Diary of a Wimpy Kid series, author-illustrator Jeff Kinney brings the series back to its roots, as Greg starts a new school year and faces a challenge he never could've imagined. In the latest installment of the phenomenally bestselling Diary of a Wimpy Kid series, author-illustrator Jeff Kinney brings the series back to its roots, as Greg starts a new school year and faces a challenge he never could've imagined.  ...more
+
+price:
+11.83 Dollars
+

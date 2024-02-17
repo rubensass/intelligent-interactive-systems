@@ -1,0 +1,16 @@
+url:
+https://books.toscrape.com/catalogue/10-day-green-smoothie-cleanse-lose-up-to-15-pounds-in-10-days_581/index.html
+
+title:
+10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!
+
+availability:
+In stock (10 available)
+
+book_rating:
+100/100
+
+category:
+Health
+
+description:

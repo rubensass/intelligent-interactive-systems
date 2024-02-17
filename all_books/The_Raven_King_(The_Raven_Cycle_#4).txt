@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/the-raven-king-the-raven-cycle-4_412/index.html
+
+title:
+The Raven King (The Raven Cycle #4)
+
+availability:
+In stock (5 available)
+
+book_rating:
+40/100
+
+category:
+Add a comment
+
+description:
+Nothing living is safe. Nothing dead is to be trusted.For years, Gansey has been on a quest to find a lost king. One by one, he’s drawn others into this quest: Ronan, who steals from dreams; Adam, whose life is no longer his own; Noah, whose life is no longer a lie; and Blue, who loves Gansey…and is certain she is destined to kill him.Now the endgame has begun. Dreams and Nothing living is safe. Nothing dead is to be trusted.For years, Gansey has been on a quest to find a lost king. One by one, he’s drawn others into this quest: Ronan, who steals from dreams; Adam, whose life is no longer his own; Noah, whose life is no longer a lie; and Blue, who loves Gansey…and is certain she is destined to kill him.Now the endgame has begun. Dreams and nightmares are converging. Love and loss are inseparable. And the quest refuses to be pinned to a path. ...more
+
+price:
+30.57 Dollars
+

@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/a-la-mode-120-recipes-in-60-pairings-pies-tarts-cakes-crisps-and-more-topped-with-ice-cream-gelato-frozen-custard-and-more_611/index.html
+
+title:
+A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More
+
+availability:
+In stock (12 available)
+
+book_rating:
+20/100
+
+category:
+Food and Drink
+
+description:
+Are you ready to take your baking over the top? Here are sixty decadent and delightful ice creams and the sixty desserts that are their vehicles. A la Mode offers not just solid dessert recipes, from raspberry oat bars to bear claws, from chocolate pecan pie to a white chocolate pavlova, but also gives you the unforgettable pairings that make these desserts smash hits: app Are you ready to take your baking over the top? Here are sixty decadent and delightful ice creams and the sixty desserts that are their vehicles. A la Mode offers not just solid dessert recipes, from raspberry oat bars to bear claws, from chocolate pecan pie to a white chocolate pavlova, but also gives you the unforgettable pairings that make these desserts smash hits: apple cranberry pie with Camembert ice cream, chocolate sheet cake with salt caramel frozen custard, and espresso cream jelly roll with mascarpone ice cream.Let's face it: vanilla can sometimes be so... vanilla. A great a-la-mode pairing should be as decadent as finding the perfect wine to go with your cheese plate. With A la Mode, IACP winners and cookbook dynamos Bruce Weinstein and Mark Scarbrough show you how to create innovative delights such as creamy hazelnut gelato atop coffee-poached pears, or maple frozen custard with a mouthwatering cinnamon roll cake, alongside simpler classics like confetti ice cream with layered vanilla birthday cake. You haven't lived until you've had peanut brittle pie with popcorn ice cream, a Cracker Jack fantasy!Because what's a warm pie without ice cream? With A la Mode, you'll have to answer that question! ...more
+
+price:
+38.77 Dollars
+

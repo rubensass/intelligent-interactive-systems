@@ -1,0 +1,16 @@
+url:
+https://books.toscrape.com/catalogue/city-of-bones-the-mortal-instruments-1_676/index.html
+
+title:
+City of Bones (The Mortal Instruments #1)
+
+availability:
+In stock (14 available)
+
+book_rating:
+20/100
+
+category:
+Default
+
+description:

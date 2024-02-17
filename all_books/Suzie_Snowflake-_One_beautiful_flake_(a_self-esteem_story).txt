@@ -1,0 +1,16 @@
+url:
+https://books.toscrape.com/catalogue/suzie-snowflake-one-beautiful-flake-a-self-esteem-story_568/index.html
+
+title:
+Suzie Snowflake: One beautiful flake (a self-esteem story)
+
+availability:
+In stock (9 available)
+
+book_rating:
+100/100
+
+category:
+Novels
+
+description:

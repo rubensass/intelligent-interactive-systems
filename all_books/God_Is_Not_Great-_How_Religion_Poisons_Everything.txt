@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/god-is-not-great-how-religion-poisons-everything_323/index.html
+
+title:
+God Is Not Great: How Religion Poisons Everything
+
+availability:
+In stock (4 available)
+
+book_rating:
+20/100
+
+category:
+Nonfiction
+
+description:
+In the tradition of Bertrand Russell's Why I Am Not a Christian and Sam Harris's The End of Faith, Christopher Hitchens makes the ultimate case against religion. With a close and erudite reading of the major religious texts, he documents the ways in which religion is a man-made wish, a cause of dangerous sexual repression, and a distortion of our origins in the cosmos. Hit In the tradition of Bertrand Russell's Why I Am Not a Christian and Sam Harris's The End of Faith, Christopher Hitchens makes the ultimate case against religion. With a close and erudite reading of the major religious texts, he documents the ways in which religion is a man-made wish, a cause of dangerous sexual repression, and a distortion of our origins in the cosmos. Hitchens frames the argument for a more secular life based on science and reason, in which hell is replaced by the Hubble Telescope's awesome view of the universe and Moses and the burning bush give way to the beauty and symmetry of the double helix. ...more
+
+price:
+27.80 Dollars
+

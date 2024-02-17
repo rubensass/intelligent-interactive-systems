@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/soul-reader_926/index.html
+
+title:
+Soul Reader
+
+availability:
+In stock (16 available)
+
+book_rating:
+40/100
+
+category:
+Default
+
+description:
+Along with magic realism and a plethora of literary references throughout issues such as free will and identity flood the pages. What if your destiny was decided for you? What if you were meant for more?
+
+price:
+39.58 Dollars
+

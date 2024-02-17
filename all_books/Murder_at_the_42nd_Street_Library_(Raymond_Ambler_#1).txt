@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html
+
+title:
+Murder at the 42nd Street Library (Raymond Ambler #1)
+
+availability:
+In stock (12 available)
+
+book_rating:
+80/100
+
+category:
+Mystery
+
+description:
+Murder at the 42nd Street Library opens with a murder in a second floor office of the iconic, beaux-arts flagship of the New York Public Library. Ray Ambler, the curator of the library's crime fiction collection, joins forces with NYPD homicide detective Mike Cosgrove in hopes of bringing a murderer to justice.In his search for the reasons behind the murder, Ambler uncover Murder at the 42nd Street Library opens with a murder in a second floor office of the iconic, beaux-arts flagship of the New York Public Library. Ray Ambler, the curator of the library's crime fiction collection, joins forces with NYPD homicide detective Mike Cosgrove in hopes of bringing a murderer to justice.In his search for the reasons behind the murder, Ambler uncovers hidden--and profoundly disturbing--relationships between visitors to the library. These include a celebrated mystery writer who has donated his papers to the library's crime fiction collection, that writer's missing daughter, a New York society woman with a hidden past, and one of Ambler's colleagues at the world-famous library. Those shocking revelations lead inexorably to the tragic and violent events that follow. ...more
+
+price:
+54.36 Dollars
+

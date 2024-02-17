@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/horrible-bear_168/index.html
+
+title:
+Horrible Bear!
+
+availability:
+In stock (3 available)
+
+book_rating:
+40/100
+
+category:
+Childrens
+
+description:
+The New York Times-bestselling duo behind Wolfie the Bunny presents a hilarious new book about accidents, outbursts, manners...and the power of saying "I'm sorry."Bear didn't mean to break a little girl's kite, but she's upset anyway--upset enough to shout "HORRIBLE BEAR!" Bear is indignant. He doesn't think he's horrible! Then Bear gets a truly Horrible Bear idea. What The New York Times-bestselling duo behind Wolfie the Bunny presents a hilarious new book about accidents, outbursts, manners...and the power of saying "I'm sorry."Bear didn't mean to break a little girl's kite, but she's upset anyway--upset enough to shout "HORRIBLE BEAR!" Bear is indignant. He doesn't think he's horrible! Then Bear gets a truly Horrible Bear idea. What will he do next? As Bear prepares to live up to his formerly undeserved reputation, the girl makes a mistake of her own, and realizes that maybe--just maybe--Bear isn't as horrible as she had thought. ...more
+
+price:
+37.52 Dollars
+

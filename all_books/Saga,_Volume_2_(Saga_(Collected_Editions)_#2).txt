@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/saga-volume-2-saga-collected-editions-2_107/index.html
+
+title:
+Saga, Volume 2 (Saga (Collected Editions) #2)
+
+availability:
+In stock (2 available)
+
+book_rating:
+60/100
+
+category:
+Sequential Art
+
+description:
+From award-winning writer BRIAN K. VAUGHAN (Pride of Baghdad, Ex Machina) and critically acclaimed artist FIONA STAPLES (Mystery Society, Done to Death), SAGA is sweeping tale of one young family fighting to find their place in the universe. Thanks to her star-crossed parents Marko and Alana, newborn baby Hazel has already survived lethal assassins, rampaging armies, and h From award-winning writer BRIAN K. VAUGHAN (Pride of Baghdad, Ex Machina) and critically acclaimed artist FIONA STAPLES (Mystery Society, Done to Death), SAGA is sweeping tale of one young family fighting to find their place in the universe. Thanks to her star-crossed parents Marko and Alana, newborn baby Hazel has already survived lethal assassins, rampaging armies, and horrific monsters, but in the cold vastness of outer space, the little girl encounters her strangest adventure yet... grandparents.Collects Saga issues #7-12 ...more
+
+price:
+11.75 Dollars
+

@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html
+
+title:
+The Death of Humanity: and the Case for Life
+
+availability:
+In stock (16 available)
+
+book_rating:
+80/100
+
+category:
+Philosophy
+
+description:
+Do you believe human life is inherently valuable? Unfortunately, in the secularized age of state-sanctioned euthanasia and abortion-on-demand, many are losing faith in the simple value of human life. To the disillusioned, human beings are a cosmic accident whose intrinsic value is worth no more than other animals.The Death of Humanity explores our culture's declining respe Do you believe human life is inherently valuable? Unfortunately, in the secularized age of state-sanctioned euthanasia and abortion-on-demand, many are losing faith in the simple value of human life. To the disillusioned, human beings are a cosmic accident whose intrinsic value is worth no more than other animals.The Death of Humanity explores our culture's declining respect for the sanctity of human life, drawing on philosophy and history to reveal the dark road ahead for society if we lose our faith in human life. ...more
+
+price:
+58.11 Dollars
+

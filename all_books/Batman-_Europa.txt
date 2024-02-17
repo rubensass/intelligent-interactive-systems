@@ -1,0 +1,16 @@
+url:
+https://books.toscrape.com/catalogue/batman-europa_668/index.html
+
+title:
+Batman: Europa
+
+availability:
+In stock (14 available)
+
+book_rating:
+40/100
+
+category:
+Sequential Art
+
+description:

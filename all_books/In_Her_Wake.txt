@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/in-her-wake_980/index.html
+
+title:
+In Her Wake
+
+availability:
+In stock (19 available)
+
+book_rating:
+20/100
+
+category:
+Thriller
+
+description:
+A perfect life … until she discovered it wasn’t her own.A tragic family event reveals devastating news that rips apart Bella’s comfortable existence. Embarking on a personal journey to uncover the truth, she faces a series of traumatic discoveries that take her to the ruggedly beautiful Cornish coast, where hidden truths, past betrayals and a 25-year-old mystery threaten n A perfect life … until she discovered it wasn’t her own.A tragic family event reveals devastating news that rips apart Bella’s comfortable existence. Embarking on a personal journey to uncover the truth, she faces a series of traumatic discoveries that take her to the ruggedly beautiful Cornish coast, where hidden truths, past betrayals and a 25-year-old mystery threaten not just her identity, but also her life.Chilling, complex and profoundly moving, In Her Wake is a gripping psychological thriller that questions the nature of family – and reminds us that sometimes the most shocking crimes are committed closest to home. ...more
+
+price:
+12.84 Dollars
+

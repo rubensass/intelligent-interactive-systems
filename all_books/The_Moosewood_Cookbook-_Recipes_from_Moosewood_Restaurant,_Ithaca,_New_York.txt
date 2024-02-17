@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/the-moosewood-cookbook-recipes-from-moosewood-restaurant-ithaca-new-york_574/index.html
+
+title:
+The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York
+
+availability:
+In stock (9 available)
+
+book_rating:
+80/100
+
+category:
+Food and Drink
+
+description:
+Among the most influential cookbooks of our time, the Moosewood Cookbook is such a powerful symbol that the publishers were tempted not to tamper with it. But times have changed, and knowledge about the foods we eat and their nutritional value has increased. So, after many inquiries and requests, the author has revised many of her recipes to be lighter and healthier. Illus Among the most influential cookbooks of our time, the Moosewood Cookbook is such a powerful symbol that the publishers were tempted not to tamper with it. But times have changed, and knowledge about the foods we eat and their nutritional value has increased. So, after many inquiries and requests, the author has revised many of her recipes to be lighter and healthier. Illustrated. ...more
+
+price:
+12.34 Dollars
+

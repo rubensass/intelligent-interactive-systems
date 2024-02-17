@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/kings-folly-the-kinsman-chronicles-1_473/index.html
+
+title:
+King's Folly (The Kinsman Chronicles #1)
+
+availability:
+In stock (7 available)
+
+book_rating:
+100/100
+
+category:
+Fantasy
+
+description:
+The gods are angry.Volcanic eruptions, sinkholes, ground shakers--everything points to their unhappiness. At least that is what the king of Armania believes. His son, Prince Wilek, thinks his father's superstitions are nonsense, though he remains the ever dutiful heir apparent to the throne.When a messenger arrives and claims that the town of Farway has been swallowed by t The gods are angry.Volcanic eruptions, sinkholes, ground shakers--everything points to their unhappiness. At least that is what the king of Armania believes. His son, Prince Wilek, thinks his father's superstitions are nonsense, though he remains the ever dutiful heir apparent to the throne.When a messenger arrives and claims that the town of Farway has been swallowed by the earth, the king sends Wilek to investigate. But what Wilek discovers is more cataclysmic than one lost city. Even as the ground shifts beneath his feet, Wilek sets out on a desperate journey to save his people and his world. But can he do it before the entire land crumbles? ...more
+
+price:
+39.61 Dollars
+

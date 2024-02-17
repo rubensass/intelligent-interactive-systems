@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/while-you-were-mine_97/index.html
+
+title:
+While You Were Mine
+
+availability:
+In stock (1 available)
+
+book_rating:
+100/100
+
+category:
+Historical Fiction
+
+description:
+Everything she loved could so easily be lost.The end of World War II should have brought joy to Gwen Mullen. But on V-J Day, her worst fear is realized. As celebrating crowds gather in Times Square, a soldier appears on her doorstep to claim Mary, the baby abandoned to Gwen one year earlier. Suddenly Gwen is on the verge of losing the child she has nurtured and loves dearl Everything she loved could so easily be lost.The end of World War II should have brought joy to Gwen Mullen. But on V-J Day, her worst fear is realized. As celebrating crowds gather in Times Square, a soldier appears on her doorstep to claim Mary, the baby abandoned to Gwen one year earlier. Suddenly Gwen is on the verge of losing the child she has nurtured and loves dearly.With no legal claim to Mary, Gwen begins to teach Lieutenant John McKee how to care for his child, knowing that he will ultimately take Mary away. What starts as a contentious relationship, however, turns into something more, and Gwen must open her heart to learn that love means taking chances.While You Were Mine paints a vivid portrait of 1940s New York and tells an enchanting tale of the nature of love and trust. ...more
+
+price:
+41.32 Dollars
+

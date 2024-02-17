@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/three-wishes-river-of-time-california-1_89/index.html
+
+title:
+Three Wishes (River of Time: California #1)
+
+availability:
+In stock (1 available)
+
+book_rating:
+40/100
+
+category:
+Science Fiction
+
+description:
+BE CAREFUL WHAT YOU WISH FOR. BECAUSE YOU JUST MIGHT GET IT. Zara Ruiz is a normal California girl on the verge of graduating high school and thinking about her dawning future. But when dusk brings a shattering loss—and she discovers a priceless object in the shallows of a tide pool—she is thrust a hundred-and-eighty years into the past. There she meets handsome ranchero J BE CAREFUL WHAT YOU WISH FOR. BECAUSE YOU JUST MIGHT GET IT. Zara Ruiz is a normal California girl on the verge of graduating high school and thinking about her dawning future. But when dusk brings a shattering loss—and she discovers a priceless object in the shallows of a tide pool—she is thrust a hundred-and-eighty years into the past. There she meets handsome ranchero Javier de la Ventura—who has big dreams and bigger secrets—along with his enchanting family, in a land that is at once familiar, and yet utterly foreign. Between cattle rustlers, pirates and a growing call for statehood, it is not a peaceful time to be a Mexican settler in young Alta California. But it is in that time and place that Zara must decide if she can find what she longs for most in the past, or if her heart's THREE WISHES can only be resolved in the present. ...more
+
+price:
+44.18 Dollars
+

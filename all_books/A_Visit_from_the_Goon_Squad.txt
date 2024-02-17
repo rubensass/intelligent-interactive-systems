@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/a-visit-from-the-goon-squad_117/index.html
+
+title:
+A Visit from the Goon Squad
+
+availability:
+In stock (3 available)
+
+book_rating:
+100/100
+
+category:
+Default
+
+description:
+Bennie is an aging former punk rocker and record executive. Sasha is the passionate, troubled young woman he employs. Here Jennifer Egan brilliantly reveals their pasts, along with the inner lives of a host of other characters whose paths intersect with theirs. With music pulsing on every page, A Visit from the Goon Squad is a startling, exhilarating novel of self-destruct Bennie is an aging former punk rocker and record executive. Sasha is the passionate, troubled young woman he employs. Here Jennifer Egan brilliantly reveals their pasts, along with the inner lives of a host of other characters whose paths intersect with theirs. With music pulsing on every page, A Visit from the Goon Squad is a startling, exhilarating novel of self-destruction and redemption. ...more
+
+price:
+14.08 Dollars
+

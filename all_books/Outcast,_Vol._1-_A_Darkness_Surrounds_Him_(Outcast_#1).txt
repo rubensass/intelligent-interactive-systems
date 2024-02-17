@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html
+
+title:
+Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)
+
+availability:
+In stock (16 available)
+
+book_rating:
+80/100
+
+category:
+Sequential Art
+
+description:
+NEW HORROR SERIES FROM THE WALKING DEAD CREATOR ROBERT KIRKMAN! Kyle Barnes has been plagued by demonic possession all his life and now he needs answers. Unfortunately, what he uncovers along the way could bring about the end of life on Earth as we know it. Collects OUTCAST BY KIRKMAN & AZACETA #1-6.
+
+price:
+15.44 Dollars
+

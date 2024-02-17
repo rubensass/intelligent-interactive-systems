@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/the-nameless-city-the-nameless-city-1_940/index.html
+
+title:
+The Nameless City (The Nameless City #1)
+
+availability:
+In stock (16 available)
+
+book_rating:
+80/100
+
+category:
+Sequential Art
+
+description:
+Every nation that invades the City gives it a new name. But before long, new invaders arrive and the City changes hands once again. The natives don't let themselves get caught up in the unending wars. To them, their home is the Nameless City, and those who try to name it are forever outsiders.Kaidu is one such outsider. He's a Dao born and bred--a member of the latest occu Every nation that invades the City gives it a new name. But before long, new invaders arrive and the City changes hands once again. The natives don't let themselves get caught up in the unending wars. To them, their home is the Nameless City, and those who try to name it are forever outsiders.Kaidu is one such outsider. He's a Dao born and bred--a member of the latest occupying nation. Rat is a native of the Nameless City. At first, she hates Kai for everything he stands for, but his love of his new home may be the one thing that can bring these two unlikely friends together. Let's hope so, because the fate of the Nameless City rests in their hands. ...more
+
+price:
+38.16 Dollars
+

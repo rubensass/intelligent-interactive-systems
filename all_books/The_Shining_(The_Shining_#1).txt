@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/the-shining-the-shining-1_354/index.html
+
+title:
+The Shining (The Shining #1)
+
+availability:
+In stock (4 available)
+
+book_rating:
+60/100
+
+category:
+Default
+
+description:
+Danny was only five years old but in the words of old Mr Halloran he was a 'shiner', aglow with psychic voltage. When his father became caretaker of the Overlook Hotel his visions grew frighteningly out of control. As winter closed in and blizzards cut them off, the hotel seemed to develop a life of its own. It was meant to be empty, but who was the lady in Room 217, and w Danny was only five years old but in the words of old Mr Halloran he was a 'shiner', aglow with psychic voltage. When his father became caretaker of the Overlook Hotel his visions grew frighteningly out of control. As winter closed in and blizzards cut them off, the hotel seemed to develop a life of its own. It was meant to be empty, but who was the lady in Room 217, and who were the masked guests going up and down in the elevator? And why did the hedges shaped like animals seem so alive? Somewhere, somehow there was an evil force in the hotel - and that too had begun to shine... ...more
+
+price:
+27.88 Dollars
+

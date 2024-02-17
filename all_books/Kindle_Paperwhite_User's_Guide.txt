@@ -1,0 +1,21 @@
+url:
+https://books.toscrape.com/catalogue/kindle-paperwhite-users-guide_103/index.html
+
+title:
+Kindle Paperwhite User's Guide
+
+availability:
+In stock (2 available)
+
+book_rating:
+60/100
+
+category:
+Nonfiction
+
+description:
+Kindle Paperwhite User's Guide
+
+price:
+34.00 Dollars
+
