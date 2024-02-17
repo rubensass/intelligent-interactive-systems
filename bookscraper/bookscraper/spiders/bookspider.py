@@ -70,16 +70,16 @@ class BookspiderSpider(scrapy.Spider):
             price=price,
         )
 
-        if os.path.exists(self.file_path) and os.path.getsize(self.file_path) > 0:
-            with open(self.file_path, "r") as json_file:
-                my_list = json.load(json_file)
-        else:
-            my_list = []
-
-        my_list.append(book_item.__dict__)
-
-        with open(self.file_path, "w", encoding="utf-8") as json_file:
-            json.dump(my_list, json_file, indent=4)
+        file_name = (
+            book_item.title.replace(" ", "_").replace(":", "-").replace(";", "-")
+        )
+        with open(f"all_books/{file_name}.txt", "w") as f:
+            for key, value in book_item.__dict__.items():
+                f.write(f"{key}:")
+                f.write("\n")
+                f.write(f"{value}")
+                f.write("\n")
+                f.write("\n")
 
         yield book_item
 
