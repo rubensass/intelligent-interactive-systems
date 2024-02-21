@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/fruits-basket-vol-1-fruits-basket-1_21/index.html
+
+title:
+Fruits Basket, Vol. 1 (Fruits Basket  1)
+
+availability:
+In stock (1 available)
+
+Below is the average score given to the book by other readers:
+100/100
+
+category:
+Sequential Art
+
+description:
+A family with an ancient curse...And the girl who will change their lives forever...Tohru Honda was an orphan with no place to go until the mysterious Sohma family offered her a place to call home. Now her ordinary high school life is turned upside down as she s introduced to the Sohma s world of magical curses and family secrets.
+
+Below is the retail price of the book on the library's website:
+40.28 Dollars
+

@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html
+
+title:
+Hide Away (Eve Duncan  20)
+
+availability:
+In stock (12 available)
+
+Below is the average score given to the book by other readers:
+20/100
+
+category:
+Mystery
+
+description:
+Iris Johansen s beloved forensic sculptor Eve Duncan is back and now the stakes are higher than ever. Dramatic changes are on the horizon for Eve and Joe Quinn and their relationship may never be the same. Faced with the task of protecting Cara Delaney, a young girl with ruthless enemies who want to see her dead, Eve takes her away to the remote Scottish Highlands where th Iris Johansen s beloved forensic sculptor Eve Duncan is back and now the stakes are higher than ever. Dramatic changes are on the horizon for Eve and Joe Quinn and their relationship may never be the same. Faced with the task of protecting Cara Delaney, a young girl with ruthless enemies who want to see her dead, Eve takes her away to the remote Scottish Highlands where they join Jane MacGuire in search of a hidden treasure. But nowhere is far enough away to protect Cara from danger. With enemies closing in from all sides, Hide Away is a high octane thriller that fans will not want to miss. ...more
+
+Below is the retail price of the book on the library's website:
+11.84 Dollars
+

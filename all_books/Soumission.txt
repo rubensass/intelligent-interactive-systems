@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/soumission_998/index.html
+
+title:
+Soumission
+
+availability:
+In stock (20 available)
+
+Below is the average score given to the book by other readers:
+20/100
+
+category:
+Fiction
+
+description:
+Dans une France assez proche de la notre, un homme s engage dans la carriere universitaire. Peu motive par l enseignement, il s attend a une vie ennuyeuse mais calme, protegee des grands drames historiques. Cependant les forces en jeu dans le pays ont fissure le systeme politique jusqu a provoquer son effondrement. Cette implosion sans soubresauts, sans vraie revolution, s Dans une France assez proche de la notre, un homme s engage dans la carriere universitaire. Peu motive par l enseignement, il s attend a une vie ennuyeuse mais calme, protegee des grands drames historiques. Cependant les forces en jeu dans le pays ont fissure le systeme politique jusqu a provoquer son effondrement. Cette implosion sans soubresauts, sans vraie revolution, se developpe comme un mauvais reve.Le talent de l auteur, sa force visionnaire nous entrainent sur un terrain ambigu et glissant ; son regard sur notre civilisation vieillissante fait coexister dans ce roman les intuitions poetiques, les effets comiques, une melancolie fataliste.Ce livre est une saisissante fable politique et morale. ...more
+
+Below is the retail price of the book on the library's website:
+50.10 Dollars
+

@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/amatus_787/index.html
+
+title:
+Amatus
+
+availability:
+In stock (15 available)
+
+Below is the average score given to the book by other readers:
+100/100
+
+category:
+Default
+
+description:
+Crispian, who has lived in a city of darkness all his life, must make a choice: remain safe in his home, but forever wonder what the mysterious light on the horizon could be  or trust a young woman to guide him to a wonderful realm he s never seen, and risk being deceived and led to a terrible death.
+
+Below is the retail price of the book on the library's website:
+50.54 Dollars
+

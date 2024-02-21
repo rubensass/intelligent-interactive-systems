@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-stranger_861/index.html
+
+title:
+The Stranger
+
+availability:
+In stock (15 available)
+
+Below is the average score given to the book by other readers:
+80/100
+
+category:
+Philosophy
+
+description:
+This is an alternate cover edition for ISBN 0679720200.Through the story of an ordinary man unwittingly drawn into a senseless murder on an Algerian beach, Camus explored what he termed  the nakedness of man faced with the absurd.  First published in English in 1946; now in a new translation by Matthew Ward.
+
+Below is the retail price of the book on the library's website:
+17.44 Dollars
+

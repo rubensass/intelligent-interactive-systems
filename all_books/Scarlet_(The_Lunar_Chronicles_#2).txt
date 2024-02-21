@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/scarlet-the-lunar-chronicles-2_218/index.html
+
+title:
+Scarlet (The Lunar Chronicles  2)
+
+availability:
+In stock (3 available)
+
+Below is the average score given to the book by other readers:
+80/100
+
+category:
+Young Adult
+
+description:
+Cinder, the cyborg mechanic, returns in the second thrilling installment of the bestselling Lunar Chronicles. She s trying to break out of prison  even though if she succeeds, she ll be the Commonwealth s most wanted fugitive. Halfway around the world, Scarlet Benoit s grandmother is missing. It turns out there are many things Scarlet doesn t know about her grandmother or t Cinder, the cyborg mechanic, returns in the second thrilling installment of the bestselling Lunar Chronicles. She s trying to break out of prison  even though if she succeeds, she ll be the Commonwealth s most wanted fugitive. Halfway around the world, Scarlet Benoit s grandmother is missing. It turns out there are many things Scarlet doesn t know about her grandmother or the grave danger she has lived in her whole life. When Scarlet encounters Wolf, a street fighter who may have information as to her grandmother s whereabouts, she is loath to trust this stranger, but is inexplicably drawn to him, and he to her. As Scarlet and Wolf unravel one mystery, they encounter another when they meet Cinder. Now, all of them must stay one step ahead of the vicious Lunar Queen Levana, who will do anything for the handsome Prince Kai to become her husband, her king, her prisoner. ...more
+
+Below is the retail price of the book on the library's website:
+14.57 Dollars
+

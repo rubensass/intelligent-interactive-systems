@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/salt_731/index.html
+
+title:
+salt.
+
+availability:
+In stock (14 available)
+
+Below is the average score given to the book by other readers:
+80/100
+
+category:
+Poetry
+
+description:
+Salt is a journey through warmth and sharpness. This collection of poetry explores the realities of multiple identities, language, diasporic life   pain, the self, community, healing, celebration, and love.
+
+Below is the retail price of the book on the library's website:
+46.78 Dollars
+

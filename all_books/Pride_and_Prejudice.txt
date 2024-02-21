@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/pride-and-prejudice_437/index.html
+
+title:
+Pride and Prejudice
+
+availability:
+In stock (6 available)
+
+Below is the average score given to the book by other readers:
+80/100
+
+category:
+Add a comment
+
+description:
+ It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. So begins Pride and Prejudice, Jane Austen s witty comedy of manners  one of the most popular novels of all time  that features splendidly civilized sparring between the proud Mr. Darcy and the prejudiced Elizabeth Bennet as they play out their spirited cou  It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. So begins Pride and Prejudice, Jane Austen s witty comedy of manners  one of the most popular novels of all time  that features splendidly civilized sparring between the proud Mr. Darcy and the prejudiced Elizabeth Bennet as they play out their spirited courtship in a series of eighteenth century drawing room intrigues. ...more
+
+Below is the retail price of the book on the library's website:
+19.27 Dollars
+

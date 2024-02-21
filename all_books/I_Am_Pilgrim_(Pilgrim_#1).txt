@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/i-am-pilgrim-pilgrim-1_703/index.html
+
+title:
+I Am Pilgrim (Pilgrim  1)
+
+availability:
+In stock (14 available)
+
+Below is the average score given to the book by other readers:
+80/100
+
+category:
+Fiction
+
+description:
+A breakneck race against time...and an implacable enemy.An anonymous young woman murdered in a run down hotel, all identifying characteristics dissolved by acid. A father publicly beheaded in the blistering heat of a Saudi Arabian public square. A notorious Syrian biotech expert found eyeless in a Damascus junkyard. Smoldering human remains on a remote mountainside in Afgh A breakneck race against time...and an implacable enemy.An anonymous young woman murdered in a run down hotel, all identifying characteristics dissolved by acid. A father publicly beheaded in the blistering heat of a Saudi Arabian public square. A notorious Syrian biotech expert found eyeless in a Damascus junkyard. Smoldering human remains on a remote mountainside in Afghanistan. A flawless plot to commit an appalling crime against humanity. One path links them all, and only one man can make the journey.Pilgrim. ...more
+
+Below is the retail price of the book on the library's website:
+10.60 Dollars
+

@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/nap-a-roo_567/index.html
+
+title:
+Nap a Roo
+
+availability:
+In stock (9 available)
+
+Below is the average score given to the book by other readers:
+20/100
+
+category:
+Childrens
+
+description:
+Finalist, 9th Annual National Indie Excellence Awards Fast, fun, and engaging, this book makes sleepy time special for children and parents alike. Follow the kangaroo through the zoo as he gets ready for a nap a roo. Little ones can t get enough of this adorable modern book that centers around naps. With colorful images and imaginative text, this story is easy to fall in l Finalist, 9th Annual National Indie Excellence Awards Fast, fun, and engaging, this book makes sleepy time special for children and parents alike. Follow the kangaroo through the zoo as he gets ready for a nap a roo. Little ones can t get enough of this adorable modern book that centers around naps. With colorful images and imaginative text, this story is easy to fall in love with. Children will enjoy taking a nap a roo just like the kangaroo. ...more
+
+Below is the retail price of the book on the library's website:
+25.08 Dollars
+

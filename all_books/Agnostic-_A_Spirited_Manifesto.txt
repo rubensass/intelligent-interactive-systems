@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/agnostic-a-spirited-manifesto_786/index.html
+
+title:
+Agnostic: A Spirited Manifesto
+
+availability:
+In stock (15 available)
+
+Below is the average score given to the book by other readers:
+100/100
+
+category:
+Nonfiction
+
+description:
+A widely admired writer on religion celebrates agnosticism as the most vibrant, engaging  and ultimately the most honest  stance toward the mysteries of existence. One in four Americans reject any affiliation with organized religion, and nearly half of those under thirty describe themselves as  spiritual but not religious.  But as the airwaves resound with the haranguing of A widely admired writer on religion celebrates agnosticism as the most vibrant, engaging  and ultimately the most honest  stance toward the mysteries of existence. One in four Americans reject any affiliation with organized religion, and nearly half of those under thirty describe themselves as  spiritual but not religious.  But as the airwaves resound with the haranguing of preachers and pundits, who speaks for the millions who find no joy in whittling the wonder of existence to a simple yes/no choice? Lesley Hazleton does. In this provocative, brilliant book, she gives voice to the case for agnosticism, breaks it free of its stereotypes as watered down atheism or amorphous  seeking,  and celebrates it as a reasoned, revealing, and sustaining stance toward life. Stepping over the lines imposed by rigid conviction, she draws on philosophy, theology, psychology, science, and more to explore, with curiosity and passion, the vital role of mystery in a deceptively information rich world; to ask what we mean by the search for meaning; to invoke the humbling yet elating perspective of infinity; to challenge received ideas about death; and to reconsider what  the soul  might be. Inspired and inspiring, Agnostic recasts the question of belief not as a problem to be solved but as an invitation to an ongoing, open ended adventure of the mind. ...more
+
+Below is the retail price of the book on the library's website:
+12.51 Dollars
+

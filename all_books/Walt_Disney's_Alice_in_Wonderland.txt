@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/walt-disneys-alice-in-wonderland_777/index.html
+
+title:
+Walt Disney s Alice in Wonderland
+
+availability:
+In stock (14 available)
+
+Below is the average score given to the book by other readers:
+100/100
+
+category:
+Childrens
+
+description:
+The fantastical tale of a young girl chasing her White Rabbit has delighted children since Lewis Carroll wrote it generations ago. Here his Wonderland shines anew, viewed through the looking glasses of two incomparable artists.Mary Blair s vibrant art helped shape the look of Walt Disney s classic animated film. Collected in a picture book for the first time, her illustrat The fantastical tale of a young girl chasing her White Rabbit has delighted children since Lewis Carroll wrote it generations ago. Here his Wonderland shines anew, viewed through the looking glasses of two incomparable artists.Mary Blair s vibrant art helped shape the look of Walt Disney s classic animated film. Collected in a picture book for the first time, her illustrations capture the essence of such memorable characters as the Queen of Hearts and the Mad Hatter with stunning immediacy. Jon Scieszka s captivating text celebrates all that is curious and all that is nonsensical about the world that holds Alice spellbound, from a deliciously absurd tea party to the spectacle of a kingdom of playing cards . Brimming with wit and wonder, this sparkling retelling will enchant readers from the moment Alice falls down the rabbit hole, whether or not they ve made the journey before. ...more
+
+Below is the retail price of the book on the library's website:
+12.96 Dollars
+

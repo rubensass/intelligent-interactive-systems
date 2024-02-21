@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/a-peoples-history-of-the-united-states_654/index.html
+
+title:
+A People s History of the United States
+
+availability:
+In stock (14 available)
+
+Below is the average score given to the book by other readers:
+40/100
+
+category:
+Add a comment
+
+description:
+Known for its lively, clear prose as well as its scholarly research, A People s History of the United States is the only volume to tell America s story from the point of view of   and in the words of   America s women, factory workers, African Americans, Native Americans, working poor, and immigrant laborers.
+
+Below is the retail price of the book on the library's website:
+40.79 Dollars
+

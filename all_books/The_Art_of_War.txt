@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-art-of-war_838/index.html
+
+title:
+The Art of War
+
+availability:
+In stock (15 available)
+
+Below is the average score given to the book by other readers:
+100/100
+
+category:
+Default
+
+description:
+Conflict is an inevitable part of life, according to this ancient Chinese classic of strategy, but everything necessary to deal with conflict wisely, honorably, victoriously, is already present within us. Compiled more than two thousand years ago by a mysterious warrior philosopher, The Art of War is still perhaps the most prestigious and influential book of strategy in t Conflict is an inevitable part of life, according to this ancient Chinese classic of strategy, but everything necessary to deal with conflict wisely, honorably, victoriously, is already present within us. Compiled more than two thousand years ago by a mysterious warrior philosopher, The Art of War is still perhaps the most prestigious and influential book of strategy in the world, as eagerly studied in Asia by modern politicians and executives as it has been by military leaders since ancient times. As a study of the anatomy of organizations in conflict, The Art of War applies to competition and conflict in general, on every level from the interpersonal to the international. Its aim is invincibility, victory without battle, and unassailable strength through understanding the physics, politics, and psychology of conflict.(Original publication date was circa 500 BCE.)For an outstanding Kindle edition, please refer to The Art of War by Sun Tzu   Classic Collector s Edition (Shawn Conners, Barton Williams, Lionel Giles, Sian Kim) ...more
+
+Below is the retail price of the book on the library's website:
+33.34 Dollars
+

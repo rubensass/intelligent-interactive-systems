@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/alight-the-generations-trilogy-2_360/index.html
+
+title:
+Alight (The Generations Trilogy  2)
+
+availability:
+In stock (5 available)
+
+Below is the average score given to the book by other readers:
+80/100
+
+category:
+Default
+
+description:
+Alight is the second installment in the YA sci fi adventure trilogy by New York Times bestselling author Scott Sigler, hot on the heels of Alive.Alight reveals to readers the further adventures of Em, Spingate, O Malley, Bishop, and the other young heroes introduced in Alive. In Alive, Em fought to assert herself as leader and her friends tried to comprehend their own myst Alight is the second installment in the YA sci fi adventure trilogy by New York Times bestselling author Scott Sigler, hot on the heels of Alive.Alight reveals to readers the further adventures of Em, Spingate, O Malley, Bishop, and the other young heroes introduced in Alive. In Alive, Em fought to assert herself as leader and her friends tried to comprehend their own mysterious identity; now she must wrestle not with the challenge of winning power but the grave responsibility of having assumed it, and she and her friends must contend with a grim fact: the revelation of their identity is not an answer but another question  and one with terrifying implications. ...more
+
+Below is the retail price of the book on the library's website:
+58.59 Dollars
+

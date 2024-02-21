@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html
+
+title:
+The Mysterious Affair at Styles (Hercule Poirot  1)
+
+availability:
+In stock (6 available)
+
+Below is the average score given to the book by other readers:
+80/100
+
+category:
+Mystery
+
+description:
+Poirot, a Belgian refugee of the Great War, is settling in England near the home of Emily Inglethorp, who helped him to his new life. His friend Hastings arrives as a guest at her home. When the woman is killed, Poirot uses his detective skills to solve the mystery.
+
+Below is the retail price of the book on the library's website:
+24.80 Dollars
+

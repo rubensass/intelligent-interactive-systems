@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/gone-girl_162/index.html
+
+title:
+Gone Girl
+
+availability:
+In stock (3 available)
+
+Below is the average score given to the book by other readers:
+100/100
+
+category:
+Default
+
+description:
+On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick s clever and beautiful wife disappears. Husband of the Year Nick isn t doing himself any favors with cringe worthy daydreams about the slope and shape of his wife s head, but passages from Amy s dia On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick s clever and beautiful wife disappears. Husband of the Year Nick isn t doing himself any favors with cringe worthy daydreams about the slope and shape of his wife s head, but passages from Amy s diary reveal the alpha girl perfectionist could have put anyone dangerously on edge. Under mounting pressure from the police and the media  as well as Amy s fiercely doting parents  the town golden boy parades an endless series of lies, deceits, and inappropriate behavior. Nick is oddly evasive, and he s definitely bitter  but is he really a killer?  ...more
+
+Below is the retail price of the book on the library's website:
+37.60 Dollars
+

@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/critique-of-pure-reason_366/index.html
+
+title:
+Critique of Pure Reason
+
+availability:
+In stock (5 available)
+
+Below is the average score given to the book by other readers:
+20/100
+
+category:
+Philosophy
+
+description:
+This entirely new translation of Critique of Pure Reason is the most accurate and informative English translation ever produced of this epochal philosophical text. Though its simple, direct style will make it suitable for all new readers of Kant, the translation displays a philosophical and textual sophistication that will enlighten Kant scholars as well. This translation This entirely new translation of Critique of Pure Reason is the most accurate and informative English translation ever produced of this epochal philosophical text. Though its simple, direct style will make it suitable for all new readers of Kant, the translation displays a philosophical and textual sophistication that will enlighten Kant scholars as well. This translation recreates as far as possible a text with the same interpretative nuances and richness as the original.This translation of Kant s Critique is a superb volume that forms the heart of Cambridge s excellent series of translations of Kant s works. Because of the quality of the translation, but also because of the various supplementary materials which it provides...it will very likely replace Norman Kemp Smith s translation as the standard edition for scholars. It is difficult to imagine that anyone would be able to improve on this volume in the foreseeable future. ...more
+
+Below is the retail price of the book on the library's website:
+20.75 Dollars
+

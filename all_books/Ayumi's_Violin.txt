@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/ayumis-violin_791/index.html
+
+title:
+Ayumi s Violin
+
+availability:
+In stock (15 available)
+
+Below is the average score given to the book by other readers:
+40/100
+
+category:
+Default
+
+description:
+In 1959 when her mother dies, twelve year old Ayumi leaves her home in Japan to find her American father. Biracial, she is confronted with a resentful half sister and a racist stepmother. She wants to be accepted by her new family, but how much of her true self must she give up? Ayumi s only solace is her music. When she is deprived of her violin, she shocks even herself b In 1959 when her mother dies, twelve year old Ayumi leaves her home in Japan to find her American father. Biracial, she is confronted with a resentful half sister and a racist stepmother. She wants to be accepted by her new family, but how much of her true self must she give up? Ayumi s only solace is her music. When she is deprived of her violin, she shocks even herself by doing the unthinkable. ...more
+
+Below is the retail price of the book on the library's website:
+15.48 Dollars
+

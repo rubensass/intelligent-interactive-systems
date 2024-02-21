@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/maybe-something-beautiful-how-art-transformed-a-neighborhood_386/index.html
+
+title:
+Maybe Something Beautiful: How Art Transformed a Neighborhood
+
+availability:
+In stock (5 available)
+
+Below is the average score given to the book by other readers:
+20/100
+
+category:
+Childrens
+
+description:
+What good can a splash of color do in a community of gray? As Mira and her neighbors discover, more than you might ever imagine! Based on the true story of the Urban Art Trail in San Diego, California, Maybe Something Beautiful reveals how art can inspire transformation  and how even the smallest artists can accomplish something big. Pick up a paintbrush and join the celebr What good can a splash of color do in a community of gray? As Mira and her neighbors discover, more than you might ever imagine! Based on the true story of the Urban Art Trail in San Diego, California, Maybe Something Beautiful reveals how art can inspire transformation  and how even the smallest artists can accomplish something big. Pick up a paintbrush and join the celebration!   ...more
+
+Below is the retail price of the book on the library's website:
+22.54 Dollars
+

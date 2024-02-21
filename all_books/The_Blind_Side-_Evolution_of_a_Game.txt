@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-blind-side-evolution-of-a-game_231/index.html
+
+title:
+The Blind Side: Evolution of a Game
+
+availability:
+In stock (3 available)
+
+Below is the average score given to the book by other readers:
+100/100
+
+category:
+Add a comment
+
+description:
+When we first meet Michael Oher is one of thirteen children by a mother addicted to crack; he does not know his real name, his father, his birthday, or how to read or write. He takes up football, and school, after a rich, white, Evangelical family plucks him from the streets. Then two great forces alter Oher: the family s love and the evolution of professional football its When we first meet Michael Oher is one of thirteen children by a mother addicted to crack; he does not know his real name, his father, his birthday, or how to read or write. He takes up football, and school, after a rich, white, Evangelical family plucks him from the streets. Then two great forces alter Oher: the family s love and the evolution of professional football itself into a game in which the quarterback must be protected at any cost. Our protagonist becomes the priceless package of size, speed, and agility necessary to guard the quarterback s greatest vulnerability: his blind side. ...more
+
+Below is the retail price of the book on the library's website:
+53.71 Dollars
+

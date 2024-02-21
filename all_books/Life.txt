@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/life_104/index.html
+
+title:
+Life
+
+availability:
+In stock (2 available)
+
+Below is the average score given to the book by other readers:
+100/100
+
+category:
+Music
+
+description:
+With the Rolling Stones, Keith Richards created the riffs, the lyrics and the songs that roused the world, and over four decades he lived the original rock and roll life. Now, at last, the man himself tells us the story of life in the crossfire hurricane.
+
+Below is the retail price of the book on the library's website:
+31.58 Dollars
+

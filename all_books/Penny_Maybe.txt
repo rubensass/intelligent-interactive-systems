@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/penny-maybe_965/index.html
+
+title:
+Penny Maybe
+
+availability:
+In stock (18 available)
+
+Below is the average score given to the book by other readers:
+60/100
+
+category:
+Default
+
+description:
+Sent to yet another foster family, Penny decides that the way to claim a sense of self is to swim Lake Ontario. Although this seems impossible, she finds the courage to ask her physics teacher to be her coach, and wins the support of her new foster mother.
+
+Below is the retail price of the book on the library's website:
+33.29 Dollars
+

@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-girl-with-all-the-gifts_250/index.html
+
+title:
+The Girl with All the Gifts
+
+availability:
+In stock (3 available)
+
+Below is the average score given to the book by other readers:
+60/100
+
+category:
+Horror
+
+description:
+Melanie is a very special girl. Dr. Caldwell calls her  our little genius. Every morning, Melanie waits in her cell to be collected for class. When they come for her, Sergeant Parks keeps his gun pointing at her while two of his people strap her into the wheelchair. She thinks they don t like her. She jokes that she won t bite, but they don t laugh.Melanie loves school. Sh Melanie is a very special girl. Dr. Caldwell calls her  our little genius. Every morning, Melanie waits in her cell to be collected for class. When they come for her, Sergeant Parks keeps his gun pointing at her while two of his people strap her into the wheelchair. She thinks they don t like her. She jokes that she won t bite, but they don t laugh.Melanie loves school. She loves learning about spelling and sums and the world outside the classroom and the children s cells. She tells her favorite teacher all the things she ll do when she grows up. Melanie doesn t know why this makes Miss Justineau look sad. ...more
+
+Below is the retail price of the book on the library's website:
+49.47 Dollars
+

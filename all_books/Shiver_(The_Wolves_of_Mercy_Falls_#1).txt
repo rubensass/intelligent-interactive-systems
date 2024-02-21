@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/shiver-the-wolves-of-mercy-falls-1_392/index.html
+
+title:
+Shiver (The Wolves of Mercy Falls  1)
+
+availability:
+In stock (5 available)
+
+Below is the average score given to the book by other readers:
+100/100
+
+category:
+Default
+
+description:
+For years, Grace has watched the wolves in the woods behind her house. One yellow eyed wolf  her wolf  is a chilling presence she can t seem to live without.Meanwhile, Sam has lived two lives: In winter, the frozen woods, the protection of the pack, and the silent company of a fearless girl. In summer, a few precious months of being human... until the cold makes him shift back For years, Grace has watched the wolves in the woods behind her house. One yellow eyed wolf  her wolf  is a chilling presence she can t seem to live without.Meanwhile, Sam has lived two lives: In winter, the frozen woods, the protection of the pack, and the silent company of a fearless girl. In summer, a few precious months of being human... until the cold makes him shift back again.Now, Grace meets a yellow eyed boy whose familiarity takes her breath away. It s her wolf. It has to be. But as winter nears, Sam must fight to stay human  or risk losing himself, and Grace, forever. ...more
+
+Below is the retail price of the book on the library's website:
+16.23 Dollars
+

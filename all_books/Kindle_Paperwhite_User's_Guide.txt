@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/kindle-paperwhite-users-guide_103/index.html
+
+title:
+Kindle Paperwhite User s Guide
+
+availability:
+In stock (2 available)
+
+Below is the average score given to the book by other readers:
+60/100
+
+category:
+Nonfiction
+
+description:
+Kindle Paperwhite User s Guide
+
+Below is the retail price of the book on the library's website:
+34.00 Dollars
+

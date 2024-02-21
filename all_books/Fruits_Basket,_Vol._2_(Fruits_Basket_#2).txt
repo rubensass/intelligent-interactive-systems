@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/fruits-basket-vol-2-fruits-basket-2_100/index.html
+
+title:
+Fruits Basket, Vol. 2 (Fruits Basket  2)
+
+availability:
+In stock (2 available)
+
+Below is the average score given to the book by other readers:
+100/100
+
+category:
+Sequential Art
+
+description:
+A family with an ancient curse...And the girl who will change their lives forever...Ever since Tohru Honda discovered the Zodiac secret of the Sohma clan, her eyes have opened to a world of magic and wonder. But with such a great secret comes great responsibility. When her best friends Hana chan and Uo chan come to the Sohma home for a sleepover, Tohru has her work cut out A family with an ancient curse...And the girl who will change their lives forever...Ever since Tohru Honda discovered the Zodiac secret of the Sohma clan, her eyes have opened to a world of magic and wonder. But with such a great secret comes great responsibility. When her best friends Hana chan and Uo chan come to the Sohma home for a sleepover, Tohru has her work cut out for her keeping the  Cat  in the bag and the  Dog  on a leash. ...more
+
+Below is the retail price of the book on the library's website:
+11.64 Dollars
+

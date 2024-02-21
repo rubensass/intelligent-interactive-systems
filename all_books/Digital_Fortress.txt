@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/digital-fortress_369/index.html
+
+title:
+Digital Fortress
+
+availability:
+In stock (5 available)
+
+Below is the average score given to the book by other readers:
+100/100
+
+category:
+Fiction
+
+description:
+Before the multi million, runaway bestseller The Da Vinci Code, Dan Brown set his razor sharp research and storytelling skills on the most powerful intelligence organization on earth  the National Security Agency (NSA), an ultra secret, multibillion dollar agency many times more powerful than the CIA.When the NSA s invincible code breaking machine encounters a mysterious c Before the multi million, runaway bestseller The Da Vinci Code, Dan Brown set his razor sharp research and storytelling skills on the most powerful intelligence organization on earth  the National Security Agency (NSA), an ultra secret, multibillion dollar agency many times more powerful than the CIA.When the NSA s invincible code breaking machine encounters a mysterious code it cannot break, the agency calls its head cryptographer, Susan Fletcher, a brilliant and beautiful mathematician. What she uncovers sends shock waves through the corridors of power. The NSA is being held hostage...not by guns or bombs, but by a code so ingeniously complex that if released it would cripple U.S. intelligence.Caught in an accelerating tempest of secrecy and lies, Susan Fletcher battles to save the agency she believes in. Betrayed on all sides, she finds herself fighting not only for her country but for her life, and in the end, for the life of the man she loves.From the underground hallways of power to the skyscrapers of Tokyo to the towering cathedrals of Spain, a desperate race unfolds. It is a battle for survival  a crucial bid to destroy a creation of inconceivable genius...an impregnable code writing formula that threatens to obliterate the post cold war balance of power. Forever. ...more
+
+Below is the retail price of the book on the library's website:
+58.00 Dollars
+

@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/fellside_155/index.html
+
+title:
+Fellside
+
+availability:
+In stock (3 available)
+
+Below is the average score given to the book by other readers:
+20/100
+
+category:
+Default
+
+description:
+The unmissable and highly anticipated new literary thriller from the author of the international phenomenon The Girl With All the Gifts. Fellside is a maximum security prison on the edge of the Yorkshire Moors. It s not the kind of place you d want to end up. But it s where Jess Moulson could be spending the rest of her life. It s a place where even the walls whisper. And The unmissable and highly anticipated new literary thriller from the author of the international phenomenon The Girl With All the Gifts. Fellside is a maximum security prison on the edge of the Yorkshire Moors. It s not the kind of place you d want to end up. But it s where Jess Moulson could be spending the rest of her life. It s a place where even the walls whisper. And one voice belongs to a little boy with a message for Jess.Will she listen? ...more
+
+Below is the retail price of the book on the library's website:
+38.62 Dollars
+

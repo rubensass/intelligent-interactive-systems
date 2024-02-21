@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/data-a-love-story-how-i-gamed-online-dating-to-meet-my-match_367/index.html
+
+title:
+Data, A Love Story: How I Gamed Online Dating to Meet My Match
+
+availability:
+In stock (5 available)
+
+Below is the average score given to the book by other readers:
+60/100
+
+category:
+Nonfiction
+
+description:
+Forty million people date online each year. Most don t find true love. Thanks to Data, a Love Story, their odds just got a whole lot better. Data, A Love Story: How I Gamed Online Dating to Meet My Match is a lively, thought provoking memoir about how one woman  gamed  the world of online dating  and met her eventual husband.
+
+Below is the retail price of the book on the library's website:
+32.35 Dollars
+

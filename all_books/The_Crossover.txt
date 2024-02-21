@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-crossover_398/index.html
+
+title:
+The Crossover
+
+availability:
+In stock (5 available)
+
+Below is the average score given to the book by other readers:
+80/100
+
+category:
+Poetry
+
+description:
+ With a bolt of lightning on my kicks . . .The court is SIZZLING. My sweat is DRIZZLING. Stop all that quivering. Cuz tonight I m delivering,  announces dread locked, 12 year old Josh Bell. He and his twin brother Jordan are awesome on the court. But Josh has more than basketball in his blood, he s got mad beats, too, that tell his family s story in verse, in this fast and  With a bolt of lightning on my kicks . . .The court is SIZZLING. My sweat is DRIZZLING. Stop all that quivering. Cuz tonight I m delivering,  announces dread locked, 12 year old Josh Bell. He and his twin brother Jordan are awesome on the court. But Josh has more than basketball in his blood, he s got mad beats, too, that tell his family s story in verse, in this fast and furious middle grade novel of family and brotherhood. Josh and Jordan must come to grips with growing up on and off the court to realize breaking the rules comes at a terrible price, as their story s heart stopping climax proves a game changer for the entire family. ...more
+
+Below is the retail price of the book on the library's website:
+38.77 Dollars
+

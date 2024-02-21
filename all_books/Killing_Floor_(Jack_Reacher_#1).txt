@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/killing-floor-jack-reacher-1_382/index.html
+
+title:
+Killing Floor (Jack Reacher  1)
+
+availability:
+In stock (5 available)
+
+Below is the average score given to the book by other readers:
+80/100
+
+category:
+Thriller
+
+description:
+Ex military policeman Jack Reacher is a drifter. He s just passing through Margrave, Georgia, and in less than an hour, he s arrested for murder. Not much of a welcome. All Jack knows is that he didn t kill anybody. At least not here. Not lately. But he doesn t stand a chance of convincing anyone. not in Margrave, Georgia. Not a chance in hell.
+
+Below is the retail price of the book on the library's website:
+31.49 Dollars
+

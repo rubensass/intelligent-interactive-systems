@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html
+
+title:
+Saga, Volume 6 (Saga (Collected Editions)  6)
+
+availability:
+In stock (16 available)
+
+Below is the average score given to the book by other readers:
+60/100
+
+category:
+Fantasy
+
+description:
+After a dramatic time jump, the three time Eisner Award winner for Best Continuing Series continues to evolve, as Hazel begins the most exciting adventure of her life: kindergarten. Meanwhile, her star crossed family learns hard lessons of their own.Collects SAGA  31 36
+
+Below is the retail price of the book on the library's website:
+25.02 Dollars
+

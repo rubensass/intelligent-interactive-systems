@@ -1,0 +1,21 @@
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-glass-castle_496/index.html
+
+title:
+The Glass Castle
+
+availability:
+In stock (7 available)
+
+Below is the average score given to the book by other readers:
+20/100
+
+category:
+Add a comment
+
+description:
+The Glass Castle is a remarkable memoir of resilience and redemption, and a revelatory look into a family at once deeply dysfunctional and uniquely vibrant. When sober, Jeannette s brilliant and charismatic father captured his children s imagination, teaching them physics, geology, and how to embrace life fearlessly. But when he drank, he was dishonest and destructive. Her The Glass Castle is a remarkable memoir of resilience and redemption, and a revelatory look into a family at once deeply dysfunctional and uniquely vibrant. When sober, Jeannette s brilliant and charismatic father captured his children s imagination, teaching them physics, geology, and how to embrace life fearlessly. But when he drank, he was dishonest and destructive. Her mother was a free spirit who abhorred the idea of domesticity and didn t want the responsibility of raising a family.The Walls children learned to take care of themselves. They fed, clothed, and protected one another, and eventually found their way to New York. Their parents followed them, choosing to be homeless even as their children prospered.The Glass Castle is truly astonishing  a memoir permeated by the intense love of a peculiar but loyal family. ...more
+
+Below is the retail price of the book on the library's website:
+16.24 Dollars
+
