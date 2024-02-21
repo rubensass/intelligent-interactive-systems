@@ -1,13 +1,13 @@
-url:
-https://books.toscrape.com/catalogue/left-behind-left-behind-1_529/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/left-behind-left-behind-1_529/index.html
 
 title:
-Left Behind (Left Behind #1)
+Left Behind (Left Behind  1)
 
 availability:
 In stock (8 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
@@ -16,6 +16,6 @@ Default
 description:
 An airborne Boeing 747 is headed to London when, without any warning, passengers mysteriously disappear from their seats. Terror and chaos slowly spread not only through the plane but also worldwide as unusual events continue to unfold. For those who have been left behind, the apocalypse has just begun
 
-price:
+Below is the retail price of the book on the library's website:
 40.72 Dollars
 

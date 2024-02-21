@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/suddenly-in-love-lake-haven-1_835/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/suddenly-in-love-lake-haven-1_835/index.html
 
 title:
-Suddenly in Love (Lake Haven #1)
+Suddenly in Love (Lake Haven  1)
 
 availability:
 In stock (15 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
 Romance
 
 description:
-Mia Lassiter is thrilled to finally put her artistic skills to use working for her aunt’s interior design shop in her hometown of East Beach. While renovating an old mansion overlooking stunning Lake Haven, she encounters a scruffy but attractive man named Brennan—the owner’s son. She doesn’t realize this sexy recluse is actually Everett Alden, the world-famous rock star i Mia Lassiter is thrilled to finally put her artistic skills to use working for her aunt’s interior design shop in her hometown of East Beach. While renovating an old mansion overlooking stunning Lake Haven, she encounters a scruffy but attractive man named Brennan—the owner’s son. She doesn’t realize this sexy recluse is actually Everett Alden, the world-famous rock star in hiding who’s nursing his own artistic and personal crises.As their personalities clash, tension simmers between the struggling artist and jaded musician, and their time spent alone together in the gorgeous old house only serves to turn up the heat. Soon, Mia and Brennan’s creative passions boil over to inspire passions of another kind…But reality comes crashing in when Mia’s celeb-obsessed cousin discovers Brennan’s true identity—and reveals it to the world. As paparazzi swarm the mansion, Brennan is thrust back into his rock star lifestyle. Will Mia lose her soul mate just when she’s finally found him? Can their love survive the glaring spotlight? ...more
+Mia Lassiter is thrilled to finally put her artistic skills to use working for her aunt s interior design shop in her hometown of East Beach. While renovating an old mansion overlooking stunning Lake Haven, she encounters a scruffy but attractive man named Brennan  the owner s son. She doesn t realize this sexy recluse is actually Everett Alden, the world famous rock star i Mia Lassiter is thrilled to finally put her artistic skills to use working for her aunt s interior design shop in her hometown of East Beach. While renovating an old mansion overlooking stunning Lake Haven, she encounters a scruffy but attractive man named Brennan  the owner s son. She doesn t realize this sexy recluse is actually Everett Alden, the world famous rock star in hiding who s nursing his own artistic and personal crises.As their personalities clash, tension simmers between the struggling artist and jaded musician, and their time spent alone together in the gorgeous old house only serves to turn up the heat. Soon, Mia and Brennan s creative passions boil over to inspire passions of another kind...But reality comes crashing in when Mia s celeb obsessed cousin discovers Brennan s true identity  and reveals it to the world. As paparazzi swarm the mansion, Brennan is thrust back into his rock star lifestyle. Will Mia lose her soul mate just when she s finally found him? Can their love survive the glaring spotlight? ...more
 
-price:
+Below is the retail price of the book on the library's website:
 55.99 Dollars
 

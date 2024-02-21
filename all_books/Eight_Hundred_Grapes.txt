@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/eight-hundred-grapes_690/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/eight-hundred-grapes_690/index.html
 
 title:
 Eight Hundred Grapes
@@ -7,15 +7,15 @@ Eight Hundred Grapes
 availability:
 In stock (14 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Fiction
 
 description:
-There are secrets you share, and secrets you hide…Growing up on her family’s Sonoma vineyard, Georgia Ford learned some important secrets. The secret number of grapes it takes to make a bottle of wine: eight hundred. The secret ingredient in her mother’s lasagna: chocolate. The secret behind ending a fight: hold hands.But just a week before her wedding, thirty-year-old Geo There are secrets you share, and secrets you hide…Growing up on her family’s Sonoma vineyard, Georgia Ford learned some important secrets. The secret number of grapes it takes to make a bottle of wine: eight hundred. The secret ingredient in her mother’s lasagna: chocolate. The secret behind ending a fight: hold hands.But just a week before her wedding, thirty-year-old Georgia discovers her beloved fiancé has been keeping a secret so explosive, it will change their lives forever.Georgia does what she’s always done: she returns to the family vineyard, expecting the comfort of her long-married parents, and her brothers, and everything familiar. But it turns out her fiancé is not the only one who’s been keeping secrets… ...more
+There are secrets you share, and secrets you hide...Growing up on her family s Sonoma vineyard, Georgia Ford learned some important secrets. The secret number of grapes it takes to make a bottle of wine: eight hundred. The secret ingredient in her mother s lasagna: chocolate. The secret behind ending a fight: hold hands.But just a week before her wedding, thirty year old Geo There are secrets you share, and secrets you hide...Growing up on her family s Sonoma vineyard, Georgia Ford learned some important secrets. The secret number of grapes it takes to make a bottle of wine: eight hundred. The secret ingredient in her mother s lasagna: chocolate. The secret behind ending a fight: hold hands.But just a week before her wedding, thirty year old Georgia discovers her beloved fiance has been keeping a secret so explosive, it will change their lives forever.Georgia does what she s always done: she returns to the family vineyard, expecting the comfort of her long married parents, and her brothers, and everything familiar. But it turns out her fiance is not the only one who s been keeping secrets... ...more
 
-price:
+Below is the retail price of the book on the library's website:
 14.39 Dollars
 

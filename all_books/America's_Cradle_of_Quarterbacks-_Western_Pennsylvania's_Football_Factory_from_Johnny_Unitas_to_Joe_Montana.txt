@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
 
 title:
-America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana
+America s Cradle of Quarterbacks: Western Pennsylvania s Football Factory from Johnny Unitas to Joe Montana
 
 availability:
 In stock (19 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
 Default
 
 description:
-Any fan of the Baltimore Colts of my era, any fan of my friend and teammate Johnny Unitas, or, for that matter, any fan of football in general should enjoy Wayne Stewart's book. It contains great stories, statistics, and information on all of the many great quarterbacks whocame out of Western Pennsylvania and much more. Raymond Berry NFL Hall of Fame Wide Receiver It’s wel Any fan of the Baltimore Colts of my era, any fan of my friend and teammate Johnny Unitas, or, for that matter, any fan of football in general should enjoy Wayne Stewart's book. It contains great stories, statistics, and information on all of the many great quarterbacks whocame out of Western Pennsylvania and much more. Raymond Berry NFL Hall of Fame Wide Receiver It’s well known that the NFL has been dominated through the years by quarterbacks sown and grown in a relatively small area surrounding the city of Pittsburgh in Western Pennsylvania. In America’s Cradle of Quarterbacks, author Wayne Stewart not only tells us who they are, he digs deep to explain the nature and nurture behind the rich harvest of signal callers (Montana, Unitas, Marino, Namath, Kelly, Blanda, etc.) who have risen from that fertile soil to claim Lombardi Trophies and dominate the gallery of busts in the Pro Football Hall of Fame. Stewart has written a fascinating book that belongs on the shelves of football historians and everyday fans alike. Jeffrey J. Miller Author of Rockin’ The Rockpile, Buffalo’sForgotten Champions, and Game Changers ...more
+Any fan of the Baltimore Colts of my era, any fan of my friend and teammate Johnny Unitas, or, for that matter, any fan of football in general should enjoy Wayne Stewart s book. It contains great stories, statistics, and information on all of the many great quarterbacks whocame out of Western Pennsylvania and much more. Raymond Berry NFL Hall of Fame Wide Receiver It s wel Any fan of the Baltimore Colts of my era, any fan of my friend and teammate Johnny Unitas, or, for that matter, any fan of football in general should enjoy Wayne Stewart s book. It contains great stories, statistics, and information on all of the many great quarterbacks whocame out of Western Pennsylvania and much more. Raymond Berry NFL Hall of Fame Wide Receiver It s well known that the NFL has been dominated through the years by quarterbacks sown and grown in a relatively small area surrounding the city of Pittsburgh in Western Pennsylvania. In America s Cradle of Quarterbacks, author Wayne Stewart not only tells us who they are, he digs deep to explain the nature and nurture behind the rich harvest of signal callers (Montana, Unitas, Marino, Namath, Kelly, Blanda, etc.) who have risen from that fertile soil to claim Lombardi Trophies and dominate the gallery of busts in the Pro Football Hall of Fame. Stewart has written a fascinating book that belongs on the shelves of football historians and everyday fans alike. Jeffrey J. Miller Author of Rockin  The Rockpile, Buffalo sForgotten Champions, and Game Changers ...more
 
-price:
+Below is the retail price of the book on the library's website:
 22.50 Dollars
 

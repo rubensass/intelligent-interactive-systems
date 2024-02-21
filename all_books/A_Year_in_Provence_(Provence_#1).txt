@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html
 
 title:
-A Year in Provence (Provence #1)
+A Year in Provence (Provence  1)
 
 availability:
 In stock (6 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Travel
 
 description:
-National BestsellerIn this witty and warm-hearted account, Peter Mayle tells what it is like to realize a long-cherished dream and actually move into a 200-year-old stone farmhouse in the remote country of the Lubéron with his wife and two large dogs. He endures January's frosty mistral as it comes howling down the Rhône Valley, discovers the secrets of goat racing through National Bestseller In this witty and warm-hearted account, Peter Mayle tells what it is like to realize a long-cherished dream and actually move into a 200-year-old stone farmhouse in the remote country of the Lubéron with his wife and two large dogs. He endures January's frosty mistral as it comes howling down the Rhône Valley, discovers the secrets of goat racing through the middle of town, and delights in the glorious regional cuisine. A Year in Provence transports us into all the earthy pleasures of Provençal life and lets us live vicariously at a tempo governed by seasons, not by days. ...more
+National BestsellerIn this witty and warm hearted account, Peter Mayle tells what it is like to realize a long cherished dream and actually move into a 200 year old stone farmhouse in the remote country of the Luberon with his wife and two large dogs. He endures January s frosty mistral as it comes howling down the Rhone Valley, discovers the secrets of goat racing through National Bestseller In this witty and warm hearted account, Peter Mayle tells what it is like to realize a long cherished dream and actually move into a 200 year old stone farmhouse in the remote country of the Luberon with his wife and two large dogs. He endures January s frosty mistral as it comes howling down the Rhone Valley, discovers the secrets of goat racing through the middle of town, and delights in the glorious regional cuisine. A Year in Provence transports us into all the earthy pleasures of Provencal life and lets us live vicariously at a tempo governed by seasons, not by days. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 56.88 Dollars
 

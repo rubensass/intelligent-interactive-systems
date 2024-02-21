@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html
 
 title:
-Delivering the Truth (Quaker Midwife Mystery #1)
+Delivering the Truth (Quaker Midwife Mystery  1)
 
 availability:
 In stock (7 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Mystery
 
 description:
-Quaker midwife Rose Carroll hears secrets and keeps confidences as she attends births of the rich and poor alike in an 1888 Massachusetts mill town. When the town’s world-famed carriage industry is threatened by the work of an arsonist, and a carriage factory owner’s adult son is stabbed to death with Rose's own knitting needle, she is drawn into solving the mystery. Thing Quaker midwife Rose Carroll hears secrets and keeps con­fi­dences as she attends births of the rich and poor alike in an 1888 Massachusetts mill town. When the town’s world-famed car­riage indus­try is threat­ened by the work of an arson­ist, and a car­riage fac­tory owner’s adult son is stabbed to death with Rose's own knitting needle, she is drawn into solv­ing the mys­tery. Things get dicey after the same owner’s mis­tress is also mur­dered, leav­ing her one-week-old baby with­out a mother. The Quaker poet and abolitionist John Greenleaf Whittier helps Rose by lending words of advice and support. While strug­gling with being less than the per­fect Friend, Rose draws on her strengths as a counselor and prob­lem solver to bring two mur­der­ers to justice before they destroy the town’s carriage industry and the people who run it. ...more
+Quaker midwife Rose Carroll hears secrets and keeps confidences as she attends births of the rich and poor alike in an 1888 Massachusetts mill town. When the town s world famed carriage industry is threatened by the work of an arsonist, and a carriage factory owner s adult son is stabbed to death with Rose s own knitting needle, she is drawn into solving the mystery. Thing Quaker midwife Rose Carroll hears secrets and keeps confidences as she attends births of the rich and poor alike in an 1888 Massachusetts mill town. When the town s world famed carriage industry is threatened by the work of an arsonist, and a carriage factory owner s adult son is stabbed to death with Rose s own knitting needle, she is drawn into solving the mystery. Things get dicey after the same owner s mistress is also murdered, leaving her one week old baby without a mother. The Quaker poet and abolitionist John Greenleaf Whittier helps Rose by lending words of advice and support. While struggling with being less than the perfect Friend, Rose draws on her strengths as a counselor and problem solver to bring two murderers to justice before they destroy the town s carriage industry and the people who run it. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 20.89 Dollars
 

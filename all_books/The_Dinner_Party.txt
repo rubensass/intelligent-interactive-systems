@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/the-dinner-party_635/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-dinner-party_635/index.html
 
 title:
 The Dinner Party
@@ -7,15 +7,15 @@ The Dinner Party
 availability:
 In stock (12 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
 Fiction
 
 description:
-This Passover Seder is not just any Passover Seder. Yes, there will be a quick service and then a festive meal afterwards, but this night is different from all other nights. This will be the night the Golds of Greenwich meet the Rothschilds of New York City.The Rothschilds are the stuff of legends. They control banks, own vineyards in Napa, diamond mines in Africa, and eve This Passover Seder is not just any Passover Seder. Yes, there will be a quick service and then a festive meal afterwards, but this night is different from all other nights. This will be the night the Golds of Greenwich meet the Rothschilds of New York City.The Rothschilds are the stuff of legends. They control banks, own vineyards in Napa, diamond mines in Africa, and even an organic farm somewhere in the Midwest that produces the most popular Romaine lettuce consumed in this country. And now, Sylvia Gold's daughter is dating one of them.When Sylvia finds out that her youngest of three is going to bring her new boyfriend to the Seder, she's giddy. When she finds out that his parents are coming, too, she darn near faints. Making a good impression is all she thinks about. Well, almost. She still has to consider her other daughter, Sarah, who'll be coming with her less than appropriate beau and his overly dramatic Italian mother. But the drama won't stop there. Because despite the food and the wine, despite the new linen and the fresh flowers, the holidays are about family. Long forgotten memories come to the surface. Old grievances play out. And Sylvia Gold has to learn how to let her family go. ...more
+This Passover Seder is not just any Passover Seder. Yes, there will be a quick service and then a festive meal afterwards, but this night is different from all other nights. This will be the night the Golds of Greenwich meet the Rothschilds of New York City.The Rothschilds are the stuff of legends. They control banks, own vineyards in Napa, diamond mines in Africa, and eve This Passover Seder is not just any Passover Seder. Yes, there will be a quick service and then a festive meal afterwards, but this night is different from all other nights. This will be the night the Golds of Greenwich meet the Rothschilds of New York City.The Rothschilds are the stuff of legends. They control banks, own vineyards in Napa, diamond mines in Africa, and even an organic farm somewhere in the Midwest that produces the most popular Romaine lettuce consumed in this country. And now, Sylvia Gold s daughter is dating one of them.When Sylvia finds out that her youngest of three is going to bring her new boyfriend to the Seder, she s giddy. When she finds out that his parents are coming, too, she darn near faints. Making a good impression is all she thinks about. Well, almost. She still has to consider her other daughter, Sarah, who ll be coming with her less than appropriate beau and his overly dramatic Italian mother. But the drama won t stop there. Because despite the food and the wine, despite the new linen and the fresh flowers, the holidays are about family. Long forgotten memories come to the surface. Old grievances play out. And Sylvia Gold has to learn how to let her family go. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 56.54 Dollars
 

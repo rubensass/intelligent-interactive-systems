@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/we-are-robin-vol-1-the-vigilante-business-we-are-robin-1_778/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/we-are-robin-vol-1-the-vigilante-business-we-are-robin-1_778/index.html
 
 title:
-We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)
+We Are Robin, Vol. 1: The Vigilante Business (We Are Robin  1)
 
 availability:
 In stock (14 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 20/100
 
 category:
 Sequential Art
 
 description:
-The teenagers of Gotham City have adopted the “R” and made it their own. A new Robin? No, hundreds of new Robins! The Boy Wonder has inspired a movement in Gotham, where different people of all creeds, colors, genders and religions have donned the “R” insignia to combat crime. But will this clean up the city...or make more trouble for everyone? Collecting WE ARE ROBIN #1-6 The teenagers of Gotham City have adopted the “R” and made it their own. A new Robin? No, hundreds of new Robins! The Boy Wonder has inspired a movement in Gotham, where different people of all creeds, colors, genders and religions have donned the “R” insignia to combat crime. But will this clean up the city...or make more trouble for everyone? Collecting WE ARE ROBIN #1-6 and the sneak peek story from CONVERGENCE: NEW TEEN TITANS #2! ...more
+The teenagers of Gotham City have adopted the  R  and made it their own. A new Robin? No, hundreds of new Robins! The Boy Wonder has inspired a movement in Gotham, where different people of all creeds, colors, genders and religions have donned the  R  insignia to combat crime. But will this clean up the city...or make more trouble for everyone? Collecting WE ARE ROBIN  1 6 The teenagers of Gotham City have adopted the  R  and made it their own. A new Robin? No, hundreds of new Robins! The Boy Wonder has inspired a movement in Gotham, where different people of all creeds, colors, genders and religions have donned the  R  insignia to combat crime. But will this clean up the city...or make more trouble for everyone? Collecting WE ARE ROBIN  1 6 and the sneak peek story from CONVERGENCE: NEW TEEN TITANS  2! ...more
 
-price:
+Below is the retail price of the book on the library's website:
 53.90 Dollars
 

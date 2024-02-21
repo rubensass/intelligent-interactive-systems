@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/ship-leaves-harbor-essays-on-travel-by-a-recovering-journeyman_438/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/ship-leaves-harbor-essays-on-travel-by-a-recovering-journeyman_438/index.html
 
 title:
 Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman
@@ -7,7 +7,7 @@ Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman
 availability:
 In stock (6 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
@@ -16,6 +16,6 @@ Default
 description:
 Still scarred from the theft of his belongings in Barcelona, the author returns stateside to reassess his dreams for future travel and struggling to regain his love of the journey. From short trips along the eastern U.S. seaboard, the author conquers his demons when he takes his family and returns to Paris, before heading to a new destination: Lisbon, Portugal.
 
-price:
+Below is the retail price of the book on the library's website:
 30.60 Dollars
 

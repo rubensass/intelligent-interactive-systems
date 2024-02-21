@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/fruits-basket-vol-6-fruits-basket-6_427/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/fruits-basket-vol-6-fruits-basket-6_427/index.html
 
 title:
-Fruits Basket, Vol. 6 (Fruits Basket #6)
+Fruits Basket, Vol. 6 (Fruits Basket  6)
 
 availability:
 In stock (6 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Sequential Art
 
 description:
-Delving into the recesses of Kyo's past, we find the Sohma trio returning home on a rainy day. There, a mysterious man who has known Kyo for a long time meets them. Trust, loyalty and the bonds of family and friendship are tested, as Tohru must help Kyo deal with the "monsters" that he's been trying to avoid.
+Delving into the recesses of Kyo s past, we find the Sohma trio returning home on a rainy day. There, a mysterious man who has known Kyo for a long time meets them. Trust, loyalty and the bonds of family and friendship are tested, as Tohru must help Kyo deal with the  monsters  that he s been trying to avoid.
 
-price:
+Below is the retail price of the book on the library's website:
 20.96 Dollars
 

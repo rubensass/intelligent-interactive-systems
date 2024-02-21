@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/roller-girl_540/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/roller-girl_540/index.html
 
 title:
 Roller Girl
@@ -7,15 +7,15 @@ Roller Girl
 availability:
 In stock (8 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 100/100
 
 category:
 Sequential Art
 
 description:
-For fans of Raina Telgemeier’s Smile, a heartwarming graphic novel about friendship and surviving junior high through the power of roller derby. Twelve-year-old Astrid has always done everything with her best friend Nicole. So when Astrid signs up for roller derby camp, she assumes Nicole will too. But Nicole signs up for dance camp with a new friend instead, and so begins For fans of Raina Telgemeier’s Smile, a heartwarming graphic novel about friendship and surviving junior high through the power of roller derby. Twelve-year-old Astrid has always done everything with her best friend Nicole. So when Astrid signs up for roller derby camp, she assumes Nicole will too. But Nicole signs up for dance camp with a new friend instead, and so begins the toughest summer of Astrid's life. There are bumps and bruises as Astrid learns who she is without Nicole...and what it takes to be a strong, tough roller girl. ...more
+For fans of Raina Telgemeier s Smile, a heartwarming graphic novel about friendship and surviving junior high through the power of roller derby. Twelve year old Astrid has always done everything with her best friend Nicole. So when Astrid signs up for roller derby camp, she assumes Nicole will too. But Nicole signs up for dance camp with a new friend instead, and so begins For fans of Raina Telgemeier s Smile, a heartwarming graphic novel about friendship and surviving junior high through the power of roller derby. Twelve year old Astrid has always done everything with her best friend Nicole. So when Astrid signs up for roller derby camp, she assumes Nicole will too. But Nicole signs up for dance camp with a new friend instead, and so begins the toughest summer of Astrid s life. There are bumps and bruises as Astrid learns who she is without Nicole...and what it takes to be a strong, tough roller girl. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 14.10 Dollars
 

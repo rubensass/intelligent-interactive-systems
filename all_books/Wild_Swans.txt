@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/wild-swans_782/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/wild-swans_782/index.html
 
 title:
 Wild Swans
@@ -7,15 +7,15 @@ Wild Swans
 availability:
 In stock (14 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
 Young Adult
 
 description:
-The summer before Ivy’s senior year is going to be golden; all bonfires, barbeques, and spending time with her best friends. For once, she will just get to be. No summer classes, none of Granddad’s intense expectations to live up to the family name. For generations, the Milbourn women have lead extraordinary lives—and died young and tragically. Granddad calls it a legacy, The summer before Ivy’s senior year is going to be golden; all bonfires, barbeques, and spending time with her best friends. For once, she will just get to be. No summer classes, none of Granddad’s intense expectations to live up to the family name. For generations, the Milbourn women have lead extraordinary lives—and died young and tragically. Granddad calls it a legacy, but Ivy considers it a curse. Why else would her mother have run off and abandoned her as a child?But when her mother unexpectedly returns home with two young daughters in tow, all of the stories Ivy wove to protect her heart start to unravel. The very people she once trusted now speak in lies. And all of Ivy’s ambition and determination cannot defend her against the secrets of the Milbourn past…. ...more
+The summer before Ivy s senior year is going to be golden; all bonfires, barbeques, and spending time with her best friends. For once, she will just get to be. No summer classes, none of Granddad s intense expectations to live up to the family name. For generations, the Milbourn women have lead extraordinary lives  and died young and tragically. Granddad calls it a legacy, The summer before Ivy s senior year is going to be golden; all bonfires, barbeques, and spending time with her best friends. For once, she will just get to be. No summer classes, none of Granddad s intense expectations to live up to the family name. For generations, the Milbourn women have lead extraordinary lives  and died young and tragically. Granddad calls it a legacy, but Ivy considers it a curse. Why else would her mother have run off and abandoned her as a child?But when her mother unexpectedly returns home with two young daughters in tow, all of the stories Ivy wove to protect her heart start to unravel. The very people she once trusted now speak in lies. And all of Ivy s ambition and determination cannot defend her against the secrets of the Milbourn past.... ...more
 
-price:
+Below is the retail price of the book on the library's website:
 14.36 Dollars
 

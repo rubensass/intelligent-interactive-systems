@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/tracing-numbers-on-a-train_869/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/tracing-numbers-on-a-train_869/index.html
 
 title:
 Tracing Numbers on a Train
@@ -7,7 +7,7 @@ Tracing Numbers on a Train
 availability:
 In stock (15 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
@@ -16,6 +16,6 @@ Default
 description:
 Start preparing children for classroom success with Tracing Numbers on a Train! This educational workbook is filled with pages of giant numbers that make it easy for little hands to learn pencil control, followed by pages of small numbers for repetition and motor skill development. The illustrated practice pages will keep kids engaged while learning their numbers from 1 to Start preparing children for classroom success with Tracing Numbers on a Train! This educational workbook is filled with pages of giant numbers that make it easy for little hands to learn pencil control, followed by pages of small numbers for repetition and motor skill development. The illustrated practice pages will keep kids engaged while learning their numbers from 1 to 30. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 41.60 Dollars
 

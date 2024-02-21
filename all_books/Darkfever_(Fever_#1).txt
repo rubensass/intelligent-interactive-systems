@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/darkfever-fever-1_145/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/darkfever-fever-1_145/index.html
 
 title:
-Darkfever (Fever #1)
+Darkfever (Fever  1)
 
 availability:
 In stock (3 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 20/100
 
 category:
 Fantasy
 
 description:
-When her sister is murdered, leaving a single clue to her death—a cryptic message on MacKayla Lane’s cell phone–Mac journeys to Ireland in search of answers. The quest to find her sister’s killer draws her into a shadowy realm where nothing is as it seems, where good and evil wear the same treacherously seductive mask. She is soon faced with an even greater challenge: stay When her sister is murdered, leaving a single clue to her death—a cryptic message on MacKayla Lane’s cell phone–Mac journeys to Ireland in search of answers. The quest to find her sister’s killer draws her into a shadowy realm where nothing is as it seems, where good and evil wear the same treacherously seductive mask. She is soon faced with an even greater challenge: staying alive long enough to learn how to handle a power she had no idea she possessed—a gift that allows her to see beyond the world of man, into the dangerous realm of the Fae. ...more
+When her sister is murdered, leaving a single clue to her death  a cryptic message on MacKayla Lane s cell phone Mac journeys to Ireland in search of answers. The quest to find her sister s killer draws her into a shadowy realm where nothing is as it seems, where good and evil wear the same treacherously seductive mask. She is soon faced with an even greater challenge: stay When her sister is murdered, leaving a single clue to her death  a cryptic message on MacKayla Lane s cell phone Mac journeys to Ireland in search of answers. The quest to find her sister s killer draws her into a shadowy realm where nothing is as it seems, where good and evil wear the same treacherously seductive mask. She is soon faced with an even greater challenge: staying alive long enough to learn how to handle a power she had no idea she possessed  a gift that allows her to see beyond the world of man, into the dangerous realm of the Fae. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 56.02 Dollars
 

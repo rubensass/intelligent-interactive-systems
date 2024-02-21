@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/the-hunger-games-the-hunger-games-1_349/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-hunger-games-the-hunger-games-1_349/index.html
 
 title:
-The Hunger Games (The Hunger Games #1)
+The Hunger Games (The Hunger Games  1)
 
 availability:
 In stock (4 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 100/100
 
 category:
 Default
 
 description:
-Winning will make you famous. Losing means certain death.The nation of Panem, formed from a post-apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as t Winning will make you famous. Losing means certain death.The nation of Panem, formed from a post-apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as the Hunger Games. In punishment, and as a reminder of the power and grace of the Capitol, each district must yield one boy and one girl between the ages of 12 and 18 through a lottery system to participate in the games. The 'tributes' are chosen during the annual Reaping and are forced to fight to the death, leaving only one survivor to claim victory.When 16-year-old Katniss's young sister, Prim, is selected as District 12's female representative, Katniss volunteers to take her place. She and her male counterpart Peeta, are pitted against bigger, stronger representatives, some of whom have trained for this their whole lives. , she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature. ...more
+Winning will make you famous. Losing means certain death.The nation of Panem, formed from a post apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as t Winning will make you famous. Losing means certain death.The nation of Panem, formed from a post apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as the Hunger Games. In punishment, and as a reminder of the power and grace of the Capitol, each district must yield one boy and one girl between the ages of 12 and 18 through a lottery system to participate in the games. The  tributes  are chosen during the annual Reaping and are forced to fight to the death, leaving only one survivor to claim victory.When 16 year old Katniss s young sister, Prim, is selected as District 12 s female representative, Katniss volunteers to take her place. She and her male counterpart Peeta, are pitted against bigger, stronger representatives, some of whom have trained for this their whole lives. , she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 29.85 Dollars
 

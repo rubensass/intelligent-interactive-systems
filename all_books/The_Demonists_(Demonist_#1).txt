@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/the-demonists-demonist-1_345/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-demonists-demonist-1_345/index.html
 
 title:
-The Demonists (Demonist #1)
+The Demonists (Demonist  1)
 
 availability:
 In stock (4 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
 Fantasy
 
 description:
-There is more to our world than meets the eye—darker things, crueler things. Exorcist John Fogg and his wife, psychic medium Theodora Knight, know what lurks in the shadows. But even they’re not prepared for the worst Hell has to offer... It was supposed to be a simple exorcism, a publicity stunt to firmly establish John and Theodora’s thriving paranormal investigation em There is more to our world than meets the eye—darker things, crueler things. Exorcist John Fogg and his wife, psychic medium Theodora Knight, know what lurks in the shadows. But even they’re not prepared for the worst Hell has to offer...   It was supposed to be a simple exorcism, a publicity stunt to firmly establish John and Theodora’s thriving paranormal investigation empire in the public eye. But something went wrong, leading to an on-air massacre that unleashed a malicious host of demons and left Theodora catatonic, possessed by countless spirits.   John sets out on a desperate quest to find a cure for his wife, but his obsession brings him face-to-face with an even more terrifying problem: Theodora’s possession is only one piece of a deadly plot that is threatening the entire world. Because an ancient evil is about to make Earth its battlefield—and without John and Theodora’s intervention, there is no chance for salvation... ...more
+There is more to our world than meets the eye  darker things, crueler things. Exorcist John Fogg and his wife, psychic medium Theodora Knight, know what lurks in the shadows. But even they re not prepared for the worst Hell has to offer... It was supposed to be a simple exorcism, a publicity stunt to firmly establish John and Theodora s thriving paranormal investigation em There is more to our world than meets the eye  darker things, crueler things. Exorcist John Fogg and his wife, psychic medium Theodora Knight, know what lurks in the shadows. But even they re not prepared for the worst Hell has to offer...   It was supposed to be a simple exorcism, a publicity stunt to firmly establish John and Theodora s thriving paranormal investigation empire in the public eye. But something went wrong, leading to an on air massacre that unleashed a malicious host of demons and left Theodora catatonic, possessed by countless spirits.   John sets out on a desperate quest to find a cure for his wife, but his obsession brings him face to face with an even more terrifying problem: Theodora s possession is only one piece of a deadly plot that is threatening the entire world. Because an ancient evil is about to make Earth its battlefield  and without John and Theodora s intervention, there is no chance for salvation... ...more
 
-price:
+Below is the retail price of the book on the library's website:
 52.11 Dollars
 

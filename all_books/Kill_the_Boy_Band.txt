@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/kill-the-boy-band_381/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/kill-the-boy-band_381/index.html
 
 title:
 Kill the Boy Band
@@ -7,15 +7,15 @@ Kill the Boy Band
 availability:
 In stock (5 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 100/100
 
 category:
 Young Adult
 
 description:
-Just know from the start that it wasn’t supposed to go like this. All we wanted was to get near them. That’s why we got a room in the hotel where they were staying.We were not planning to kidnap one of them. Especially not the most useless one. But we had him—his room key, his cell phone, and his secrets.We were not planning on what happened next.We swear.From thrilling ne Just know from the start that it wasn’t supposed to go like this. All we wanted was to get near them. That’s why we got a room in the hotel where they were staying.We were not planning to kidnap one of them. Especially not the most useless one. But we had him—his room key, his cell phone, and his secrets.We were not planning on what happened next.We swear.From thrilling new talent Goldy Moldavsky comes a pitch-black, hiarlious take on fandom and the badass girls who have the power to make—or break—the people we call “celebrities.” ...more
+Just know from the start that it wasn t supposed to go like this. All we wanted was to get near them. That s why we got a room in the hotel where they were staying.We were not planning to kidnap one of them. Especially not the most useless one. But we had him  his room key, his cell phone, and his secrets.We were not planning on what happened next.We swear.From thrilling ne Just know from the start that it wasn t supposed to go like this. All we wanted was to get near them. That s why we got a room in the hotel where they were staying.We were not planning to kidnap one of them. Especially not the most useless one. But we had him  his room key, his cell phone, and his secrets.We were not planning on what happened next.We swear.From thrilling new talent Goldy Moldavsky comes a pitch black, hiarlious take on fandom and the badass girls who have the power to make  or break  the people we call  celebrities.  ...more
 
-price:
+Below is the retail price of the book on the library's website:
 15.52 Dollars
 

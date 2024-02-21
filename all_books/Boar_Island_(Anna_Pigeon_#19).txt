@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html
 
 title:
-Boar Island (Anna Pigeon #19)
+Boar Island (Anna Pigeon  19)
 
 availability:
 In stock (12 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
 Mystery
 
 description:
-Bringing you a gripping mystery, Nevada Barr transports you to the wild and dangerous landscapes of America's National Parks and is sure to appeal if you like Sue Grafton and Janet Evanovich.The eighteenth sensational crime novel from New York Times bestselling author Nevada Barr featuring fearless park ranger Anna Pigeon as she battles to solve a heinous crime set amidst Bringing you a gripping mystery, Nevada Barr transports you to the wild and dangerous landscapes of America's National Parks and is sure to appeal if you like Sue Grafton and Janet Evanovich.The eighteenth sensational crime novel from New York Times bestselling author Nevada Barr featuring fearless park ranger Anna Pigeon as she battles to solve a heinous crime set amidst the wild and dangerous landscape of a US National Park. ...more
+Bringing you a gripping mystery, Nevada Barr transports you to the wild and dangerous landscapes of America s National Parks and is sure to appeal if you like Sue Grafton and Janet Evanovich.The eighteenth sensational crime novel from New York Times bestselling author Nevada Barr featuring fearless park ranger Anna Pigeon as she battles to solve a heinous crime set amidst Bringing you a gripping mystery, Nevada Barr transports you to the wild and dangerous landscapes of America s National Parks and is sure to appeal if you like Sue Grafton and Janet Evanovich.The eighteenth sensational crime novel from New York Times bestselling author Nevada Barr featuring fearless park ranger Anna Pigeon as she battles to solve a heinous crime set amidst the wild and dangerous landscape of a US National Park. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 59.48 Dollars
 

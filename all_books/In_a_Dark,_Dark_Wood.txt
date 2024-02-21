@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html
 
 title:
 In a Dark, Dark Wood
@@ -7,15 +7,15 @@ In a Dark, Dark Wood
 availability:
 In stock (18 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 20/100
 
 category:
 Mystery
 
 description:
-In a dark, dark wood Nora hasn't seen Clare for ten years. Not since Nora walked out of school one day and never went back. There was a dark, dark houseUntil, out of the blue, an invitation to Clare’s hen do arrives. Is this a chance for Nora to finally put her past behind her?And in the dark, dark house there was a dark, dark roomBut something goes wrong. Very wrong.And i In a dark, dark wood Nora hasn't seen Clare for ten years. Not since Nora walked out of school one day and never went back. There was a dark, dark houseUntil, out of the blue, an invitation to Clare’s hen do arrives. Is this a chance for Nora to finally put her past behind her?And in the dark, dark house there was a dark, dark roomBut something goes wrong. Very wrong.And in the dark, dark room.... Some things can’t stay secret for ever. ...more
+In a dark, dark wood Nora hasn t seen Clare for ten years. Not since Nora walked out of school one day and never went back. There was a dark, dark houseUntil, out of the blue, an invitation to Clare s hen do arrives. Is this a chance for Nora to finally put her past behind her?And in the dark, dark house there was a dark, dark roomBut something goes wrong. Very wrong.And i In a dark, dark wood Nora hasn t seen Clare for ten years. Not since Nora walked out of school one day and never went back. There was a dark, dark houseUntil, out of the blue, an invitation to Clare s hen do arrives. Is this a chance for Nora to finally put her past behind her?And in the dark, dark house there was a dark, dark roomBut something goes wrong. Very wrong.And in the dark, dark room.... Some things can t stay secret for ever. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 19.63 Dollars
 

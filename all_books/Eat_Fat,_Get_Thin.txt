@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/eat-fat-get-thin_688/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/eat-fat-get-thin_688/index.html
 
 title:
 Eat Fat, Get Thin
@@ -7,7 +7,7 @@ Eat Fat, Get Thin
 availability:
 In stock (14 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
@@ -16,6 +16,6 @@ Health
 description:
 Originally released by Hachettee Audio A2015.
 
-price:
+Below is the retail price of the book on the library's website:
 54.07 Dollars
 

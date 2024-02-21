@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html
 
 title:
-A Study in Scarlet (Sherlock Holmes #1)
+A Study in Scarlet (Sherlock Holmes  1)
 
 availability:
 In stock (14 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
 Mystery
 
 description:
-In the debut of literature's most famous sleuth, a dead man is discovered in a bloodstained room in Brixton. The only clues are a wedding ring, a gold watch, a pocket edition of Boccaccio's Decameron, and a word scrawled in blood on the wall. With this investigation begins the partnership of Sherlock Holmes and Dr. Watson. Their search for the murderer uncovers a story of In the debut of literature's most famous sleuth, a dead man is discovered in a bloodstained room in Brixton. The only clues are a wedding ring, a gold watch, a pocket edition of Boccaccio's Decameron, and a word scrawled in blood on the wall. With this investigation begins the partnership of Sherlock Holmes and Dr. Watson. Their search for the murderer uncovers a story of love and revenge-and heralds a franchise of detective mysteries starring the formidable Holmes. ...more
+In the debut of literature s most famous sleuth, a dead man is discovered in a bloodstained room in Brixton. The only clues are a wedding ring, a gold watch, a pocket edition of Boccaccio s Decameron, and a word scrawled in blood on the wall. With this investigation begins the partnership of Sherlock Holmes and Dr. Watson. Their search for the murderer uncovers a story of In the debut of literature s most famous sleuth, a dead man is discovered in a bloodstained room in Brixton. The only clues are a wedding ring, a gold watch, a pocket edition of Boccaccio s Decameron, and a word scrawled in blood on the wall. With this investigation begins the partnership of Sherlock Holmes and Dr. Watson. Their search for the murderer uncovers a story of love and revenge and heralds a franchise of detective mysteries starring the formidable Holmes. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 16.73 Dollars
 

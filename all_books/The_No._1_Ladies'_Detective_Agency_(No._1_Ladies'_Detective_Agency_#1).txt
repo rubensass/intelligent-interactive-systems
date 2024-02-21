@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html
 
 title:
-The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)
+The No. 1 Ladies  Detective Agency (No. 1 Ladies  Detective Agency  1)
 
 availability:
 In stock (1 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Mystery
 
 description:
-The No.1 ladies' detective agency consists of one woman, the engaging and sassy Precious Ramotswe, who sets up shop in Gabarone, Botswana. This unlikely herione specialises in missing husbands, wayward daughters, con men and impostors.
+The No.1 ladies  detective agency consists of one woman, the engaging and sassy Precious Ramotswe, who sets up shop in Gabarone, Botswana. This unlikely herione specialises in missing husbands, wayward daughters, con men and impostors.
 
-price:
+Below is the retail price of the book on the library's website:
 57.70 Dollars
 

@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/32-yolks_510/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/32-yolks_510/index.html
 
 title:
 32 Yolks
@@ -7,15 +7,15 @@ title:
 availability:
 In stock (8 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
 Food and Drink
 
 description:
-For readers of Jacques Pépin’s The Apprentice and Marcus Samuelsson’s Yes, Chef, here is the coming-of-age story of a true French chef and international culinary icon. Before he earned three Michelin stars at Le Bernardin, won the James Beard Foundation Award for Outstanding Chef, or became a regular guest judge on Bravo’s Top Chef, and even before he knew how to make a pr For readers of Jacques Pépin’s The Apprentice and Marcus Samuelsson’s Yes, Chef, here is the coming-of-age story of a true French chef and international culinary icon. Before he earned three Michelin stars at Le Bernardin, won the James Beard Foundation Award for Outstanding Chef, or became a regular guest judge on Bravo’s Top Chef, and even before he knew how to make a proper omelet, Eric Ripert was a young boy in the South of France who felt that his world had come to an end. The only place Eric felt at home was in the kitchen. His desire to not only cook, but to become the best would lead him into some of the most celebrated and demanding restaurants in Paris. ...more
+For readers of Jacques Pepin s The Apprentice and Marcus Samuelsson s Yes, Chef, here is the coming of age story of a true French chef and international culinary icon. Before he earned three Michelin stars at Le Bernardin, won the James Beard Foundation Award for Outstanding Chef, or became a regular guest judge on Bravo s Top Chef, and even before he knew how to make a pr For readers of Jacques Pepin s The Apprentice and Marcus Samuelsson s Yes, Chef, here is the coming of age story of a true French chef and international culinary icon. Before he earned three Michelin stars at Le Bernardin, won the James Beard Foundation Award for Outstanding Chef, or became a regular guest judge on Bravo s Top Chef, and even before he knew how to make a proper omelet, Eric Ripert was a young boy in the South of France who felt that his world had come to an end. The only place Eric felt at home was in the kitchen. His desire to not only cook, but to become the best would lead him into some of the most celebrated and demanding restaurants in Paris. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 53.63 Dollars
 

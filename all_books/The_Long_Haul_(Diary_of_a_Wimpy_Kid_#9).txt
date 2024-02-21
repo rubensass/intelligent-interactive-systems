@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/the-long-haul-diary-of-a-wimpy-kid-9_757/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-long-haul-diary-of-a-wimpy-kid-9_757/index.html
 
 title:
-The Long Haul (Diary of a Wimpy Kid #9)
+The Long Haul (Diary of a Wimpy Kid  9)
 
 availability:
 In stock (14 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 20/100
 
 category:
 Humor
 
 description:
-Greg Heffley and his family hit the road in author-illustrator Jeff Kinney's latest installment of the phenomenally bestselling Diary of a Wimpy Kid series.
+Greg Heffley and his family hit the road in author illustrator Jeff Kinney s latest installment of the phenomenally bestselling Diary of a Wimpy Kid series.
 
-price:
+Below is the retail price of the book on the library's website:
 44.07 Dollars
 

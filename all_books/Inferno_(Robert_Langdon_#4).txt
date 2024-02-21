@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/inferno-robert-langdon-4_176/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/inferno-robert-langdon-4_176/index.html
 
 title:
-Inferno (Robert Langdon #4)
+Inferno (Robert Langdon  4)
 
 availability:
 In stock (3 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 100/100
 
 category:
 Fiction
 
 description:
-In his international blockbusters The Da Vinci Code, Angels & Demons, and The Lost Symbol, Dan Brown masterfully fused history, art, codes, and symbols. In this riveting new thriller, Brown returns to his element and has crafted his highest-stakes novel to date.In the heart of Italy, Harvard professor of symbology Robert Langdon is drawn into a harrowing world centered In his international blockbusters The Da Vinci Code, Angels & Demons, and The Lost Symbol, Dan Brown masterfully fused history, art, codes, and symbols. In this riveting new thriller, Brown returns to his element and has crafted his highest-stakes novel to date.In the heart of Italy, Harvard professor of symbology Robert Langdon is drawn into a harrowing world centered on one of history’s most enduring and mysterious literary masterpieces . . . Dante’s Inferno.Against this backdrop, Langdon battles a chilling adversary and grapples with an ingenious riddle that pulls him into a landscape of classic art, secret passageways, and futuristic science. Drawing from Dante’s dark epic poem, Langdon races to find answers and decide whom to trust . . . before the world is irrevocably altered. ...more
+In his international blockbusters The Da Vinci Code, Angels   Demons, and The Lost Symbol, Dan Brown masterfully fused history, art, codes, and symbols. In this riveting new thriller, Brown returns to his element and has crafted his highest stakes novel to date.In the heart of Italy, Harvard professor of symbology Robert Langdon is drawn into a harrowing world centered In his international blockbusters The Da Vinci Code, Angels   Demons, and The Lost Symbol, Dan Brown masterfully fused history, art, codes, and symbols. In this riveting new thriller, Brown returns to his element and has crafted his highest stakes novel to date.In the heart of Italy, Harvard professor of symbology Robert Langdon is drawn into a harrowing world centered on one of history s most enduring and mysterious literary masterpieces . . . Dante s Inferno.Against this backdrop, Langdon battles a chilling adversary and grapples with an ingenious riddle that pulls him into a landscape of classic art, secret passageways, and futuristic science. Drawing from Dante s dark epic poem, Langdon races to find answers and decide whom to trust . . . before the world is irrevocably altered. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 41.00 Dollars
 

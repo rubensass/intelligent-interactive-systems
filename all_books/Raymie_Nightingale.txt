@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/raymie-nightingale_482/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/raymie-nightingale_482/index.html
 
 title:
 Raymie Nightingale
@@ -7,15 +7,15 @@ Raymie Nightingale
 availability:
 In stock (7 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
 Childrens
 
 description:
-Raymie Clarke has come to realize that everything, absolutely everything, depends on her. And she has a plan. If Raymie can win the Little Miss Central Florida Tire competition, then her father, who left town two days ago with a dental hygienist, will see Raymie's picture in the paper and (maybe) come home. To win, not only does Raymie have to do good deeds and learn how t Raymie Clarke has come to realize that everything, absolutely everything, depends on her. And she has a plan. If Raymie can win the Little Miss Central Florida Tire competition, then her father, who left town two days ago with a dental hygienist, will see Raymie's picture in the paper and (maybe) come home. To win, not only does Raymie have to do good deeds and learn how to twirl a baton; she also has to contend with the wispy, frequently fainting Louisiana Elefante, who has a show-business background, and the fiery, stubborn Beverly Tapinski, who’s determined to sabotage the contest. But as the competition approaches, loneliness, loss, and unanswerable questions draw the three girls into an unlikely friendship — and challenge each of them to come to the rescue in unexpected ways. ...more
+Raymie Clarke has come to realize that everything, absolutely everything, depends on her. And she has a plan. If Raymie can win the Little Miss Central Florida Tire competition, then her father, who left town two days ago with a dental hygienist, will see Raymie s picture in the paper and (maybe) come home. To win, not only does Raymie have to do good deeds and learn how t Raymie Clarke has come to realize that everything, absolutely everything, depends on her. And she has a plan. If Raymie can win the Little Miss Central Florida Tire competition, then her father, who left town two days ago with a dental hygienist, will see Raymie s picture in the paper and (maybe) come home. To win, not only does Raymie have to do good deeds and learn how to twirl a baton; she also has to contend with the wispy, frequently fainting Louisiana Elefante, who has a show business background, and the fiery, stubborn Beverly Tapinski, who s determined to sabotage the contest. But as the competition approaches, loneliness, loss, and unanswerable questions draw the three girls into an unlikely friendship    and challenge each of them to come to the rescue in unexpected ways. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 34.41 Dollars
 

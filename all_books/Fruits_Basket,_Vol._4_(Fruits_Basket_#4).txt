@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/fruits-basket-vol-4-fruits-basket-4_321/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/fruits-basket-vol-4-fruits-basket-4_321/index.html
 
 title:
-Fruits Basket, Vol. 4 (Fruits Basket #4)
+Fruits Basket, Vol. 4 (Fruits Basket  4)
 
 availability:
 In stock (4 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Sequential Art
 
 description:
-When the infamous Akito makes an in-class appearance at the start of the school year, the Sohma family worries that his arrival will be an uncensored exercise of show-and-tell about Yuki's past. Meanwhile, when Ayame vows to rekindle his brother's lost friendship, he begins to realize that you can choose your friends but you can't choose your family - especially when they' When the infamous Akito makes an in-class appearance at the start of the school year, the Sohma family worries that his arrival will be an uncensored exercise of show-and-tell about Yuki's past. Meanwhile, when Ayame vows to rekindle his brother's lost friendship, he begins to realize that you can choose your friends but you can't choose your family - especially when they're acting like animals! ...more
+When the infamous Akito makes an in class appearance at the start of the school year, the Sohma family worries that his arrival will be an uncensored exercise of show and tell about Yuki s past. Meanwhile, when Ayame vows to rekindle his brother s lost friendship, he begins to realize that you can choose your friends but you can t choose your family   especially when they  When the infamous Akito makes an in class appearance at the start of the school year, the Sohma family worries that his arrival will be an uncensored exercise of show and tell about Yuki s past. Meanwhile, when Ayame vows to rekindle his brother s lost friendship, he begins to realize that you can choose your friends but you can t choose your family   especially when they re acting like animals! ...more
 
-price:
+Below is the retail price of the book on the library's website:
 50.44 Dollars
 

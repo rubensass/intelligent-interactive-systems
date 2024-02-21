@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/saga-volume-3-saga-collected-editions-3_216/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/saga-volume-3-saga-collected-editions-3_216/index.html
 
 title:
-Saga, Volume 3 (Saga (Collected Editions) #3)
+Saga, Volume 3 (Saga (Collected Editions)  3)
 
 availability:
 In stock (3 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 100/100
 
 category:
 Sequential Art
 
 description:
-From the Hugo Award-winning duo of Brian K. Vaughan (The Private Eye, Y: The Last Man) and Fiona Staples (North 40, Red Sonja), Saga is the sweeping tale of one young family fighting to find their place in the universe. Searching for their literary hero, new parents Marko and Alana travel to a cosmic lighthouse on the planet Quietus, while the couple's multiple pursuers fi From the Hugo Award-winning duo of Brian K. Vaughan (The Private Eye, Y: The Last Man) and Fiona Staples (North 40, Red Sonja), Saga is the sweeping tale of one young family fighting to find their place in the universe. Searching for their literary hero, new parents Marko and Alana travel to a cosmic lighthouse on the planet Quietus, while the couple's multiple pursuers finally close in on their targets.Collects issues 13-18. ...more
+From the Hugo Award winning duo of Brian K. Vaughan (The Private Eye, Y: The Last Man) and Fiona Staples (North 40, Red Sonja), Saga is the sweeping tale of one young family fighting to find their place in the universe. Searching for their literary hero, new parents Marko and Alana travel to a cosmic lighthouse on the planet Quietus, while the couple s multiple pursuers fi From the Hugo Award winning duo of Brian K. Vaughan (The Private Eye, Y: The Last Man) and Fiona Staples (North 40, Red Sonja), Saga is the sweeping tale of one young family fighting to find their place in the universe. Searching for their literary hero, new parents Marko and Alana travel to a cosmic lighthouse on the planet Quietus, while the couple s multiple pursuers finally close in on their targets.Collects issues 13 18. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 21.57 Dollars
 

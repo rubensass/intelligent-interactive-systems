@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/the-cuckoos-calling-cormoran-strike-1_239/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-cuckoos-calling-cormoran-strike-1_239/index.html
 
 title:
-The Cuckoo's Calling (Cormoran Strike #1)
+The Cuckoo s Calling (Cormoran Strike  1)
 
 availability:
 In stock (3 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 20/100
 
 category:
 Mystery
 
 description:
-A BRILLIANT DEBUT MYSTERY IN A CLASSIC VEIN: DETECTIVE CORMORAN STRIKE INVESTIGATES A SUPERMODEL'S SUICIDE. After losing his leg to a land mine in Afghanistan, Cormoran Strike is barely scraping by as a private investigator. Strike is down to one client, and creditors are calling. He has also just broken up with his longtime girlfriend and is living in his office.Then John A BRILLIANT DEBUT MYSTERY IN A CLASSIC VEIN: DETECTIVE CORMORAN STRIKE INVESTIGATES A SUPERMODEL'S SUICIDE. After losing his leg to a land mine in Afghanistan, Cormoran Strike is barely scraping by as a private investigator. Strike is down to one client, and creditors are calling. He has also just broken up with his longtime girlfriend and is living in his office.Then John Bristow walks through his door with an amazing story: His sister, the legendary supermodel Lula Landry, known to her friends as the Cuckoo, famously fell to her death a few months earlier. The police ruled it a suicide, but John refuses to believe that. The case plunges Strike into the world of multimillionaire beauties, rock-star boyfriends, and desperate designers, and it introduces him to every variety of pleasure, enticement, seduction, and delusion known to man.You may think you know detectives, but you've never met one quite like Strike. You may think you know about the wealthy and famous, but you've never seen them under an investigation like this. Introducing Cormoran Strike, this is the acclaimed first crime novel by J.K. Rowling, writing under the pseudonym Robert Galbraith. ...more
+A BRILLIANT DEBUT MYSTERY IN A CLASSIC VEIN: DETECTIVE CORMORAN STRIKE INVESTIGATES A SUPERMODEL S SUICIDE. After losing his leg to a land mine in Afghanistan, Cormoran Strike is barely scraping by as a private investigator. Strike is down to one client, and creditors are calling. He has also just broken up with his longtime girlfriend and is living in his office.Then John A BRILLIANT DEBUT MYSTERY IN A CLASSIC VEIN: DETECTIVE CORMORAN STRIKE INVESTIGATES A SUPERMODEL S SUICIDE. After losing his leg to a land mine in Afghanistan, Cormoran Strike is barely scraping by as a private investigator. Strike is down to one client, and creditors are calling. He has also just broken up with his longtime girlfriend and is living in his office.Then John Bristow walks through his door with an amazing story: His sister, the legendary supermodel Lula Landry, known to her friends as the Cuckoo, famously fell to her death a few months earlier. The police ruled it a suicide, but John refuses to believe that. The case plunges Strike into the world of multimillionaire beauties, rock star boyfriends, and desperate designers, and it introduces him to every variety of pleasure, enticement, seduction, and delusion known to man.You may think you know detectives, but you ve never met one quite like Strike. You may think you know about the wealthy and famous, but you ve never seen them under an investigation like this. Introducing Cormoran Strike, this is the acclaimed first crime novel by J.K. Rowling, writing under the pseudonym Robert Galbraith. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 19.21 Dollars
 

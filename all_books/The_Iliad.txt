@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/the-iliad_69/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-iliad_69/index.html
 
 title:
 The Iliad
@@ -7,7 +7,7 @@ The Iliad
 availability:
 In stock (1 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 20/100
 
 category:
@@ -16,6 +16,6 @@ Add a comment
 description:
 The Iliad is one of the two great epics of Homer, and is typically described as one of the greatest war stories of all time, but to say the Iliad is a war story does not begin to describe the emotional sweep of its action and characters: Achilles, Helen, Hector, and other heroes of Greek myth and history in the tenth and final year of the Greek siege of Troy.
 
-price:
+Below is the retail price of the book on the library's website:
 16.16 Dollars
 

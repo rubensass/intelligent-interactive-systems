@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/the-demon-haunted-world-science-as-a-candle-in-the-dark_242/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-demon-haunted-world-science-as-a-candle-in-the-dark_242/index.html
 
 title:
-The Demon-Haunted World: Science as a Candle in the Dark
+The Demon Haunted World: Science as a Candle in the Dark
 
 availability:
 In stock (3 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Default
 
 description:
-How can we make intelligent decisions about our increasingly technology-driven lives if we don't understand the difference between the myths of pseudoscience and the testable hypotheses of science? Pulitzer Prize-winning author and distinguished astronomer Carl Sagan argues that scientific thinking is critical not only to the pursuit of truth but to the very well-being of How can we make intelligent decisions about our increasingly technology-driven lives if we don't understand the difference between the myths of pseudoscience and the testable hypotheses of science? Pulitzer Prize-winning author and distinguished astronomer Carl Sagan argues that scientific thinking is critical not only to the pursuit of truth but to the very well-being of our democratic institutions.Casting a wide net through history and culture, Sagan examines and authoritatively debunks such celebrated fallacies of the past as witchcraft, faith healing, demons, and UFOs. And yet, disturbingly, in today's so-called information age, pseudoscience is burgeoning with stories of alien abduction, channeling past lives, and communal hallucinations commanding growing attention and respect. As Sagan demonstrates with lucid eloquence, the siren song of unreason is not just a cultural wrong turn but a dangerous plunge into darkness that threatens our most basic freedoms. ...more
+How can we make intelligent decisions about our increasingly technology driven lives if we don t understand the difference between the myths of pseudoscience and the testable hypotheses of science? Pulitzer Prize winning author and distinguished astronomer Carl Sagan argues that scientific thinking is critical not only to the pursuit of truth but to the very well being of How can we make intelligent decisions about our increasingly technology driven lives if we don t understand the difference between the myths of pseudoscience and the testable hypotheses of science? Pulitzer Prize winning author and distinguished astronomer Carl Sagan argues that scientific thinking is critical not only to the pursuit of truth but to the very well being of our democratic institutions.Casting a wide net through history and culture, Sagan examines and authoritatively debunks such celebrated fallacies of the past as witchcraft, faith healing, demons, and UFOs. And yet, disturbingly, in today s so called information age, pseudoscience is burgeoning with stories of alien abduction, channeling past lives, and communal hallucinations commanding growing attention and respect. As Sagan demonstrates with lucid eloquence, the siren song of unreason is not just a cultural wrong turn but a dangerous plunge into darkness that threatens our most basic freedoms. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 52.25 Dollars
 

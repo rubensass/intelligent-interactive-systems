@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/the-complete-maus-maus-1-2_62/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-complete-maus-maus-1-2_62/index.html
 
 title:
-The Complete Maus (Maus #1-2)
+The Complete Maus (Maus  1 2)
 
 availability:
 In stock (1 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
 Sequential Art
 
 description:
-Combined for the first time here are Maus I: A Survivor's Tale and Maus II - the complete story of Vladek Spiegelman and his wife, living and surviving in Hitler's Europe. By addressing the horror of the Holocaust through cartoons, the author captures the everyday reality of fear and is able to explore the guilt, relief and extraordinary sensation of survival - and how the Combined for the first time here are Maus I: A Survivor's Tale and Maus II - the complete story of Vladek Spiegelman and his wife, living and surviving in Hitler's Europe. By addressing the horror of the Holocaust through cartoons, the author captures the everyday reality of fear and is able to explore the guilt, relief and extraordinary sensation of survival - and how the children of survivors are in their own way affected by the trials of their parents. A contemporary classic of immeasurable significance. ...more
+Combined for the first time here are Maus I: A Survivor s Tale and Maus II   the complete story of Vladek Spiegelman and his wife, living and surviving in Hitler s Europe. By addressing the horror of the Holocaust through cartoons, the author captures the everyday reality of fear and is able to explore the guilt, relief and extraordinary sensation of survival   and how the Combined for the first time here are Maus I: A Survivor s Tale and Maus II   the complete story of Vladek Spiegelman and his wife, living and surviving in Hitler s Europe. By addressing the horror of the Holocaust through cartoons, the author captures the everyday reality of fear and is able to explore the guilt, relief and extraordinary sensation of survival   and how the children of survivors are in their own way affected by the trials of their parents. A contemporary classic of immeasurable significance. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 10.64 Dollars
 

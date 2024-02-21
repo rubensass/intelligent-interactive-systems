@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html
 
 title:
 Birdsong: A Story in Pictures
@@ -7,15 +7,15 @@ Birdsong: A Story in Pictures
 availability:
 In stock (19 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
 Childrens
 
 description:
-Bring the thrilling story of one red bird to life. When an innocent bird meets two cruel kids, their world is forever changed. But exactly how that change unfolds is up to you, in the tradition of Kamishibai—Japanese paper theater. The wordless story by master cartoonist James Sturm is like a haiku—the elegant images leave space for children to inhabit this timeless tale—a Bring the thrilling story of one red bird to life. When an innocent bird meets two cruel kids, their world is forever changed. But exactly how that change unfolds is up to you, in the tradition of Kamishibai—Japanese paper theater. The wordless story by master cartoonist James Sturm is like a haiku—the elegant images leave space for children to inhabit this timeless tale—and make it their own, leading them to learn an ultimate lesson they'll never forget.James Sturm is the author of several books for kids including the Adventures in Cartooning series (with Andrew Arnold and Alexis Frederick-Frost) and the forthcoming Ape and Armadillo. James also helped start a college for cartoonists, The Center for Cartoon Studies, in the small railroad village of White River Junction, Vermont. ...more
+Bring the thrilling story of one red bird to life. When an innocent bird meets two cruel kids, their world is forever changed. But exactly how that change unfolds is up to you, in the tradition of Kamishibai  Japanese paper theater. The wordless story by master cartoonist James Sturm is like a haiku  the elegant images leave space for children to inhabit this timeless tale  a Bring the thrilling story of one red bird to life. When an innocent bird meets two cruel kids, their world is forever changed. But exactly how that change unfolds is up to you, in the tradition of Kamishibai  Japanese paper theater. The wordless story by master cartoonist James Sturm is like a haiku  the elegant images leave space for children to inhabit this timeless tale  and make it their own, leading them to learn an ultimate lesson they ll never forget.James Sturm is the author of several books for kids including the Adventures in Cartooning series (with Andrew Arnold and Alexis Frederick Frost) and the forthcoming Ape and Armadillo. James also helped start a college for cartoonists, The Center for Cartoon Studies, in the small railroad village of White River Junction, Vermont. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 54.64 Dollars
 

@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/the-artists-way-a-spiritual-path-to-higher-creativity_839/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-artists-way-a-spiritual-path-to-higher-creativity_839/index.html
 
 title:
-The Artist's Way: A Spiritual Path to Higher Creativity
+The Artist s Way: A Spiritual Path to Higher Creativity
 
 availability:
 In stock (15 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 100/100
 
 category:
 Nonfiction
 
 description:
-"Without The Artist's Way, there would have been no Eat, Pray, Love.” —Elizabeth GilbertThe Artist’s Way is the seminal book on the subject of creativity. An international bestseller, millions of readers have found it to be an invaluable guide to living the artist’s life. Still as vital today—or perhaps even more so—than it was when it was first published one decade ago, i "Without The Artist's Way, there would have been no Eat, Pray, Love.” —Elizabeth GilbertThe Artist’s Way is the seminal book on the subject of creativity. An international bestseller, millions of readers have found it to be an invaluable guide to living the artist’s life. Still as vital today—or perhaps even more so—than it was when it was first published one decade ago, it is a powerfully provocative and inspiring work. In a new introduction to the book, Julia Cameron reflects upon the impact of The Artist’s Way and describes the work she has done during the last decade and the new insights into the creative process that she has gained. Updated and expanded, this anniversary edition reframes The Artist’s Way for a new century. ...more
+ Without The Artist s Way, there would have been no Eat, Pray, Love.    Elizabeth GilbertThe Artist s Way is the seminal book on the subject of creativity. An international bestseller, millions of readers have found it to be an invaluable guide to living the artist s life. Still as vital today  or perhaps even more so  than it was when it was first published one decade ago, i  Without The Artist s Way, there would have been no Eat, Pray, Love.    Elizabeth GilbertThe Artist s Way is the seminal book on the subject of creativity. An international bestseller, millions of readers have found it to be an invaluable guide to living the artist s life. Still as vital today  or perhaps even more so  than it was when it was first published one decade ago, it is a powerfully provocative and inspiring work. In a new introduction to the book, Julia Cameron reflects upon the impact of The Artist s Way and describes the work she has done during the last decade and the new insights into the creative process that she has gained. Updated and expanded, this anniversary edition reframes The Artist s Way for a new century. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 38.49 Dollars
 

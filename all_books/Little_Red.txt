@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/little-red_817/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/little-red_817/index.html
 
 title:
 Little Red
@@ -7,7 +7,7 @@ Little Red
 availability:
 In stock (15 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
@@ -16,6 +16,6 @@ Childrens
 description:
 On her way to Grandmas house, Little Red Riding Hood meets a wolf. Now, that might scare some little girlsbut not this little girl! She knows just what the wolf is up to, and shes not going to let him get away with it. In this updated fairy tale with a mischievous twist, talented newcomer Bethan Woollvin uses sly humor, striking visuals, and a dark irreverence to turn a fa On her way to Grandmas house, Little Red Riding Hood meets a wolf. Now, that might scare some little girlsbut not this little girl! She knows just what the wolf is up to, and shes not going to let him get away with it. In this updated fairy tale with a mischievous twist, talented newcomer Bethan Woollvin uses sly humor, striking visuals, and a dark irreverence to turn a familiar tale on its head. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 13.47 Dollars
 

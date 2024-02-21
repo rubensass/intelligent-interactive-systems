@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/kierkegaard-a-christian-missionary-to-christians_527/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/kierkegaard-a-christian-missionary-to-christians_527/index.html
 
 title:
 Kierkegaard: A Christian Missionary to Christians
@@ -7,15 +7,15 @@ Kierkegaard: A Christian Missionary to Christians
 availability:
 In stock (8 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 20/100
 
 category:
 Philosophy
 
 description:
-Soren Kierkegaard (1813-1855) had a mission. The church had become weak, flabby and inconsequential. Being a Christian was more a cultural heritage than a spiritual reality. His mission reintroduce the Christian faith to Christians. How could he break through to people who were members of the church and thought they were Christians already? Like an Old Testament prophet, K Soren Kierkegaard (1813-1855) had a mission. The church had become weak, flabby and inconsequential. Being a Christian was more a cultural heritage than a spiritual reality. His mission reintroduce the Christian faith to Christians. How could he break through to people who were members of the church and thought they were Christians already? Like an Old Testament prophet, Kierkegaard used a variety of pointed and dramatic ways to shake people from their slumber. He incisively diagnosed the spiritual ailments of his age and offered a fresh take on classic Christian teaching. Mark Tietjen thinks that Kierkegaard's critique of his contemporaries strikes close to home today. We also need to listen to one of the most insightful yet complex Christian thinkers of any era. Through an examination of core Christian doctrines the person of Jesus Christ, human nature, Christian witness and love Tietjen helps us hear Kierkegaard's missionary message to a church that often fails to follow Christ with purity of heart." ...more
+Soren Kierkegaard (1813 1855) had a mission. The church had become weak, flabby and inconsequential. Being a Christian was more a cultural heritage than a spiritual reality. His mission reintroduce the Christian faith to Christians. How could he break through to people who were members of the church and thought they were Christians already? Like an Old Testament prophet, K Soren Kierkegaard (1813 1855) had a mission. The church had become weak, flabby and inconsequential. Being a Christian was more a cultural heritage than a spiritual reality. His mission reintroduce the Christian faith to Christians. How could he break through to people who were members of the church and thought they were Christians already? Like an Old Testament prophet, Kierkegaard used a variety of pointed and dramatic ways to shake people from their slumber. He incisively diagnosed the spiritual ailments of his age and offered a fresh take on classic Christian teaching. Mark Tietjen thinks that Kierkegaard s critique of his contemporaries strikes close to home today. We also need to listen to one of the most insightful yet complex Christian thinkers of any era. Through an examination of core Christian doctrines the person of Jesus Christ, human nature, Christian witness and love Tietjen helps us hear Kierkegaard s missionary message to a church that often fails to follow Christ with purity of heart.  ...more
 
-price:
+Below is the retail price of the book on the library's website:
 47.13 Dollars
 

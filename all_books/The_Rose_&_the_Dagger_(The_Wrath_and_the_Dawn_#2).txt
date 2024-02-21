@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/the-rose-the-dagger-the-wrath-and-the-dawn-2_278/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-rose-the-dagger-the-wrath-and-the-dawn-2_278/index.html
 
 title:
-The Rose & the Dagger (The Wrath and the Dawn #2)
+The Rose   the Dagger (The Wrath and the Dawn  2)
 
 availability:
 In stock (3 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Fantasy
 
 description:
-The much anticipated sequel to the breathtaking The Wrath and the Dawn, lauded by Publishers Weekly as "a potent page-turner of intrigue and romance."I am surrounded on all sides by a desert. A guest, in a prison of sand and sun. My family is here. And I do not know whom I can trust.In a land on the brink of war, Shahrzad has been torn from the love of her husband Khalid, The much anticipated sequel to the breathtaking The Wrath and the Dawn, lauded by Publishers Weekly as "a potent page-turner of intrigue and romance."I am surrounded on all sides by a desert. A guest, in a prison of sand and sun. My family is here. And I do not know whom I can trust.In a land on the brink of war, Shahrzad has been torn from the love of her husband Khalid, the Caliph of Khorasan. She once believed him a monster, but his secrets revealed a man tormented by guilt and a powerful curse—one that might keep them apart forever. Reunited with her family, who have taken refuge with enemies of Khalid, and Tariq, her childhood sweetheart, she should be happy. But Tariq now commands forces set on destroying Khalid's empire. Shahrzad is almost a prisoner caught between loyalties to people she loves. But she refuses to be a pawn and devises a plan.While her father, Jahandar, continues to play with magical forces he doesn't yet understand, Shahrzad tries to uncover powers that may lie dormant within her. With the help of a tattered old carpet and a tempestuous but sage young man, Shahrzad will attempt to break the curse and reunite with her one true love.From the Hardcover edition. ...more
+The much anticipated sequel to the breathtaking The Wrath and the Dawn, lauded by Publishers Weekly as  a potent page turner of intrigue and romance. I am surrounded on all sides by a desert. A guest, in a prison of sand and sun. My family is here. And I do not know whom I can trust.In a land on the brink of war, Shahrzad has been torn from the love of her husband Khalid, The much anticipated sequel to the breathtaking The Wrath and the Dawn, lauded by Publishers Weekly as  a potent page turner of intrigue and romance. I am surrounded on all sides by a desert. A guest, in a prison of sand and sun. My family is here. And I do not know whom I can trust.In a land on the brink of war, Shahrzad has been torn from the love of her husband Khalid, the Caliph of Khorasan. She once believed him a monster, but his secrets revealed a man tormented by guilt and a powerful curse  one that might keep them apart forever. Reunited with her family, who have taken refuge with enemies of Khalid, and Tariq, her childhood sweetheart, she should be happy. But Tariq now commands forces set on destroying Khalid s empire. Shahrzad is almost a prisoner caught between loyalties to people she loves. But she refuses to be a pawn and devises a plan.While her father, Jahandar, continues to play with magical forces he doesn t yet understand, Shahrzad tries to uncover powers that may lie dormant within her. With the help of a tattered old carpet and a tempestuous but sage young man, Shahrzad will attempt to break the curse and reunite with her one true love.From the Hardcover edition. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 58.64 Dollars
 

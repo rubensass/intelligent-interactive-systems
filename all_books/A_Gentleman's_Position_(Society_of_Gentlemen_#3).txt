@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/a-gentlemans-position-society-of-gentlemen-3_584/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/a-gentlemans-position-society-of-gentlemen-3_584/index.html
 
 title:
-A Gentleman's Position (Society of Gentlemen #3)
+A Gentleman s Position (Society of Gentlemen  3)
 
 availability:
 In stock (11 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 100/100
 
 category:
 Romance
 
 description:
-Power, privilege, and the rigid rules of class leave two hearts yearning for connection in the sizzling new Society of Gentlemen novel from K. J. Charles. Among his eccentric though strictly principled group of friends, Lord Richard Vane is the confidant on whom everyone depends for advice, moral rectitude, and discreet assistance. Yet when Richard has a problem, he turns Power, privilege, and the rigid rules of class leave two hearts yearning for connection in the sizzling new Society of Gentlemen novel from K. J. Charles.  Among his eccentric though strictly principled group of friends, Lord Richard Vane is the confidant on whom everyone depends for advice, moral rectitude, and discreet assistance. Yet when Richard has a problem, he turns to his valet, a fixer of unparalleled genius—and the object of Richard’s deepest desires. If there is one rule a gentleman must follow, it is never to dally with servants. But when David is close enough to touch, the rules of class collide with the basest sort of animal instinct: overpowering lust.   For David Cyprian, burglary and blackmail are as much in a day’s work as bootblacking—anything for the man he’s devoted to. But the one thing he wants for himself is the one thing Richard refuses to give: his heart. With the tension between them growing to be unbearable, David’s seemingly incorruptible master has left him no choice. Putting his finely honed skills of seduction and manipulation to good use, he will convince Richard to forget all about his well-meaning objections and give in to sweet, sinful temptation.  Includes a special message from the editor, as well as an excerpt from another Loveswept title. ...more
+Power, privilege, and the rigid rules of class leave two hearts yearning for connection in the sizzling new Society of Gentlemen novel from K. J. Charles. Among his eccentric though strictly principled group of friends, Lord Richard Vane is the confidant on whom everyone depends for advice, moral rectitude, and discreet assistance. Yet when Richard has a problem, he turns Power, privilege, and the rigid rules of class leave two hearts yearning for connection in the sizzling new Society of Gentlemen novel from K. J. Charles.  Among his eccentric though strictly principled group of friends, Lord Richard Vane is the confidant on whom everyone depends for advice, moral rectitude, and discreet assistance. Yet when Richard has a problem, he turns to his valet, a fixer of unparalleled genius  and the object of Richard s deepest desires. If there is one rule a gentleman must follow, it is never to dally with servants. But when David is close enough to touch, the rules of class collide with the basest sort of animal instinct: overpowering lust.   For David Cyprian, burglary and blackmail are as much in a day s work as bootblacking  anything for the man he s devoted to. But the one thing he wants for himself is the one thing Richard refuses to give: his heart. With the tension between them growing to be unbearable, David s seemingly incorruptible master has left him no choice. Putting his finely honed skills of seduction and manipulation to good use, he will convince Richard to forget all about his well meaning objections and give in to sweet, sinful temptation.  Includes a special message from the editor, as well as an excerpt from another Loveswept title. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 14.75 Dollars
 

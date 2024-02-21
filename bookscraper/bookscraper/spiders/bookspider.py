@@ -1,6 +1,7 @@
 import os
 from sys import path
-import json
+import re
+from unidecode import unidecode
 
 import scrapy
 from scrapy.crawler import CrawlerProcess
@@ -8,6 +9,14 @@ from scrapy.crawler import CrawlerProcess
 path.append(os.getcwd())
 
 from model.books_items import BookItem
+
+
+def preprocess_text(text):
+    text = unidecode(text)
+    text = text.strip("'")
+    text = text.strip("-")
+    text = re.sub(r"[^a-zA-Z0-9\s,.!?;:(){}/]", " ", text)
+    return text
 
 
 class BookspiderSpider(scrapy.Spider):
@@ -75,9 +84,19 @@ class BookspiderSpider(scrapy.Spider):
         )
         with open(f"all_books/{file_name}.txt", "w") as f:
             for key, value in book_item.__dict__.items():
+                key = preprocess_text(key)
+                if key != "url":
+                    value = preprocess_text(value)
+                    if key == "book rating":
+                        key = "Below is the average score given to the book by other readers"
+                    elif key == "price":
+                        key = "Below is the retail price of the book on the library's website"
+                else:
+                    key = "You can purchase the book at the following url address"
+                    value = f"url_adress: {value}"
                 f.write(f"{key}:")
                 f.write("\n")
-                f.write(f"{value}")
+                f.write(value)
                 f.write("\n")
                 f.write("\n")
 

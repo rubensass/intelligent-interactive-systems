@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/no-love-allowed-dodge-cove-1_625/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/no-love-allowed-dodge-cove-1_625/index.html
 
 title:
-No Love Allowed (Dodge Cove #1)
+No Love Allowed (Dodge Cove  1)
 
 availability:
 In stock (12 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Young Adult
 
 description:
-It's all fun and parties until someone falls in love in this modern fairy tale from author Kate Evangelista.Caleb desperately needs a fake girlfriend. Either he attends a series of parties for his father’s law firm with a pretty girl on his arm, or he gets shipped off to Yale to start a future he’s not ready for and isn’t sure he wants. And sadly, the last unattached girl It's all fun and parties until someone falls in love in this modern fairy tale from author Kate Evangelista.Caleb desperately needs a fake girlfriend. Either he attends a series of parties for his father’s law firm with a pretty girl on his arm, or he gets shipped off to Yale to start a future he’s not ready for and isn’t sure he wants. And sadly, the last unattached girl in his social circle has just made the grievous mistake of falling in love with him. Fortunately, Didi, recently fired waitress and aspiring painter, is open to new experiences. As the summer ticks by in a whirl of lavish parties, there’s only one rule: They must not fall in love! ...more
+It s all fun and parties until someone falls in love in this modern fairy tale from author Kate Evangelista.Caleb desperately needs a fake girlfriend. Either he attends a series of parties for his father s law firm with a pretty girl on his arm, or he gets shipped off to Yale to start a future he s not ready for and isn t sure he wants. And sadly, the last unattached girl It s all fun and parties until someone falls in love in this modern fairy tale from author Kate Evangelista.Caleb desperately needs a fake girlfriend. Either he attends a series of parties for his father s law firm with a pretty girl on his arm, or he gets shipped off to Yale to start a future he s not ready for and isn t sure he wants. And sadly, the last unattached girl in his social circle has just made the grievous mistake of falling in love with him. Fortunately, Didi, recently fired waitress and aspiring painter, is open to new experiences. As the summer ticks by in a whirl of lavish parties, there s only one rule: They must not fall in love! ...more
 
-price:
+Below is the retail price of the book on the library's website:
 54.65 Dollars
 

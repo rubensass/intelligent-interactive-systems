@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/the-maze-runner-the-maze-runner-1_263/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-maze-runner-the-maze-runner-1_263/index.html
 
 title:
-The Maze Runner (The Maze Runner #1)
+The Maze Runner (The Maze Runner  1)
 
 availability:
 In stock (3 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 20/100
 
 category:
 Default
 
 description:
-If you ain’t scared, you ain’t human.When Thomas wakes up in the lift, the only thing he can remember is his name. He’s surrounded by strangers—boys whose memories are also gone.Nice to meet ya, shank. Welcome to the Glade.Outside the towering stone walls that surround the Glade is a limitless, ever-changing maze. It’s the only way out—and no one’s ever made it through ali If you ain’t scared, you ain’t human.When Thomas wakes up in the lift, the only thing he can remember is his name. He’s surrounded by strangers—boys whose memories are also gone.Nice to meet ya, shank. Welcome to the Glade.Outside the towering stone walls that surround the Glade is a limitless, ever-changing maze. It’s the only way out—and no one’s ever made it through alive.Everything is going to change.Then a girl arrives. The first girl ever. And the message she delivers is terrifying.Remember. Survive. Run. ...more
+If you ain t scared, you ain t human.When Thomas wakes up in the lift, the only thing he can remember is his name. He s surrounded by strangers  boys whose memories are also gone.Nice to meet ya, shank. Welcome to the Glade.Outside the towering stone walls that surround the Glade is a limitless, ever changing maze. It s the only way out  and no one s ever made it through ali If you ain t scared, you ain t human.When Thomas wakes up in the lift, the only thing he can remember is his name. He s surrounded by strangers  boys whose memories are also gone.Nice to meet ya, shank. Welcome to the Glade.Outside the towering stone walls that surround the Glade is a limitless, ever changing maze. It s the only way out  and no one s ever made it through alive.Everything is going to change.Then a girl arrives. The first girl ever. And the message she delivers is terrifying.Remember. Survive. Run. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 20.93 Dollars
 

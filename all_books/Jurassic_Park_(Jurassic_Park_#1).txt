@@ -1,13 +1,13 @@
-url:
-https://books.toscrape.com/catalogue/jurassic-park-jurassic-park-1_180/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/jurassic-park-jurassic-park-1_180/index.html
 
 title:
-Jurassic Park (Jurassic Park #1)
+Jurassic Park (Jurassic Park  1)
 
 availability:
 In stock (3 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 20/100
 
 category:
@@ -16,6 +16,6 @@ Fiction
 description:
 A billionaire has created a technique to clone dinosaurs. From the DNA that his crack team of scientists extract, he is able to grow the dinosaurs in his laboratories and lock them away on an island behind electric fences, creating a sort of theme park. He asks a group of scientists from several different fields to come and view the park, but something goes terribly wrong A billionaire has created a technique to clone dinosaurs. From the DNA that his crack team of scientists extract, he is able to grow the dinosaurs in his laboratories and lock them away on an island behind electric fences, creating a sort of theme park. He asks a group of scientists from several different fields to come and view the park, but something goes terribly wrong when a worker on the island turns traitor and shuts down the power.Cover illustration by Chip Kidd. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 44.97 Dollars
 

@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/les-fleurs-du-mal_530/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/les-fleurs-du-mal_530/index.html
 
 title:
 Les Fleurs du Mal
@@ -7,15 +7,15 @@ Les Fleurs du Mal
 availability:
 In stock (8 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 100/100
 
 category:
 Poetry
 
 description:
-Presents the first American translation of the complete text of Baudelaire's 1857 masterwork and includes the complete original French texts for easy comparison.
+Presents the first American translation of the complete text of Baudelaire s 1857 masterwork and includes the complete original French texts for easy comparison.
 
-price:
+Below is the retail price of the book on the library's website:
 29.04 Dollars
 

@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/hush-hush-hush-hush-1_701/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/hush-hush-hush-hush-1_701/index.html
 
 title:
-Hush, Hush (Hush, Hush #1)
+Hush, Hush (Hush, Hush  1)
 
 availability:
 In stock (14 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
 Default
 
 description:
-A SACRED OATHA FALLEN ANGELA FORBIDDEN LOVERomance was not part of Nora Grey's plan. She's never been particularly attracted to the boys at her school, no matter how hard her best friend, Vee, pushes them at her. Not until Patch comes along. With his easy smile and eyes that seem to see inside her, Patch draws Nora to him against her better judgment.But after a series of t A SACRED OATHA FALLEN ANGELA FORBIDDEN LOVERomance was not part of Nora Grey's plan. She's never been particularly attracted to the boys at her school, no matter how hard her best friend, Vee, pushes them at her. Not until Patch comes along. With his easy smile and eyes that seem to see inside her, Patch draws Nora to him against her better judgment.But after a series of terrifying encounters, Nora's not sure whom to trust. Patch seems to be everywhere she is and seems to know more about her than her closest friends. She can't decide whether she should fall into his arms or run and hide. And when she tries to seek some answers, she finds herself near a truth that is way more unsettling than anything Patch makes her feel.For she is right in the middle of an ancient battle between the immortal and those that have fallen - and, when it comes to choosing sides, the wrong choice will cost Nora her life. ...more
+A SACRED OATHA FALLEN ANGELA FORBIDDEN LOVERomance was not part of Nora Grey s plan. She s never been particularly attracted to the boys at her school, no matter how hard her best friend, Vee, pushes them at her. Not until Patch comes along. With his easy smile and eyes that seem to see inside her, Patch draws Nora to him against her better judgment.But after a series of t A SACRED OATHA FALLEN ANGELA FORBIDDEN LOVERomance was not part of Nora Grey s plan. She s never been particularly attracted to the boys at her school, no matter how hard her best friend, Vee, pushes them at her. Not until Patch comes along. With his easy smile and eyes that seem to see inside her, Patch draws Nora to him against her better judgment.But after a series of terrifying encounters, Nora s not sure whom to trust. Patch seems to be everywhere she is and seems to know more about her than her closest friends. She can t decide whether she should fall into his arms or run and hide. And when she tries to seek some answers, she finds herself near a truth that is way more unsettling than anything Patch makes her feel.For she is right in the middle of an ancient battle between the immortal and those that have fallen   and, when it comes to choosing sides, the wrong choice will cost Nora her life. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 47.02 Dollars
 

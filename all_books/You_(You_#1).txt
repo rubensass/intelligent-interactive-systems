@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/you-you-1_784/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/you-you-1_784/index.html
 
 title:
-You (You #1)
+You (You  1)
 
 availability:
 In stock (14 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 100/100
 
 category:
 Thriller
 
 description:
-When a beautiful, aspiring writer strides into the East Village bookstore where Joe Goldberg works, he does what anyone would do: he Googles the name on her credit card.There is only one Guinevere Beck in New York City. She has a public Facebook account and Tweets incessantly, telling Joe everything he needs to know: she is simply Beck to her friends, she went to Brown Uni When a beautiful, aspiring writer strides into the East Village bookstore where Joe Goldberg works, he does what anyone would do: he Googles the name on her credit card.There is only one Guinevere Beck in New York City. She has a public Facebook account and Tweets incessantly, telling Joe everything he needs to know: she is simply Beck to her friends, she went to Brown University, she lives on Bank Street, and she’ll be at a bar in Brooklyn tonight—the perfect place for a “chance” meeting.As Joe invisibly and obsessively takes control of Beck’s life, he orchestrates a series of events to ensure Beck finds herself in his waiting arms. Moving from stalker to boyfriend, Joe transforms himself into Beck’s perfect man, all while quietly removing the obstacles that stand in their way—even if it means murder. ...more
+When a beautiful, aspiring writer strides into the East Village bookstore where Joe Goldberg works, he does what anyone would do: he Googles the name on her credit card.There is only one Guinevere Beck in New York City. She has a public Facebook account and Tweets incessantly, telling Joe everything he needs to know: she is simply Beck to her friends, she went to Brown Uni When a beautiful, aspiring writer strides into the East Village bookstore where Joe Goldberg works, he does what anyone would do: he Googles the name on her credit card.There is only one Guinevere Beck in New York City. She has a public Facebook account and Tweets incessantly, telling Joe everything he needs to know: she is simply Beck to her friends, she went to Brown University, she lives on Bank Street, and she ll be at a bar in Brooklyn tonight  the perfect place for a  chance  meeting.As Joe invisibly and obsessively takes control of Beck s life, he orchestrates a series of events to ensure Beck finds herself in his waiting arms. Moving from stalker to boyfriend, Joe transforms himself into Beck s perfect man, all while quietly removing the obstacles that stand in their way  even if it means murder. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 43.61 Dollars
 

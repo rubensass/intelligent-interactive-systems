@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/underlying-notes_577/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/underlying-notes_577/index.html
 
 title:
 Underlying Notes
@@ -7,15 +7,15 @@ Underlying Notes
 availability:
 In stock (9 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
 Default
 
 description:
-Carla Matteo copes with life by "tipping the bottle"--glass goddesses funneling perfume! During a midlife renaissance, the "juice" enables Carla to find her own niche, while the ominous rose note in Paloma Picasso forces her to confront the past.
+Carla Matteo copes with life by  tipping the bottle   glass goddesses funneling perfume! During a midlife renaissance, the  juice  enables Carla to find her own niche, while the ominous rose note in Paloma Picasso forces her to confront the past.
 
-price:
+Below is the retail price of the book on the library's website:
 11.82 Dollars
 

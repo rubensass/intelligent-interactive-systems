@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/danganronpa-volume-1_889/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/danganronpa-volume-1_889/index.html
 
 title:
 Danganronpa Volume 1
@@ -7,15 +7,15 @@ Danganronpa Volume 1
 availability:
 In stock (16 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Sequential Art
 
 description:
-Each year, the elite Hope's Peak Academy selects only the most gifted and talented students to enroll...plus one ordinary student, chosen by lottery. Makoto Naegi was that lucky person--or so he thought! When he shows up for class, he finds the elite students are a bizarre cast of oddballs under the ruthless authority of a robot teddy bear principal, Monokuma. The bear lay Each year, the elite Hope's Peak Academy selects only the most gifted and talented students to enroll...plus one ordinary student, chosen by lottery. Makoto Naegi was that lucky person--or so he thought! When he shows up for class, he finds the elite students are a bizarre cast of oddballs under the ruthless authority of a robot teddy bear principal, Monokuma. The bear lays down the school rules: the only way out of Hope's Peak is to not only murder another student...but get away with it, as every murder is followed by a tribunal where the surviving students cross-examine each other!Inspired by the Danganronpa videogame series and based on the anime of the same name, the Danganropa manga is a quirky, fun, weird, and dynamic take on the high school Battle Royale genre. ...more
+Each year, the elite Hope s Peak Academy selects only the most gifted and talented students to enroll...plus one ordinary student, chosen by lottery. Makoto Naegi was that lucky person  or so he thought! When he shows up for class, he finds the elite students are a bizarre cast of oddballs under the ruthless authority of a robot teddy bear principal, Monokuma. The bear lay Each year, the elite Hope s Peak Academy selects only the most gifted and talented students to enroll...plus one ordinary student, chosen by lottery. Makoto Naegi was that lucky person  or so he thought! When he shows up for class, he finds the elite students are a bizarre cast of oddballs under the ruthless authority of a robot teddy bear principal, Monokuma. The bear lays down the school rules: the only way out of Hope s Peak is to not only murder another student...but get away with it, as every murder is followed by a tribunal where the surviving students cross examine each other!Inspired by the Danganronpa videogame series and based on the anime of the same name, the Danganropa manga is a quirky, fun, weird, and dynamic take on the high school Battle Royale genre. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 51.99 Dollars
 

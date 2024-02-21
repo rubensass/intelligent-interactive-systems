@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/dracula_150/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/dracula_150/index.html
 
 title:
 Dracula
@@ -7,15 +7,15 @@ Dracula
 availability:
 In stock (3 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
 Default
 
 description:
-A rich selection of background and source materials is provided in three areas: Contexts includes probable inspirations for Dracula in the earlier works of James Malcolm Rymer and Emily Gerard. Also included are a discussion of Stoker's working notes for the novel and "Dracula's Guest," the original opening chapter to Dracula. Reviews and Reactions reprints five early revi A rich selection of background and source materials is provided in three areas: Contexts includes probable inspirations for Dracula in the earlier works of James Malcolm Rymer and Emily Gerard. Also included are a discussion of Stoker's working notes for the novel and "Dracula's Guest," the original opening chapter to Dracula. Reviews and Reactions reprints five early reviews of the novel. "Dramatic and Film Variations" focuses on theater and film adaptations of Dracula, two indications of the novel's unwavering appeal. David J. Skal, Gregory A. Waller, and Nina Auerbach offer their varied perspectives. Checklists of both dramatic and film adaptations are included.Criticism collects seven theoretical interpretations of Dracula by Phyllis A. Roth, Carol A. Senf, Franco Moretti, Christopher Craft, Bram Dijsktra, Stephen D. Arata, and Talia Schaffer.A Chronology and a Selected Bibliography are included. ...more
+A rich selection of background and source materials is provided in three areas: Contexts includes probable inspirations for Dracula in the earlier works of James Malcolm Rymer and Emily Gerard. Also included are a discussion of Stoker s working notes for the novel and  Dracula s Guest,  the original opening chapter to Dracula. Reviews and Reactions reprints five early revi A rich selection of background and source materials is provided in three areas: Contexts includes probable inspirations for Dracula in the earlier works of James Malcolm Rymer and Emily Gerard. Also included are a discussion of Stoker s working notes for the novel and  Dracula s Guest,  the original opening chapter to Dracula. Reviews and Reactions reprints five early reviews of the novel.  Dramatic and Film Variations  focuses on theater and film adaptations of Dracula, two indications of the novel s unwavering appeal. David J. Skal, Gregory A. Waller, and Nina Auerbach offer their varied perspectives. Checklists of both dramatic and film adaptations are included.Criticism collects seven theoretical interpretations of Dracula by Phyllis A. Roth, Carol A. Senf, Franco Moretti, Christopher Craft, Bram Dijsktra, Stephen D. Arata, and Talia Schaffer.A Chronology and a Selected Bibliography are included. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 52.62 Dollars
 

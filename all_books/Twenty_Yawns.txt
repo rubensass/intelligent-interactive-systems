@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/twenty-yawns_773/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/twenty-yawns_773/index.html
 
 title:
 Twenty Yawns
@@ -7,7 +7,7 @@ Twenty Yawns
 availability:
 In stock (14 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
@@ -16,6 +16,6 @@ Childrens
 description:
 Featuring lyrical text and beautiful illustrations, this bedtime tale from Pulitzer Prize winner Jane Smiley and Caldecott Honor recipient Lauren Castillo evokes the splashy fun of the beach and the quietude of a moonlit night, with twenty yawns sprinkled in for children to discover and count.As her mom reads a bedtime story, Lucy drifts off. But later, she awakens in a da Featuring lyrical text and beautiful illustrations, this bedtime tale from Pulitzer Prize winner Jane Smiley and Caldecott Honor recipient Lauren Castillo evokes the splashy fun of the beach and the quietude of a moonlit night, with twenty yawns sprinkled in for children to discover and count.As her mom reads a bedtime story, Lucy drifts off. But later, she awakens in a dark, still room, and everything looks mysterious. How will she ever get back to sleep? ...more
 
-price:
+Below is the retail price of the book on the library's website:
 22.08 Dollars
 

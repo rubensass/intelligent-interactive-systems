@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/awkward_124/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/awkward_124/index.html
 
 title:
 Awkward
@@ -7,15 +7,15 @@ Awkward
 availability:
 In stock (3 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
 Sequential Art
 
 description:
-Cardinal rule #1 for surviving school: Don't get noticed by the mean kids.Cardinal rule #2 for surviving school: Seek out groups with similar interests and join them.On her first day at her new school, Penelope--Peppi--Torres reminds herself of these basics. But when she trips into a quiet boy in the hall, Jaime Thompson, she's already broken the first rule, and the mean k Cardinal rule #1 for surviving school: Don't get noticed by the mean kids.Cardinal rule #2 for surviving school: Seek out groups with similar interests and join them.On her first day at her new school, Penelope--Peppi--Torres reminds herself of these basics. But when she trips into a quiet boy in the hall, Jaime Thompson, she's already broken the first rule, and the mean kids start calling her the "nerder girlfriend." How does she handle this crisis? By shoving poor Jaime and running away!Falling back on rule two and surrounding herself with new friends in the art club, Peppi still can't help feeling ashamed about the way she treated Jaime. Things are already awkward enough between the two, but to make matters worse, he's a member of her own club's archrivals--the science club! And when the two clubs go to war, Peppi realizes that sometimes you have to break the rules to survive middle school! ...more
+Cardinal rule  1 for surviving school: Don t get noticed by the mean kids.Cardinal rule  2 for surviving school: Seek out groups with similar interests and join them.On her first day at her new school, Penelope  Peppi  Torres reminds herself of these basics. But when she trips into a quiet boy in the hall, Jaime Thompson, she s already broken the first rule, and the mean k Cardinal rule  1 for surviving school: Don t get noticed by the mean kids.Cardinal rule  2 for surviving school: Seek out groups with similar interests and join them.On her first day at her new school, Penelope  Peppi  Torres reminds herself of these basics. But when she trips into a quiet boy in the hall, Jaime Thompson, she s already broken the first rule, and the mean kids start calling her the  nerder girlfriend.  How does she handle this crisis? By shoving poor Jaime and running away!Falling back on rule two and surrounding herself with new friends in the art club, Peppi still can t help feeling ashamed about the way she treated Jaime. Things are already awkward enough between the two, but to make matters worse, he s a member of her own club s archrivals  the science club! And when the two clubs go to war, Peppi realizes that sometimes you have to break the rules to survive middle school! ...more
 
-price:
+Below is the retail price of the book on the library's website:
 38.02 Dollars
 

@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/the-guns-of-august_254/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-guns-of-august_254/index.html
 
 title:
 The Guns of August
@@ -7,15 +7,15 @@ The Guns of August
 availability:
 In stock (3 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
 History
 
 description:
-The Pulitzer Prize-winning classic about the outbreak of World War IHistorian & Pulitzer Prize-winning author Barbara Tuchman has brought to life again the people and events that led up to WWI. With attention to fascinating detail, and an intense knowledge of her subject and its characters, she reveals just how the war started, why, and why it could have been stopped b The Pulitzer Prize-winning classic about the outbreak of World War IHistorian & Pulitzer Prize-winning author Barbara Tuchman has brought to life again the people and events that led up to WWI. With attention to fascinating detail, and an intense knowledge of her subject and its characters, she reveals just how the war started, why, and why it could have been stopped but wasn't. A classic historical survey of a time and a people we all need to know more about, THE GUNS OF AUGUST will not be forgotten. ...more
+The Pulitzer Prize winning classic about the outbreak of World War IHistorian   Pulitzer Prize winning author Barbara Tuchman has brought to life again the people and events that led up to WWI. With attention to fascinating detail, and an intense knowledge of her subject and its characters, she reveals just how the war started, why, and why it could have been stopped b The Pulitzer Prize winning classic about the outbreak of World War IHistorian   Pulitzer Prize winning author Barbara Tuchman has brought to life again the people and events that led up to WWI. With attention to fascinating detail, and an intense knowledge of her subject and its characters, she reveals just how the war started, why, and why it could have been stopped but wasn t. A classic historical survey of a time and a people we all need to know more about, THE GUNS OF AUGUST will not be forgotten. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 14.54 Dollars
 

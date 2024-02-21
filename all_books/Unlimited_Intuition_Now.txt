@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/unlimited-intuition-now_578/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/unlimited-intuition-now_578/index.html
 
 title:
 Unlimited Intuition Now
@@ -7,15 +7,15 @@ Unlimited Intuition Now
 availability:
 In stock (9 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Default
 
 description:
-Read Unlimited Intuition Now to develop your own psychic abilities so that you can receive guidance from your soul.How you will benefit:Pray to open your soul guidanceLearn how to read the energy in your chakras with a pendulumTune in to read your own bodyDiscover how to read the body of another personDiscern how much life force is in your foodFocus to tell if food is real Read Unlimited Intuition Now to develop your own psychic abilities so that you can receive guidance from your soul.How you will benefit:Pray to open your soul guidanceLearn how to read the energy in your chakras with a pendulumTune in to read your own bodyDiscover how to read the body of another personDiscern how much life force is in your foodFocus to tell if food is really good for your bodyPractice how to muscle test yourselfRaise your vibration to listen to your angelsGet your ego out of the way so you can listen to divine guidanceStay connected with loved ones when you are apartOpen your psychic centers of clairaudience, claircognizance, clairsentience and clairvoyanceAvoid other people’s ego projections to see what’s really going onProtect your energy so you feel safe and grounded at all times and in all placesStay out of trouble in dangerous situationsUnderstand how your different psychic gifts actually workDeepen your connection to God and feel supported on all levels ...more
+Read Unlimited Intuition Now to develop your own psychic abilities so that you can receive guidance from your soul.How you will benefit:Pray to open your soul guidanceLearn how to read the energy in your chakras with a pendulumTune in to read your own bodyDiscover how to read the body of another personDiscern how much life force is in your foodFocus to tell if food is real Read Unlimited Intuition Now to develop your own psychic abilities so that you can receive guidance from your soul.How you will benefit:Pray to open your soul guidanceLearn how to read the energy in your chakras with a pendulumTune in to read your own bodyDiscover how to read the body of another personDiscern how much life force is in your foodFocus to tell if food is really good for your bodyPractice how to muscle test yourselfRaise your vibration to listen to your angelsGet your ego out of the way so you can listen to divine guidanceStay connected with loved ones when you are apartOpen your psychic centers of clairaudience, claircognizance, clairsentience and clairvoyanceAvoid other people s ego projections to see what s really going onProtect your energy so you feel safe and grounded at all times and in all placesStay out of trouble in dangerous situationsUnderstand how your different psychic gifts actually workDeepen your connection to God and feel supported on all levels ...more
 
-price:
+Below is the retail price of the book on the library's website:
 58.87 Dollars
 

@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/the-republic_78/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-republic_78/index.html
 
 title:
 The Republic
@@ -7,7 +7,7 @@ The Republic
 availability:
 In stock (1 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
@@ -16,6 +16,6 @@ Add a comment
 description:
 Presented in the form of a dialogue between Socrates and three different interlocutors, this classic text is an enquiry into the notion of a perfect community and the ideal individual within it. During the conversation, other questions are raised: what is goodness?; what is reality?; and what is knowledge? The Republic also addresses the purpose of education and the role o Presented in the form of a dialogue between Socrates and three different interlocutors, this classic text is an enquiry into the notion of a perfect community and the ideal individual within it. During the conversation, other questions are raised: what is goodness?; what is reality?; and what is knowledge? The Republic also addresses the purpose of education and the role of both women and men as guardians of the people. With remarkable lucidity and deft use of allegory, Plato arrives at a depiction of a state bound by harmony and ruled by philosopher kings. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 33.78 Dollars
 

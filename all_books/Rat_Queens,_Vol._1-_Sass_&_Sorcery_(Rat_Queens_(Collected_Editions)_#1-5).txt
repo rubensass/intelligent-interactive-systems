@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/rat-queens-vol-1-sass-sorcery-rat-queens-collected-editions-1-5_46/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/rat-queens-vol-1-sass-sorcery-rat-queens-collected-editions-1-5_46/index.html
 
 title:
-Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)
+Rat Queens, Vol. 1: Sass   Sorcery (Rat Queens (Collected Editions)  1 5)
 
 availability:
 In stock (1 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 100/100
 
 category:
 Sequential Art
 
 description:
-Who are the Rat Queens? A pack of booze-guzzling, death-dealing battle maidens-for-hire, and they're in the business of killing all god's creatures for profit. It's also a darkly comedic sass-and-sorcery series starring Hannah the Rockabilly Elven Mage, Violet the Hipster Dwarven Fighter, Dee the Atheist Human Cleric and Betty the Hippy Smidgen Thief. This modern spin on a Who are the Rat Queens? A pack of booze-guzzling, death-dealing battle maidens-for-hire, and they're in the business of killing all god's creatures for profit. It's also a darkly comedic sass-and-sorcery series starring Hannah the Rockabilly Elven Mage, Violet the Hipster Dwarven Fighter, Dee the Atheist Human Cleric and Betty the Hippy Smidgen Thief. This modern spin on an old school genre is a violent monster-killing epic that is like Buffy meets Tank Girl in a Lord of the Rings world on crack! Collecting Rat Queens #1-5! ...more
+Who are the Rat Queens? A pack of booze guzzling, death dealing battle maidens for hire, and they re in the business of killing all god s creatures for profit. It s also a darkly comedic sass and sorcery series starring Hannah the Rockabilly Elven Mage, Violet the Hipster Dwarven Fighter, Dee the Atheist Human Cleric and Betty the Hippy Smidgen Thief. This modern spin on a Who are the Rat Queens? A pack of booze guzzling, death dealing battle maidens for hire, and they re in the business of killing all god s creatures for profit. It s also a darkly comedic sass and sorcery series starring Hannah the Rockabilly Elven Mage, Violet the Hipster Dwarven Fighter, Dee the Atheist Human Cleric and Betty the Hippy Smidgen Thief. This modern spin on an old school genre is a violent monster killing epic that is like Buffy meets Tank Girl in a Lord of the Rings world on crack! Collecting Rat Queens  1 5! ...more
 
-price:
+Below is the retail price of the book on the library's website:
 46.96 Dollars
 

@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/howl-and-other-poems_522/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/howl-and-other-poems_522/index.html
 
 title:
 Howl and Other Poems
@@ -7,15 +7,15 @@ Howl and Other Poems
 availability:
 In stock (8 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
 Poetry
 
 description:
-The prophetic poem that launched a generation when it was first published in 1965 is here presented in a commemorative fortieth Anniversary Edition.When the book arrived from its British printers, it was seized almost immediately by U.S. Customs, and shortly thereafter the San Francisco police arrested its publisher and editor, Lawrence Ferlinghetti, together with City Lig The prophetic poem that launched a generation when it was first published in 1965 is here presented in a commemorative fortieth Anniversary Edition.When the book arrived from its British printers, it was seized almost immediately by U.S. Customs, and shortly thereafter the San Francisco police arrested its publisher and editor, Lawrence Ferlinghetti, together with City Lights Bookstore manager Shigeyoshi Murao. The two of them were charged with disseminating obscene literature, and the case went to trial in the municipal court of Judge Clayton Horn. A parade of distinguished literary and academic witnesses persuaded the judge that the title poem was indeed not obscene and that it had “redeeming social significance.”Thus was Howl & Other Poems freed to become the single most influential poetic work of the post-World War II era, with over 900,000 copies now in print." ...more
+The prophetic poem that launched a generation when it was first published in 1965 is here presented in a commemorative fortieth Anniversary Edition.When the book arrived from its British printers, it was seized almost immediately by U.S. Customs, and shortly thereafter the San Francisco police arrested its publisher and editor, Lawrence Ferlinghetti, together with City Lig The prophetic poem that launched a generation when it was first published in 1965 is here presented in a commemorative fortieth Anniversary Edition.When the book arrived from its British printers, it was seized almost immediately by U.S. Customs, and shortly thereafter the San Francisco police arrested its publisher and editor, Lawrence Ferlinghetti, together with City Lights Bookstore manager Shigeyoshi Murao. The two of them were charged with disseminating obscene literature, and the case went to trial in the municipal court of Judge Clayton Horn. A parade of distinguished literary and academic witnesses persuaded the judge that the title poem was indeed not obscene and that it had  redeeming social significance. Thus was Howl   Other Poems freed to become the single most influential poetic work of the post World War II era, with over 900,000 copies now in print.  ...more
 
-price:
+Below is the retail price of the book on the library's website:
 40.45 Dollars
 

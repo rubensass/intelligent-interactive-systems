@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/the-hidden-oracle-the-trials-of-apollo-1_752/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-hidden-oracle-the-trials-of-apollo-1_752/index.html
 
 title:
-The Hidden Oracle (The Trials of Apollo #1)
+The Hidden Oracle (The Trials of Apollo  1)
 
 availability:
 In stock (14 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
 Fantasy
 
 description:
-How do you punish an immortal?By making him human.After angering his father Zeus, the god Apollo is cast down from Olympus. Weak and disorientated, he lands in New York City as a regular teenage boy. Now, without his godly powers, the four-thousand-year-old deity must learn to survive in the modern world until he can somehow find a way to regain Zeus's favour.But Apollo ha How do you punish an immortal?By making him human.After angering his father Zeus, the god Apollo is cast down from Olympus. Weak and disorientated, he lands in New York City as a regular teenage boy. Now, without his godly powers, the four-thousand-year-old deity must learn to survive in the modern world until he can somehow find a way to regain Zeus's favour.But Apollo has many enemies - gods, monsters and mortals who would love to see the former Olympian permanently destroyed. Apollo needs help, and he can think of only one place to go . . . an enclave of modern demigods known as Camp Half-Blood. ...more
+How do you punish an immortal?By making him human.After angering his father Zeus, the god Apollo is cast down from Olympus. Weak and disorientated, he lands in New York City as a regular teenage boy. Now, without his godly powers, the four thousand year old deity must learn to survive in the modern world until he can somehow find a way to regain Zeus s favour.But Apollo ha How do you punish an immortal?By making him human.After angering his father Zeus, the god Apollo is cast down from Olympus. Weak and disorientated, he lands in New York City as a regular teenage boy. Now, without his godly powers, the four thousand year old deity must learn to survive in the modern world until he can somehow find a way to regain Zeus s favour.But Apollo has many enemies   gods, monsters and mortals who would love to see the former Olympian permanently destroyed. Apollo needs help, and he can think of only one place to go . . . an enclave of modern demigods known as Camp Half Blood. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 52.26 Dollars
 

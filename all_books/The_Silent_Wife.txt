@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/the-silent-wife_83/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-silent-wife_83/index.html
 
 title:
 The Silent Wife
@@ -7,15 +7,15 @@ The Silent Wife
 availability:
 In stock (1 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 100/100
 
 category:
 Fiction
 
 description:
-A chilling psychological thriller about a marriage, a way of life, and how far one woman will go to keep what is rightfully hersJodi and Todd are at a bad place in their marriage. Much is at stake, including the affluent life they lead in their beautiful waterfront condo in Chicago, as she, the killer, and he, the victim, rush haplessly toward the main event. He is a commi A chilling psychological thriller about a marriage, a way of life, and how far one woman will go to keep what is rightfully hersJodi and Todd are at a bad place in their marriage. Much is at stake, including the affluent life they lead in their beautiful waterfront condo in Chicago, as she, the killer, and he, the victim, rush haplessly toward the main event. He is a committed cheater. She lives and breathes denial. He exists in dual worlds. She likes to settle scores. He decides to play for keeps. She has nothing left to lose. Told in alternating voices, The Silent Wife is about a marriage in the throes of dissolution, a couple headed for catastrophe, concessions that can’t be made, and promises that won’t be kept. Expertly plotted and reminiscent of Gone Girl and These Things Hidden, The Silent Wife ensnares the reader from page one and does not let go. ...more
+A chilling psychological thriller about a marriage, a way of life, and how far one woman will go to keep what is rightfully hersJodi and Todd are at a bad place in their marriage. Much is at stake, including the affluent life they lead in their beautiful waterfront condo in Chicago, as she, the killer, and he, the victim, rush haplessly toward the main event. He is a commi A chilling psychological thriller about a marriage, a way of life, and how far one woman will go to keep what is rightfully hersJodi and Todd are at a bad place in their marriage. Much is at stake, including the affluent life they lead in their beautiful waterfront condo in Chicago, as she, the killer, and he, the victim, rush haplessly toward the main event. He is a committed cheater. She lives and breathes denial. He exists in dual worlds. She likes to settle scores. He decides to play for keeps. She has nothing left to lose. Told in alternating voices, The Silent Wife is about a marriage in the throes of dissolution, a couple headed for catastrophe, concessions that can t be made, and promises that won t be kept. Expertly plotted and reminiscent of Gone Girl and These Things Hidden, The Silent Wife ensnares the reader from page one and does not let go. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 12.34 Dollars
 

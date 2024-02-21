@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/saga-volume-5-saga-collected-editions-5_923/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/saga-volume-5-saga-collected-editions-5_923/index.html
 
 title:
-Saga, Volume 5 (Saga (Collected Editions) #5)
+Saga, Volume 5 (Saga (Collected Editions)  5)
 
 availability:
 In stock (16 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
 Sequential Art
 
 description:
-Multiple storylines collide in this cosmos-spanning new volume. While Gwendolyn and Lying Cat risk everything to find a cure for The Will, Marko makes an uneasy alliance with Prince Robot IV to find their missing children, who are trapped on a strange world with terrifying new enemies. Collects Saga #25-30.
+Multiple storylines collide in this cosmos spanning new volume. While Gwendolyn and Lying Cat risk everything to find a cure for The Will, Marko makes an uneasy alliance with Prince Robot IV to find their missing children, who are trapped on a strange world with terrifying new enemies. Collects Saga  25 30.
 
-price:
+Below is the retail price of the book on the library's website:
 51.04 Dollars
 

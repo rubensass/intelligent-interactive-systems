@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/a-heros-curse-the-unseen-chronicles-1_557/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/a-heros-curse-the-unseen-chronicles-1_557/index.html
 
 title:
-A Hero's Curse (The Unseen Chronicles #1)
+A Hero s Curse (The Unseen Chronicles  1)
 
 availability:
 In stock (9 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
 Add a comment
 
 description:
-Essie Brightsday has never heard a rock basilisk scream. She has never worn magical armor, stood up to a queen, or run from dragons. Instead, Essie, her sarcastic cat Tigrabum, (just call him "Tig"), and her secretive family struggle to survive on their small farm nestled against the forbidding cliffs of the Valley of Fire. But all that is about to change when a rebellion Essie Brightsday has never heard a rock basilisk scream. She has never worn magical armor, stood up to a queen, or run from dragons. Instead, Essie, her sarcastic cat Tigrabum, (just call him "Tig"), and her secretive family struggle to survive on their small farm nestled against the forbidding cliffs of the Valley of Fire. But all that is about to change when a rebellion against the cruel interim ruler is sparked. Forced to flee for their lives, Essie and Tig lose themselves in the twisting labyrinth of the ancient lava flow. When Essie finds proof that the missing King Mactogonii may be alive, she is given the opportunity to help restore stability to the kingdom. But the course of her journey will force her to face her deepest fears and unravel the mystery behind her own blindness...if Essie can survive the encounter. ...more
+Essie Brightsday has never heard a rock basilisk scream. She has never worn magical armor, stood up to a queen, or run from dragons. Instead, Essie, her sarcastic cat Tigrabum, (just call him  Tig ), and her secretive family struggle to survive on their small farm nestled against the forbidding cliffs of the Valley of Fire. But all that is about to change when a rebellion Essie Brightsday has never heard a rock basilisk scream. She has never worn magical armor, stood up to a queen, or run from dragons. Instead, Essie, her sarcastic cat Tigrabum, (just call him  Tig ), and her secretive family struggle to survive on their small farm nestled against the forbidding cliffs of the Valley of Fire. But all that is about to change when a rebellion against the cruel interim ruler is sparked. Forced to flee for their lives, Essie and Tig lose themselves in the twisting labyrinth of the ancient lava flow. When Essie finds proof that the missing King Mactogonii may be alive, she is given the opportunity to help restore stability to the kingdom. But the course of her journey will force her to face her deepest fears and unravel the mystery behind her own blindness...if Essie can survive the encounter. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 50.49 Dollars
 

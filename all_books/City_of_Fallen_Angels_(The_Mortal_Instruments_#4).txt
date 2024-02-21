@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/city-of-fallen-angels-the-mortal-instruments-4_677/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/city-of-fallen-angels-the-mortal-instruments-4_677/index.html
 
 title:
-City of Fallen Angels (The Mortal Instruments #4)
+City of Fallen Angels (The Mortal Instruments  4)
 
 availability:
 In stock (14 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Default
 
 description:
-The Mortal War is over, and sixteen-year-old Clary Fray is back home in New York, excited about all the possibilities before her. She’s training to become a Shadowhunter and to use her unique power. Her mother is getting married to the love of her life. Downworlders and Shadowhunters are at peace at last. And—most importantly of all—she can finally call Jace her boyfriend. The Mortal War is over, and sixteen-year-old Clary Fray is back home in New York, excited about all the possibilities before her. She’s training to become a Shadowhunter and to use her unique power. Her mother is getting married to the love of her life. Downworlders and Shadowhunters are at peace at last. And—most importantly of all—she can finally call Jace her boyfriend.But nothing comes without a price.Someone is murdering Shadowhunters, provoking tensions between Downworlders and Shadowhunters that could lead to a second, bloody war. Clary’s best friend, Simon, can’t help her—his mother just found out that he’s a vampire, and now he’s homeless. When Jace begins to pull away from her without explaining why, Clary is forced to delve into the heart of a mystery whose solution reveals her worst nightmare: she herself has set in motion a terrible chain of events that could lead to her losing everything she loves. Even Jace. ...more
+The Mortal War is over, and sixteen year old Clary Fray is back home in New York, excited about all the possibilities before her. She s training to become a Shadowhunter and to use her unique power. Her mother is getting married to the love of her life. Downworlders and Shadowhunters are at peace at last. And  most importantly of all  she can finally call Jace her boyfriend. The Mortal War is over, and sixteen year old Clary Fray is back home in New York, excited about all the possibilities before her. She s training to become a Shadowhunter and to use her unique power. Her mother is getting married to the love of her life. Downworlders and Shadowhunters are at peace at last. And  most importantly of all  she can finally call Jace her boyfriend.But nothing comes without a price.Someone is murdering Shadowhunters, provoking tensions between Downworlders and Shadowhunters that could lead to a second, bloody war. Clary s best friend, Simon, can t help her  his mother just found out that he s a vampire, and now he s homeless. When Jace begins to pull away from her without explaining why, Clary is forced to delve into the heart of a mystery whose solution reveals her worst nightmare: she herself has set in motion a terrible chain of events that could lead to her losing everything she loves. Even Jace. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 11.23 Dollars
 

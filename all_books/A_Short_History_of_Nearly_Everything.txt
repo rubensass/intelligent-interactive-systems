@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/a-short-history-of-nearly-everything_457/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/a-short-history-of-nearly-everything_457/index.html
 
 title:
 A Short History of Nearly Everything
@@ -7,15 +7,15 @@ A Short History of Nearly Everything
 availability:
 In stock (7 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 100/100
 
 category:
 History
 
 description:
-In Bryson's biggest book, he confronts his greatest challenge: to understand—and, if possible, answer—the oldest, biggest questions we have posed about the universe and ourselves. Taking as territory everything from the Big Bang to the rise of civilization, Bryson seeks to understand how we got from there being nothing at all to there being us. To that end, he has attached In Bryson's biggest book, he confronts his greatest challenge: to understand—and, if possible, answer—the oldest, biggest questions we have posed about the universe and ourselves. Taking as territory everything from the Big Bang to the rise of civilization, Bryson seeks to understand how we got from there being nothing at all to there being us. To that end, he has attached himself to a host of the world’s most advanced (and often obsessed) archaeologists, anthropologists, and mathematicians, travelling to their offices, laboratories, and field camps. He has read (or tried to read) their books, pestered them with questions, apprenticed himself to their powerful minds. A Short History of Nearly Everything is the record of this quest, and it is a sometimes profound, sometimes funny, and always supremely clear and entertaining adventure in the realms of human knowledge, as only Bill Bryson can render it. Science has never been more involving or entertaining. ...more
+In Bryson s biggest book, he confronts his greatest challenge: to understand  and, if possible, answer  the oldest, biggest questions we have posed about the universe and ourselves. Taking as territory everything from the Big Bang to the rise of civilization, Bryson seeks to understand how we got from there being nothing at all to there being us. To that end, he has attached In Bryson s biggest book, he confronts his greatest challenge: to understand  and, if possible, answer  the oldest, biggest questions we have posed about the universe and ourselves. Taking as territory everything from the Big Bang to the rise of civilization, Bryson seeks to understand how we got from there being nothing at all to there being us. To that end, he has attached himself to a host of the world s most advanced (and often obsessed) archaeologists, anthropologists, and mathematicians, travelling to their offices, laboratories, and field camps. He has read (or tried to read) their books, pestered them with questions, apprenticed himself to their powerful minds. A Short History of Nearly Everything is the record of this quest, and it is a sometimes profound, sometimes funny, and always supremely clear and entertaining adventure in the realms of human knowledge, as only Bill Bryson can render it. Science has never been more involving or entertaining. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 52.40 Dollars
 

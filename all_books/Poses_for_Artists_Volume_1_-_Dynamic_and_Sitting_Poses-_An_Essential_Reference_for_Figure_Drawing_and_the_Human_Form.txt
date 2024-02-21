@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/poses-for-artists-volume-1-dynamic-and-sitting-poses-an-essential-reference-for-figure-drawing-and-the-human-form_825/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/poses-for-artists-volume-1-dynamic-and-sitting-poses-an-essential-reference-for-figure-drawing-and-the-human-form_825/index.html
 
 title:
-Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form
+Poses for Artists Volume 1   Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form
 
 availability:
 In stock (15 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 20/100
 
 category:
 Default
 
 description:
-This book was created by an artist who understands that sometimes, you just need a creative nudge to help get the pencil moving and break that pesky block. By simplifying the human form, we hope to remove the inevitable anxiety that comes with drawing a person, and speed-up your art, over time, increasing your own understanding of human anatomy, proportions and movement.
+This book was created by an artist who understands that sometimes, you just need a creative nudge to help get the pencil moving and break that pesky block. By simplifying the human form, we hope to remove the inevitable anxiety that comes with drawing a person, and speed up your art, over time, increasing your own understanding of human anatomy, proportions and movement.
 
-price:
+Below is the retail price of the book on the library's website:
 41.06 Dollars
 

@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html
 
 title:
 Behind Closed Doors
@@ -7,15 +7,15 @@ Behind Closed Doors
 availability:
 In stock (18 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Thriller
 
 description:
-The 2016 debut bloggers can't stop raving about. Perfect for fans of The Girl on the Train and The Ice Twins Everyone knows a couple like Jack and Grace.He has looks and wealth, she has charm and elegance. You might not want to like them, but you do. Though, you’d like to get to know Grace better.But it’s difficult, because you realise Jack and Grace are never apart.Some The 2016 debut bloggers can't stop raving about. Perfect for fans of The Girl on the Train and The Ice Twins Everyone knows a couple like Jack and Grace.He has looks and wealth, she has charm and elegance. You might not want to like them, but you do. Though, you’d like to get to know Grace better.But it’s difficult, because you realise Jack and Grace are never apart.Some might call this true love. Others might ask why Grace never answers the phone. Or how she can never meet for coffee, even though she doesn’t work. How she can cook such elaborate meals but remain so slim. And why there are bars on one of the bedroom windows.Sometimes, the perfect marriage is the perfect lie. ...more
+The 2016 debut bloggers can t stop raving about. Perfect for fans of The Girl on the Train and The Ice Twins Everyone knows a couple like Jack and Grace.He has looks and wealth, she has charm and elegance. You might not want to like them, but you do. Though, you d like to get to know Grace better.But it s difficult, because you realise Jack and Grace are never apart.Some The 2016 debut bloggers can t stop raving about. Perfect for fans of The Girl on the Train and The Ice Twins Everyone knows a couple like Jack and Grace.He has looks and wealth, she has charm and elegance. You might not want to like them, but you do. Though, you d like to get to know Grace better.But it s difficult, because you realise Jack and Grace are never apart.Some might call this true love. Others might ask why Grace never answers the phone. Or how she can never meet for coffee, even though she doesn t work. How she can cook such elaborate meals but remain so slim. And why there are bars on one of the bedroom windows.Sometimes, the perfect marriage is the perfect lie. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 52.22 Dollars
 

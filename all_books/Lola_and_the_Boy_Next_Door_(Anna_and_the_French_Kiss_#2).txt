@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/lola-and-the-boy-next-door-anna-and-the-french-kiss-2_385/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/lola-and-the-boy-next-door-anna-and-the-french-kiss-2_385/index.html
 
 title:
-Lola and the Boy Next Door (Anna and the French Kiss #2)
+Lola and the Boy Next Door (Anna and the French Kiss  2)
 
 availability:
 In stock (5 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Young Adult
 
 description:
-Lola Nolan is a budding costume designer, and for her, the more outrageous, sparkly, and fun the outfit, the better. And everything is pretty perfect in her life (right down to her hot rocker boyfriend) until the Bell twins, Calliope and Cricket, return to the neighborhood. When Cricket, a gifted inventor, steps out from his twin sister's shadow and back into Lola's life, Lola Nolan is a budding costume designer, and for her, the more outrageous, sparkly, and fun the outfit, the better. And everything is pretty perfect in her life (right down to her hot rocker boyfriend) until the Bell twins, Calliope and Cricket, return to the neighborhood. When Cricket, a gifted inventor, steps out from his twin sister's shadow and back into Lola's life, she must finally reconcile a lifetime of feelings for the boy next door. ...more
+Lola Nolan is a budding costume designer, and for her, the more outrageous, sparkly, and fun the outfit, the better. And everything is pretty perfect in her life (right down to her hot rocker boyfriend) until the Bell twins, Calliope and Cricket, return to the neighborhood. When Cricket, a gifted inventor, steps out from his twin sister s shadow and back into Lola s life, Lola Nolan is a budding costume designer, and for her, the more outrageous, sparkly, and fun the outfit, the better. And everything is pretty perfect in her life (right down to her hot rocker boyfriend) until the Bell twins, Calliope and Cricket, return to the neighborhood. When Cricket, a gifted inventor, steps out from his twin sister s shadow and back into Lola s life, she must finally reconcile a lifetime of feelings for the boy next door. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 23.63 Dollars
 

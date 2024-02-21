@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/the-great-gatsby_498/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-great-gatsby_498/index.html
 
 title:
 The Great Gatsby
@@ -7,15 +7,15 @@ The Great Gatsby
 availability:
 In stock (7 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Default
 
 description:
-THE GREAT GATSBY, F. Scott Fitzgerald’s third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted “gin was the national dr THE GREAT GATSBY, F. Scott Fitzgerald’s third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted “gin was the national drink and sex the national obsession,” it is an exquisitely crafted tale of America in the 1920s.The Great Gatsby is one of the great classics of twentieth-century literature. ...more
+THE GREAT GATSBY, F. Scott Fitzgerald s third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted  gin was the national dr THE GREAT GATSBY, F. Scott Fitzgerald s third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted  gin was the national drink and sex the national obsession,  it is an exquisitely crafted tale of America in the 1920s.The Great Gatsby is one of the great classics of twentieth century literature. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 36.05 Dollars
 

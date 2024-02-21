@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/girl-interrupted_429/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/girl-interrupted_429/index.html
 
 title:
 Girl, Interrupted
@@ -7,15 +7,15 @@ Girl, Interrupted
 availability:
 In stock (6 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
 Nonfiction
 
 description:
-See alternate cover edition here.In 1967, after a session with a psychiatrist she'd never seen before, eighteen-year-old Susanna Kaysen was put in a taxi and sent to McLean Hospital. She spent most of the next two years on the ward for teenage girls in a psychiatric hospital as renowned for its famous clientele -- Sylvia Plath, Robert Lowell, James Taylor, and Ray Charles See alternate cover edition here.In 1967, after a session with a psychiatrist she'd never seen before, eighteen-year-old Susanna Kaysen was put in a taxi and sent to McLean Hospital. She spent most of the next two years on the ward for teenage girls in a psychiatric hospital as renowned for its famous clientele -- Sylvia Plath, Robert Lowell, James Taylor, and Ray Charles -- as for its progressive methods of treating those who could afford its sanctuary. Kaysen's memoir encompasses horror and razor-edged perception while providing vivid portraits of her fellow patients and their keepers. It is a brilliant evocation of a "parallel universe" set within the kaleidoscopically shifting landscape of the late sixties. Girl, Interrupted is a clear-sighted, unflinching document that gives lasting and specific dimension to our definitions of sane and insane, mental illness and recovery. ...more
+See alternate cover edition here.In 1967, after a session with a psychiatrist she d never seen before, eighteen year old Susanna Kaysen was put in a taxi and sent to McLean Hospital. She spent most of the next two years on the ward for teenage girls in a psychiatric hospital as renowned for its famous clientele    Sylvia Plath, Robert Lowell, James Taylor, and Ray Charles See alternate cover edition here.In 1967, after a session with a psychiatrist she d never seen before, eighteen year old Susanna Kaysen was put in a taxi and sent to McLean Hospital. She spent most of the next two years on the ward for teenage girls in a psychiatric hospital as renowned for its famous clientele    Sylvia Plath, Robert Lowell, James Taylor, and Ray Charles    as for its progressive methods of treating those who could afford its sanctuary. Kaysen s memoir encompasses horror and razor edged perception while providing vivid portraits of her fellow patients and their keepers. It is a brilliant evocation of a  parallel universe  set within the kaleidoscopically shifting landscape of the late sixties. Girl, Interrupted is a clear sighted, unflinching document that gives lasting and specific dimension to our definitions of sane and insane, mental illness and recovery. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 42.14 Dollars
 

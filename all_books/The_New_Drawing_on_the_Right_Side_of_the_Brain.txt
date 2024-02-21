@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/the-new-drawing-on-the-right-side-of-the-brain_550/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-new-drawing-on-the-right-side-of-the-brain_550/index.html
 
 title:
 The New Drawing on the Right Side of the Brain
@@ -7,15 +7,15 @@ The New Drawing on the Right Side of the Brain
 availability:
 In stock (8 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
 Art
 
 description:
-When Drawing on the Right Side of the Brain was first published in 1979, it hit the New York Times bestseller list within two weeks and stayed there for more than a year. In 1989, when Dr. Betty Edwards revised the book, it went straight to the Times list again. Now Dr. Edwards celebrates the twentieth anniversary of her classic book with a second revised edition.Over the When Drawing on the Right Side of the Brain was first published in 1979, it hit the New York Times bestseller list within two weeks and stayed there for more than a year. In 1989, when Dr. Betty Edwards revised the book, it went straight to the Times list again. Now Dr. Edwards celebrates the twentieth anniversary of her classic book with a second revised edition.Over the last decade, Dr. Edwards has refined her material through teaching hundreds of workshops and seminars. Truly The New Drawing on the Right Side of the Brain, this edition includes:the very latest developments in brain researchnew material on using drawing techniques in the corporate world and in educationinstruction on self-expression through drawingan updated section on using colordetailed information on using the five basic skills of drawing for problem solving ...more
+When Drawing on the Right Side of the Brain was first published in 1979, it hit the New York Times bestseller list within two weeks and stayed there for more than a year. In 1989, when Dr. Betty Edwards revised the book, it went straight to the Times list again. Now Dr. Edwards celebrates the twentieth anniversary of her classic book with a second revised edition.Over the When Drawing on the Right Side of the Brain was first published in 1979, it hit the New York Times bestseller list within two weeks and stayed there for more than a year. In 1989, when Dr. Betty Edwards revised the book, it went straight to the Times list again. Now Dr. Edwards celebrates the twentieth anniversary of her classic book with a second revised edition.Over the last decade, Dr. Edwards has refined her material through teaching hundreds of workshops and seminars. Truly The New Drawing on the Right Side of the Brain, this edition includes:the very latest developments in brain researchnew material on using drawing techniques in the corporate world and in educationinstruction on self expression through drawingan updated section on using colordetailed information on using the five basic skills of drawing for problem solving ...more
 
-price:
+Below is the retail price of the book on the library's website:
 43.02 Dollars
 

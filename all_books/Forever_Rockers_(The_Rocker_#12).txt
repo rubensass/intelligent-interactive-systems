@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/forever-rockers-the-rocker-12_19/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/forever-rockers-the-rocker-12_19/index.html
 
 title:
-Forever Rockers (The Rocker #12)
+Forever Rockers (The Rocker  12)
 
 availability:
 In stock (1 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
 Music
 
 description:
-My Happily Ever After was turning into a living nightmare... All I wanted was Harper's happiness and I would move the world to give her anything she ever wanted. We've searched for answers, talked about our options, and finally-FINALLY-found hope. Yet, just when things seemed to be perfect, it all came crashing down around us all. The one person I've always counted on to h My Happily Ever After was turning into a living nightmare... All I wanted was Harper's happiness and I would move the world to give her anything she ever wanted. We've searched for answers, talked about our options, and finally-FINALLY-found hope. Yet, just when things seemed to be perfect, it all came crashing down around us all. The one person I've always counted on to hold us together-to hold me together-was lost in her own nightmares and I felt like I was losing everything. Everything. I wasn't going to lose the woman I loved. I would hold onto her until the last breath left my body. It was my mistakes that were hurting us and I would be the one to fix it. I wouldn't let my past ruin my forever with Harper. ...more
+My Happily Ever After was turning into a living nightmare... All I wanted was Harper s happiness and I would move the world to give her anything she ever wanted. We ve searched for answers, talked about our options, and finally FINALLY found hope. Yet, just when things seemed to be perfect, it all came crashing down around us all. The one person I ve always counted on to h My Happily Ever After was turning into a living nightmare... All I wanted was Harper s happiness and I would move the world to give her anything she ever wanted. We ve searched for answers, talked about our options, and finally FINALLY found hope. Yet, just when things seemed to be perfect, it all came crashing down around us all. The one person I ve always counted on to hold us together to hold me together was lost in her own nightmares and I felt like I was losing everything. Everything. I wasn t going to lose the woman I loved. I would hold onto her until the last breath left my body. It was my mistakes that were hurting us and I would be the one to fix it. I wouldn t let my past ruin my forever with Harper. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 28.80 Dollars
 

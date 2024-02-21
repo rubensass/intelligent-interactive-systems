@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/thirteen-reasons-why_866/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/thirteen-reasons-why_866/index.html
 
 title:
 Thirteen Reasons Why
@@ -7,15 +7,15 @@ Thirteen Reasons Why
 availability:
 In stock (15 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 20/100
 
 category:
 Default
 
 description:
-Clay Jensen returns home from school to find a mysterious box with his name on it lying on his porch. Inside he discovers thirteen cassette tapes recorded by Hannah Baker, his classmate and crush who committed suicide two weeks earlier. On tape, Hannah explains that there are thirteen reasons why she decided to end her life. Clay is one of them. If he listens, he'll find o Clay Jensen returns home from school to find a mysterious box with his name on it lying on his porch. Inside he discovers thirteen cassette tapes recorded by Hannah Baker, his classmate and crush who committed suicide two weeks earlier. On tape, Hannah explains that there are thirteen reasons why she decided to end her life. Clay is one of them. If he listens, he'll find out how he made the list. Through Hannah and Clay's dual narratives, debut author Jay Asher weaves an intricate and heartrending story of confusion and desperation that will deeply affect teen readers. ...more
+Clay Jensen returns home from school to find a mysterious box with his name on it lying on his porch. Inside he discovers thirteen cassette tapes recorded by Hannah Baker, his classmate and crush who committed suicide two weeks earlier. On tape, Hannah explains that there are thirteen reasons why she decided to end her life. Clay is one of them. If he listens, he ll find o Clay Jensen returns home from school to find a mysterious box with his name on it lying on his porch. Inside he discovers thirteen cassette tapes recorded by Hannah Baker, his classmate and crush who committed suicide two weeks earlier. On tape, Hannah explains that there are thirteen reasons why she decided to end her life. Clay is one of them. If he listens, he ll find out how he made the list. Through Hannah and Clay s dual narratives, debut author Jay Asher weaves an intricate and heartrending story of confusion and desperation that will deeply affect teen readers. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 52.72 Dollars
 

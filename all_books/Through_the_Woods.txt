@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/through-the-woods_772/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/through-the-woods_772/index.html
 
 title:
 Through the Woods
@@ -7,15 +7,15 @@ Through the Woods
 availability:
 In stock (14 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
 Sequential Art
 
 description:
-'It came from the woods. Most strange things do.'Five mysterious, spine-tingling stories follow journeys into (and out of?) the eerie abyss.These chilling tales spring from the macabre imagination of acclaimed and award-winning comic creator Emily Carroll.Come take a walk in the woods and see what awaits you there...
+It came from the woods. Most strange things do. Five mysterious, spine tingling stories follow journeys into (and out of?) the eerie abyss.These chilling tales spring from the macabre imagination of acclaimed and award winning comic creator Emily Carroll.Come take a walk in the woods and see what awaits you there...
 
-price:
+Below is the retail price of the book on the library's website:
 25.38 Dollars
 

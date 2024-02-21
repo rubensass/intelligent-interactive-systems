@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/the-exiled_247/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-exiled_247/index.html
 
 title:
 The Exiled
@@ -7,15 +7,15 @@ The Exiled
 availability:
 In stock (3 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
 Mystery
 
 description:
-Can anyone ever truly outrun his past?Back in the 1980s, Wes Raney was an ambitious New York City Narcotics Detective with a growing drug habit of his own. While working undercover on a high-risk case, he made decisions that ultimately cost him not only his career, but also his family. Disgraced, Raney fled-but history is finally catching up with him.Now in his early forti Can anyone ever truly outrun his past?Back in the 1980s, Wes Raney was an ambitious New York City Narcotics Detective with a growing drug habit of his own. While working undercover on a high-risk case, he made decisions that ultimately cost him not only his career, but also his family. Disgraced, Raney fled-but history is finally catching up with him.Now in his early forties, Raney has been living in exile, the sole homicide investigator covering a two-hundred-mile stretch of desert in New Mexico. His solitude is his salvation-but it ends when a brutal drug deal gone wrong results in a triple murder. Staged in a locked underground bunker, the crime reawakens Raney's haunted and violent past.From the vast, unforgiving landscape of the American west to the mean streets of New York, The Exiled is at once a riveting murder mystery and a brilliant portrait of a man on the run from himself, an unforgettable thriller that is "impossible to put down" (Frank Bill). ...more
+Can anyone ever truly outrun his past?Back in the 1980s, Wes Raney was an ambitious New York City Narcotics Detective with a growing drug habit of his own. While working undercover on a high risk case, he made decisions that ultimately cost him not only his career, but also his family. Disgraced, Raney fled but history is finally catching up with him.Now in his early forti Can anyone ever truly outrun his past?Back in the 1980s, Wes Raney was an ambitious New York City Narcotics Detective with a growing drug habit of his own. While working undercover on a high risk case, he made decisions that ultimately cost him not only his career, but also his family. Disgraced, Raney fled but history is finally catching up with him.Now in his early forties, Raney has been living in exile, the sole homicide investigator covering a two hundred mile stretch of desert in New Mexico. His solitude is his salvation but it ends when a brutal drug deal gone wrong results in a triple murder. Staged in a locked underground bunker, the crime reawakens Raney s haunted and violent past.From the vast, unforgiving landscape of the American west to the mean streets of New York, The Exiled is at once a riveting murder mystery and a brilliant portrait of a man on the run from himself, an unforgettable thriller that is  impossible to put down  (Frank Bill). ...more
 
-price:
+Below is the retail price of the book on the library's website:
 43.45 Dollars
 

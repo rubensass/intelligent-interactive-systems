@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/y-the-last-man-vol-1-unmanned-y-the-last-man-1_98/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/y-the-last-man-vol-1-unmanned-y-the-last-man-1_98/index.html
 
 title:
-Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)
+Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man  1)
 
 availability:
 In stock (1 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Sequential Art
 
 description:
-"Y" is none other than unemployed escape artist Yorick Brown (his father was a Shakespeare buff), and he's seemingly the only male human left alive after a mysterious plague kills all Y-chromosome carriers on earth. But why are he and his faithful companion, the often testy male monkey Ampersand, still alive? He sets out to find the answer (and his girlfriend), while runni "Y" is none other than unemployed escape artist Yorick Brown (his father was a Shakespeare buff), and he's seemingly the only male human left alive after a mysterious plague kills all Y-chromosome carriers on earth. But why are he and his faithful companion, the often testy male monkey Ampersand, still alive? He sets out to find the answer (and his girlfriend), while running from angry female Republicans (now running the government), Amazon wannabes that include his own sister (seemingly brainwashed), and other threats. The Vertigo team of Brian K. Vaughan, Pia Guerra, and José Marzán Jr. have given us a great read!Collects Y: The Last Man issues #01-#05 ...more
+ Y  is none other than unemployed escape artist Yorick Brown (his father was a Shakespeare buff), and he s seemingly the only male human left alive after a mysterious plague kills all Y chromosome carriers on earth. But why are he and his faithful companion, the often testy male monkey Ampersand, still alive? He sets out to find the answer (and his girlfriend), while runni  Y  is none other than unemployed escape artist Yorick Brown (his father was a Shakespeare buff), and he s seemingly the only male human left alive after a mysterious plague kills all Y chromosome carriers on earth. But why are he and his faithful companion, the often testy male monkey Ampersand, still alive? He sets out to find the answer (and his girlfriend), while running from angry female Republicans (now running the government), Amazon wannabes that include his own sister (seemingly brainwashed), and other threats. The Vertigo team of Brian K. Vaughan, Pia Guerra, and Jose Marzan Jr. have given us a great read!Collects Y: The Last Man issues  01  05 ...more
 
-price:
+Below is the retail price of the book on the library's website:
 18.51 Dollars
 

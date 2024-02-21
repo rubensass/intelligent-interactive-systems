@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/stiff-the-curious-lives-of-human-cadavers_226/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/stiff-the-curious-lives-of-human-cadavers_226/index.html
 
 title:
 Stiff: The Curious Lives of Human Cadavers
@@ -7,15 +7,15 @@ Stiff: The Curious Lives of Human Cadavers
 availability:
 In stock (3 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
 Nonfiction
 
 description:
-Stiff is an oddly compelling, often hilarious exploration of the strange lives of our bodies postmortem. For two thousand years, cadavers—some willingly, some unwittingly—have been involved in science's boldest strides and weirdest undertakings. In this fascinating account, Mary Roach visits the good deeds of cadavers over the centuries and tells the engrossing story of ou Stiff is an oddly compelling, often hilarious exploration of the strange lives of our bodies postmortem. For two thousand years, cadavers—some willingly, some unwittingly—have been involved in science's boldest strides and weirdest undertakings. In this fascinating account, Mary Roach visits the good deeds of cadavers over the centuries and tells the engrossing story of our bodies when we are no longer with them. ...more
+Stiff is an oddly compelling, often hilarious exploration of the strange lives of our bodies postmortem. For two thousand years, cadavers  some willingly, some unwittingly  have been involved in science s boldest strides and weirdest undertakings. In this fascinating account, Mary Roach visits the good deeds of cadavers over the centuries and tells the engrossing story of ou Stiff is an oddly compelling, often hilarious exploration of the strange lives of our bodies postmortem. For two thousand years, cadavers  some willingly, some unwittingly  have been involved in science s boldest strides and weirdest undertakings. In this fascinating account, Mary Roach visits the good deeds of cadavers over the centuries and tells the engrossing story of our bodies when we are no longer with them. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 36.74 Dollars
 

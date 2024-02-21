@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/grayson-vol-3-nemesis-grayson-3_164/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/grayson-vol-3-nemesis-grayson-3_164/index.html
 
 title:
-Grayson, Vol 3: Nemesis (Grayson #3)
+Grayson, Vol 3: Nemesis (Grayson  3)
 
 availability:
 In stock (3 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 20/100
 
 category:
 Sequential Art
 
 description:
-In this collection, Grayson faces some of his most difficult challenges! Not only must he take on Lex Luthor, and risks losing his position with Spyral, but Dick finds that in order to save Agent 1 he must face off with... himself! And who is the mysterious shadow leader behind Spyral, and what does he want with Dick? The super-spy finds himself in a clandestine hunt for t In this collection, Grayson faces some of his most difficult challenges! Not only must he take on Lex Luthor, and risks losing his position with Spyral, but Dick finds that in order to save Agent 1 he must face off with... himself! And who is the mysterious shadow leader behind Spyral, and what does he want with Dick? The super-spy finds himself in a clandestine hunt for the true identity of Agent Zero!Collecting Grayson 10-14 ...more
+In this collection, Grayson faces some of his most difficult challenges! Not only must he take on Lex Luthor, and risks losing his position with Spyral, but Dick finds that in order to save Agent 1 he must face off with... himself! And who is the mysterious shadow leader behind Spyral, and what does he want with Dick? The super spy finds himself in a clandestine hunt for t In this collection, Grayson faces some of his most difficult challenges! Not only must he take on Lex Luthor, and risks losing his position with Spyral, but Dick finds that in order to save Agent 1 he must face off with... himself! And who is the mysterious shadow leader behind Spyral, and what does he want with Dick? The super spy finds himself in a clandestine hunt for the true identity of Agent Zero!Collecting Grayson 10 14 ...more
 
-price:
+Below is the retail price of the book on the library's website:
 42.72 Dollars
 

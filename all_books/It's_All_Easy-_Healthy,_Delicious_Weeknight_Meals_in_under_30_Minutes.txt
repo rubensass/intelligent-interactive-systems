@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/its-all-easy-healthy-delicious-weeknight-meals-in-under-30-minutes_706/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/its-all-easy-healthy-delicious-weeknight-meals-in-under-30-minutes_706/index.html
 
 title:
-It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes
+It s All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes
 
 availability:
 In stock (14 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 20/100
 
 category:
 Food and Drink
 
 description:
-For fans of It's All Good-or just delicious food-here is the cookbook that will help anyone make delectable, healthy meals in no time! Gwyneth Paltrow is back to share more than 125 of her favorite recipes that can be made in the time it would take to order takeout (which often contains high quantities of fat, sugar, and processed ingredients). All the dishes are surprisin For fans of It's All Good-or just delicious food-here is the cookbook that will help anyone make delectable, healthy meals in no time! Gwyneth Paltrow is back to share more than 125 of her favorite recipes that can be made in the time it would take to order takeout (which often contains high quantities of fat, sugar, and processed ingredients). All the dishes are surprisingly tasty, with little or no sugar, fat, or gluten. From easy breakfasts to lazy suppers, this book has something for everybody. Yummy recipes include Chocolate Cinnamon Overnight Oats, Soft Polenta with Cherry Tomatoes, Chicken Enchiladas, Pita Bread Pizzas, Quick Sesame Noodles, and more! Plus, an innovative chapter for "on-the-go" meals (Moroccan Chicken Salad Wrap, Chopped Salad with Grilled Shrimp, and others) that you can take for lunch to work or school, to a picnic, or to eat while watching soccer practice! ...more
+For fans of It s All Good or just delicious food here is the cookbook that will help anyone make delectable, healthy meals in no time! Gwyneth Paltrow is back to share more than 125 of her favorite recipes that can be made in the time it would take to order takeout (which often contains high quantities of fat, sugar, and processed ingredients). All the dishes are surprisin For fans of It s All Good or just delicious food here is the cookbook that will help anyone make delectable, healthy meals in no time! Gwyneth Paltrow is back to share more than 125 of her favorite recipes that can be made in the time it would take to order takeout (which often contains high quantities of fat, sugar, and processed ingredients). All the dishes are surprisingly tasty, with little or no sugar, fat, or gluten. From easy breakfasts to lazy suppers, this book has something for everybody. Yummy recipes include Chocolate Cinnamon Overnight Oats, Soft Polenta with Cherry Tomatoes, Chicken Enchiladas, Pita Bread Pizzas, Quick Sesame Noodles, and more! Plus, an innovative chapter for  on the go  meals (Moroccan Chicken Salad Wrap, Chopped Salad with Grilled Shrimp, and others) that you can take for lunch to work or school, to a picnic, or to eat while watching soccer practice! ...more
 
-price:
+Below is the retail price of the book on the library's website:
 19.55 Dollars
 

@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/the-nerdy-nummies-cookbook-sweet-treats-for-the-geek-in-all-of-us_853/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-nerdy-nummies-cookbook-sweet-treats-for-the-geek-in-all-of-us_853/index.html
 
 title:
 The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us
@@ -7,15 +7,15 @@ The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us
 availability:
 In stock (15 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 100/100
 
 category:
 Food and Drink
 
 description:
-The long-awaited first cookbook from the creator and host of the Internet’s most popular baking show, Nerdy Nummies: a collection of Rosanna Pansino’s all-time favorite geeky recipes as well as sensational new recipes exclusive to this book.The Nerdy Nummies Cookbook is quirky, charming, and fun, featuring the recipes behind Rosanna Pansino’s celebrated, one-of-a-kind crea The long-awaited first cookbook from the creator and host of the Internet’s most popular baking show, Nerdy Nummies: a collection of Rosanna Pansino’s all-time favorite geeky recipes as well as sensational new recipes exclusive to this book.The Nerdy Nummies Cookbook is quirky, charming, and fun, featuring the recipes behind Rosanna Pansino’s celebrated, one-of-a-kind creations, as well as beautiful, mouthwatering photographs throughout. It is the perfect companion that you’ll turn to whenever you want to whip up a delicious treat and be entertained all at once. And best of all, these treats are as simple as they are fun to make! No need for costly tools or baking classes to create these marvelous delights yourself.The Nerdy Nummies Cookbook combines two things Rosanna loves: geek culture and baking. Her fondness for video games, science fiction, math, comics, and lots of other things considered “nerdy” have inspired every recipe in this book. You’ll find the recipes for many beloved fan favorites from the show, such as Apple Pi Pie, the Chocolate Chip Smart Cookie, and Volcano Cake; as well as many new geeky recipes, such as Dinosaur Fossil Cake, Moon Phase Macarons, and the Periodic Table of Cupcakes. The Nerdy Nummies Cookbook showcases Rosanna’s most original and popular creations, and each recipe includes easy-to-follow photo instructions and a stunning shot of the finished treat in all its geeky glory: a delicious confection sure to please the geek in all of us! ...more
+The long awaited first cookbook from the creator and host of the Internet s most popular baking show, Nerdy Nummies: a collection of Rosanna Pansino s all time favorite geeky recipes as well as sensational new recipes exclusive to this book.The Nerdy Nummies Cookbook is quirky, charming, and fun, featuring the recipes behind Rosanna Pansino s celebrated, one of a kind crea The long awaited first cookbook from the creator and host of the Internet s most popular baking show, Nerdy Nummies: a collection of Rosanna Pansino s all time favorite geeky recipes as well as sensational new recipes exclusive to this book.The Nerdy Nummies Cookbook is quirky, charming, and fun, featuring the recipes behind Rosanna Pansino s celebrated, one of a kind creations, as well as beautiful, mouthwatering photographs throughout. It is the perfect companion that you ll turn to whenever you want to whip up a delicious treat and be entertained all at once. And best of all, these treats are as simple as they are fun to make! No need for costly tools or baking classes to create these marvelous delights yourself.The Nerdy Nummies Cookbook combines two things Rosanna loves: geek culture and baking. Her fondness for video games, science fiction, math, comics, and lots of other things considered  nerdy  have inspired every recipe in this book. You ll find the recipes for many beloved fan favorites from the show, such as Apple Pi Pie, the Chocolate Chip Smart Cookie, and Volcano Cake; as well as many new geeky recipes, such as Dinosaur Fossil Cake, Moon Phase Macarons, and the Periodic Table of Cupcakes. The Nerdy Nummies Cookbook showcases Rosanna s most original and popular creations, and each recipe includes easy to follow photo instructions and a stunning shot of the finished treat in all its geeky glory: a delicious confection sure to please the geek in all of us! ...more
 
-price:
+Below is the retail price of the book on the library's website:
 37.34 Dollars
 

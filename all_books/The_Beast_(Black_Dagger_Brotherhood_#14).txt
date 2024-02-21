@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/the-beast-black-dagger-brotherhood-14_342/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-beast-black-dagger-brotherhood-14_342/index.html
 
 title:
-The Beast (Black Dagger Brotherhood #14)
+The Beast (Black Dagger Brotherhood  14)
 
 availability:
 In stock (4 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 100/100
 
 category:
 Fantasy
 
 description:
-Rhage and Mary return in a new novel of the Black Dagger Brotherhood, a series “so popular, I don’t think there’s a reader today who hasn’t at least heard of [it]” (USA Today).Nothing is as it used to be for the Black Dagger Brotherhood. After avoiding war with the Shadows, alliances have shifted and lines have been drawn. The slayers of the Lessening Society are stronger Rhage and Mary return in a new novel of the Black Dagger Brotherhood, a series “so popular, I don’t think there’s a reader today who hasn’t at least heard of [it]” (USA Today).Nothing is as it used to be for the Black Dagger Brotherhood. After avoiding war with the Shadows, alliances have shifted and lines have been drawn. The slayers of the Lessening Society are stronger than ever, preying on human weakness to acquire more money, more weapons, more power. But as the Brotherhood readies for an all-out attack on them, one of their own fights a battle within himself…For Rhage, the Brother with the biggest appetites, but also the biggest heart, life was supposed to be perfect—or at the very least, perfectly enjoyable. Mary, his beloved shellan, is by his side and his King and his brothers are thriving. But Rhage can’t understand—or control—the panic and insecurity that plague him…And that terrifies him—as well as distances him from his mate. After suffering mortal injury in battle, Rhage must reassess his priorities—and the answer, when it comes to him, rocks his world...and Mary’s. But Mary is on a journey of her own, one that will either bring them closer together or cause a split that neither will recover from... ...more
+Rhage and Mary return in a new novel of the Black Dagger Brotherhood, a series  so popular, I don t think there s a reader today who hasn t at least heard of  it   (USA Today).Nothing is as it used to be for the Black Dagger Brotherhood. After avoiding war with the Shadows, alliances have shifted and lines have been drawn. The slayers of the Lessening Society are stronger Rhage and Mary return in a new novel of the Black Dagger Brotherhood, a series  so popular, I don t think there s a reader today who hasn t at least heard of  it   (USA Today).Nothing is as it used to be for the Black Dagger Brotherhood. After avoiding war with the Shadows, alliances have shifted and lines have been drawn. The slayers of the Lessening Society are stronger than ever, preying on human weakness to acquire more money, more weapons, more power. But as the Brotherhood readies for an all out attack on them, one of their own fights a battle within himself...For Rhage, the Brother with the biggest appetites, but also the biggest heart, life was supposed to be perfect  or at the very least, perfectly enjoyable. Mary, his beloved shellan, is by his side and his King and his brothers are thriving. But Rhage can t understand  or control  the panic and insecurity that plague him...And that terrifies him  as well as distances him from his mate. After suffering mortal injury in battle, Rhage must reassess his priorities  and the answer, when it comes to him, rocks his world...and Mary s. But Mary is on a journey of her own, one that will either bring them closer together or cause a split that neither will recover from... ...more
 
-price:
+Below is the retail price of the book on the library's website:
 46.08 Dollars
 

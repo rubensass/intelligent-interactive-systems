@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/lowriders-to-the-center-of-the-earth-lowriders-in-space-2_712/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/lowriders-to-the-center-of-the-earth-lowriders-in-space-2_712/index.html
 
 title:
-Lowriders to the Center of the Earth (Lowriders in Space #2)
+Lowriders to the Center of the Earth (Lowriders in Space  2)
 
 availability:
 In stock (14 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 40/100
 
 category:
 Sequential Art
 
 description:
-The lovable trio from the acclaimed Lowriders in Space are back! Lupe Impala, Elirio Malaria, and El Chavo Octopus are living their dream at last. They're the proud owners of their very own garage. But when their beloved cat Genie goes missing, they need to do everything they can to find him. Little do they know the trail will lead them to the realm of Mictlantecuhtli, the The lovable trio from the acclaimed Lowriders in Space are back! Lupe Impala, Elirio Malaria, and El Chavo Octopus are living their dream at last. They're the proud owners of their very own garage. But when their beloved cat Genie goes missing, they need to do everything they can to find him. Little do they know the trail will lead them to the realm of Mictlantecuhtli, the Aztec god of the Underworld, who is keeping Genie prisoner! With cool Spanish phrases on every page, a glossary of terms, and an action-packed plot that sneaks in science as well as Aztec lore, Lowriders to the Center of the Earth is a linguistic and visual delight. ¡Que suave! ...more
+The lovable trio from the acclaimed Lowriders in Space are back! Lupe Impala, Elirio Malaria, and El Chavo Octopus are living their dream at last. They re the proud owners of their very own garage. But when their beloved cat Genie goes missing, they need to do everything they can to find him. Little do they know the trail will lead them to the realm of Mictlantecuhtli, the The lovable trio from the acclaimed Lowriders in Space are back! Lupe Impala, Elirio Malaria, and El Chavo Octopus are living their dream at last. They re the proud owners of their very own garage. But when their beloved cat Genie goes missing, they need to do everything they can to find him. Little do they know the trail will lead them to the realm of Mictlantecuhtli, the Aztec god of the Underworld, who is keeping Genie prisoner! With cool Spanish phrases on every page, a glossary of terms, and an action packed plot that sneaks in science as well as Aztec lore, Lowriders to the Center of the Earth is a linguistic and visual delight. !Que suave! ...more
 
-price:
+Below is the retail price of the book on the library's website:
 51.51 Dollars
 

@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/the-7-habits-of-highly-effective-people-powerful-lessons-in-personal-change_489/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-7-habits-of-highly-effective-people-powerful-lessons-in-personal-change_489/index.html
 
 title:
 The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
@@ -7,15 +7,15 @@ The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 availability:
 In stock (7 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Default
 
 description:
-In The 7 Habits of Highly Effective People, author Stephen R. Covey presents a holistic, integrated, principle-centered approach for solving personal and professional problems. With penetrating insights and pointed anecdotes, Covey reveals a step-by-step pathway for living with fairness, integrity, service, and human dignity -- principles that give us the security to adapt In The 7 Habits of Highly Effective People, author Stephen R. Covey presents a holistic, integrated, principle-centered approach for solving personal and professional problems. With penetrating insights and pointed anecdotes, Covey reveals a step-by-step pathway for living with fairness, integrity, service, and human dignity -- principles that give us the security to adapt to change and the wisdom and power to take advantage of the opportunities that change creates. ...more
+In The 7 Habits of Highly Effective People, author Stephen R. Covey presents a holistic, integrated, principle centered approach for solving personal and professional problems. With penetrating insights and pointed anecdotes, Covey reveals a step by step pathway for living with fairness, integrity, service, and human dignity    principles that give us the security to adapt In The 7 Habits of Highly Effective People, author Stephen R. Covey presents a holistic, integrated, principle centered approach for solving personal and professional problems. With penetrating insights and pointed anecdotes, Covey reveals a step by step pathway for living with fairness, integrity, service, and human dignity    principles that give us the security to adapt to change and the wisdom and power to take advantage of the opportunities that change creates. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 33.17 Dollars
 

@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/the-sandman-vol-3-dream-country-the-sandman-volumes-3_279/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-sandman-vol-3-dream-country-the-sandman-volumes-3_279/index.html
 
 title:
-The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)
+The Sandman, Vol. 3: Dream Country (The Sandman (volumes)  3)
 
 availability:
 In stock (3 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 100/100
 
 category:
 Sequential Art
 
 description:
-The third volume of the Sandman collection is a series of four short comic book stories. In each of these otherwise unrelated stories, Morpheus serves only as a minor character. Here we meet the mother of Morpheus's son, find out what cats dream about, and discover the true origin behind Shakespeare's A Midsummer's Night Dream. The latter won a World Fantasy Award for best The third volume of the Sandman collection is a series of four short comic book stories. In each of these otherwise unrelated stories, Morpheus serves only as a minor character. Here we meet the mother of Morpheus's son, find out what cats dream about, and discover the true origin behind Shakespeare's A Midsummer's Night Dream. The latter won a World Fantasy Award for best short story, the first time a comic book was given that honor. collecting The Sandman #17–20 ...more
+The third volume of the Sandman collection is a series of four short comic book stories. In each of these otherwise unrelated stories, Morpheus serves only as a minor character. Here we meet the mother of Morpheus s son, find out what cats dream about, and discover the true origin behind Shakespeare s A Midsummer s Night Dream. The latter won a World Fantasy Award for best The third volume of the Sandman collection is a series of four short comic book stories. In each of these otherwise unrelated stories, Morpheus serves only as a minor character. Here we meet the mother of Morpheus s son, find out what cats dream about, and discover the true origin behind Shakespeare s A Midsummer s Night Dream. The latter won a World Fantasy Award for best short story, the first time a comic book was given that honor. collecting The Sandman  17 20 ...more
 
-price:
+Below is the retail price of the book on the library's website:
 55.55 Dollars
 

@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/the-complete-stories-and-poems-the-works-of-edgar-allan-poe-cameo-edition_238/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-complete-stories-and-poems-the-works-of-edgar-allan-poe-cameo-edition_238/index.html
 
 title:
-The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition])
+The Complete Stories and Poems (The Works of Edgar Allan Poe  Cameo Edition )
 
 availability:
 In stock (3 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 80/100
 
 category:
 Classics
 
 description:
-This single volume brings together all of Poe's stories and poems, and illuminates the diverse and multifaceted genius of one of the greatest and most influential figures in American literary history.
+This single volume brings together all of Poe s stories and poems, and illuminates the diverse and multifaceted genius of one of the greatest and most influential figures in American literary history.
 
-price:
+Below is the retail price of the book on the library's website:
 26.78 Dollars
 

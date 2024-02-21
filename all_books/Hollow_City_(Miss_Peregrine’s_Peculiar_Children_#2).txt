@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/hollow-city-miss-peregrines-peculiar-children-2_813/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/hollow-city-miss-peregrines-peculiar-children-2_813/index.html
 
 title:
-Hollow City (Miss Peregrine’s Peculiar Children #2)
+Hollow City (Miss Peregrine s Peculiar Children  2)
 
 availability:
 In stock (15 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 20/100
 
 category:
 Fantasy
 
 description:
-Miss Peregrine’s Home for Peculiar Childrenwas the surprise best seller of 2011—an unprecedented mix of YAfantasy and vintage photography that enthralled readers and critics alike. Publishers Weekly called it “anenjoyable, eccentric read, distinguished by well-developed characters, a believable Welsh setting, and somevery creepy monsters.”This second novel begins in 1940, Miss Peregrine’s Home for Peculiar Children was the surprise best seller of 2011—an unprecedented mix of YA fantasy and vintage photography that enthralled readers and critics alike. Publishers Weekly called it “an enjoyable, eccentric read, distinguished by well-developed characters, a believable Welsh setting, and some very creepy monsters.”This second novel begins in 1940, immediately after the first book ended. Having escaped Miss Peregrine’s island by the skin of their teeth, Jacob and his new friends must journey to London, the peculiar capital of the world. Along the way, they encounter new allies, a menagerie of peculiar animals, and other unexpected surprises.Complete with dozens of newly discovered (and thoroughly mesmerizing) vintage photographs, this new adventure will delight readers of all ages. ...more
+Miss Peregrine s Home for Peculiar Childrenwas the surprise best seller of 2011  an unprecedented mix of YAfantasy and vintage photography that enthralled readers and critics alike. Publishers Weekly called it  anenjoyable, eccentric read, distinguished by well developed characters, a believable Welsh setting, and somevery creepy monsters. This second novel begins in 1940, Miss Peregrine s Home for Peculiar Children was the surprise best seller of 2011  an unprecedented mix of YA fantasy and vintage photography that enthralled readers and critics alike. Publishers Weekly called it  an enjoyable, eccentric read, distinguished by well developed characters, a believable Welsh setting, and some very creepy monsters. This second novel begins in 1940, immediately after the first book ended. Having escaped Miss Peregrine s island by the skin of their teeth, Jacob and his new friends must journey to London, the peculiar capital of the world. Along the way, they encounter new allies, a menagerie of peculiar animals, and other unexpected surprises.Complete with dozens of newly discovered (and thoroughly mesmerizing) vintage photographs, this new adventure will delight readers of all ages. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 42.98 Dollars
 

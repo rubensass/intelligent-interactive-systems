@@ -1,21 +1,21 @@
-url:
-https://books.toscrape.com/catalogue/the-first-hostage-jb-collins-2_749/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-first-hostage-jb-collins-2_749/index.html
 
 title:
-The First Hostage (J.B. Collins #2)
+The First Hostage (J.B. Collins  2)
 
 availability:
 In stock (14 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
 Fiction
 
 description:
-“The president of the United States . . . is missing.”With these words, New York Times journalist J. B. Collins, reporting from the scene of a devastating attack by ISIS terrorists in Amman, Jordan, puts the entire world on high alert. The leaders of Israel and Palestine are critically injured, Jordan’s king is fighting for his life, and the U.S. president is missing and p “The president of the United States . . . is missing.”With these words, New York Times journalist J. B. Collins, reporting from the scene of a devastating attack by ISIS terrorists in Amman, Jordan, puts the entire world on high alert. The leaders of Israel and Palestine are critically injured, Jordan’s king is fighting for his life, and the U.S. president is missing and presumed captured.As the U.S. government faces a constitutional crisis and Jordan battles for its very existence, Collins must do his best to keep the world informed while working to convince the FBI that his stories are not responsible for the terror attack on the Jordanian capital. And ISIS still has chemical weapons . . .Struggling to clear his name, Collins and the Secret Service try frantically to locate and rescue the leader of the free world before ISIS’s threats become a catastrophic reality. ...more
+ The president of the United States . . . is missing. With these words, New York Times journalist J. B. Collins, reporting from the scene of a devastating attack by ISIS terrorists in Amman, Jordan, puts the entire world on high alert. The leaders of Israel and Palestine are critically injured, Jordan s king is fighting for his life, and the U.S. president is missing and p  The president of the United States . . . is missing. With these words, New York Times journalist J. B. Collins, reporting from the scene of a devastating attack by ISIS terrorists in Amman, Jordan, puts the entire world on high alert. The leaders of Israel and Palestine are critically injured, Jordan s king is fighting for his life, and the U.S. president is missing and presumed captured.As the U.S. government faces a constitutional crisis and Jordan battles for its very existence, Collins must do his best to keep the world informed while working to convince the FBI that his stories are not responsible for the terror attack on the Jordanian capital. And ISIS still has chemical weapons . . .Struggling to clear his name, Collins and the Secret Service try frantically to locate and rescue the leader of the free world before ISIS s threats become a catastrophic reality. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 25.85 Dollars
 

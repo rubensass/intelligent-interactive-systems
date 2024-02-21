@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/mexican-today-new-and-rediscovered-recipes-for-contemporary-kitchens_387/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/mexican-today-new-and-rediscovered-recipes-for-contemporary-kitchens_387/index.html
 
 title:
 Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens
@@ -7,15 +7,15 @@ Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens
 availability:
 In stock (5 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 100/100
 
 category:
 Food and Drink
 
 description:
-Intriguing recipes for everyday meals from the host of the PBS series Pati’s Mexican Table On her PBS TV series, now in its fifth season, as well as in frequent appearances on shows like The Chew, Pati Jinich, a busy mother of three, has shown a flair for making Mexican cooking irresistibly accessible. In Mexican Today, she shares easy, generous dishes, both traditional on Intriguing recipes for everyday meals from the host of the PBS series Pati’s Mexican Table On her PBS TV series, now in its fifth season, as well as in frequent appearances on shows like The Chew, Pati Jinich, a busy mother of three, has shown a flair for making Mexican cooking irresistibly accessible. In Mexican Today, she shares easy, generous dishes, both traditional ones and her own new spins. Some are regional recipes she has recovered from the past and updated, like Miners’ Enchiladas with fresh vegetables and cheese or Drunken Rice with Chicken and Chorizo, a specialty of the Yucatán. “Sweaty” Tacos with ripe tomatoes and cheese are so convenient they’re sold on Mexican streets by bicyclists. Her grandmother’s Cornflake Cookies feel just as contemporary now as they did then.  Pati has “Mexed up” other recipes in such family favorites as Mexican Pizza with Grilled Skirt Steak and Onions. Still other dishes show the evolution of Mexican food north and south of the border, including Mexican Dreamboat Hotdogs and Cal-Mex Fish Tacos with Creamy Slaw. This food will draw everyone together—a family at the end of a working day, a book club, or a neighborhood potluck.  Throughout, Pati is an infectious cheerleader, sharing stores of the food, people, and places behind the recipes. ...more
+Intriguing recipes for everyday meals from the host of the PBS series Pati s Mexican Table On her PBS TV series, now in its fifth season, as well as in frequent appearances on shows like The Chew, Pati Jinich, a busy mother of three, has shown a flair for making Mexican cooking irresistibly accessible. In Mexican Today, she shares easy, generous dishes, both traditional on Intriguing recipes for everyday meals from the host of the PBS series Pati s Mexican Table On her PBS TV series, now in its fifth season, as well as in frequent appearances on shows like The Chew, Pati Jinich, a busy mother of three, has shown a flair for making Mexican cooking irresistibly accessible. In Mexican Today, she shares easy, generous dishes, both traditional ones and her own new spins. Some are regional recipes she has recovered from the past and updated, like Miners  Enchiladas with fresh vegetables and cheese or Drunken Rice with Chicken and Chorizo, a specialty of the Yucatan.  Sweaty  Tacos with ripe tomatoes and cheese are so convenient they re sold on Mexican streets by bicyclists. Her grandmother s Cornflake Cookies feel just as contemporary now as they did then.  Pati has  Mexed up  other recipes in such family favorites as Mexican Pizza with Grilled Skirt Steak and Onions. Still other dishes show the evolution of Mexican food north and south of the border, including Mexican Dreamboat Hotdogs and Cal Mex Fish Tacos with Creamy Slaw. This food will draw everyone together  a family at the end of a working day, a book club, or a neighborhood potluck.  Throughout, Pati is an infectious cheerleader, sharing stores of the food, people, and places behind the recipes. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 24.91 Dollars
 

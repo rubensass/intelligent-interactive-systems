@@ -1,5 +1,5 @@
-url:
-https://books.toscrape.com/catalogue/the-sense-of-an-ending_111/index.html
+You can purchase the book at the following url address:
+url_adress: https://books.toscrape.com/catalogue/the-sense-of-an-ending_111/index.html
 
 title:
 The Sense of an Ending
@@ -7,15 +7,15 @@ The Sense of an Ending
 availability:
 In stock (2 available)
 
-book_rating:
+Below is the average score given to the book by other readers:
 60/100
 
 category:
 Add a comment
 
 description:
-An alternative cover edition for this ISBN can be found hereTony Webster and his clique first met Adrian Finn at school. Sex-hungry and book-hungry, they would navigate the girl-less sixth form together, trading in affectations, in-jokes, rumour and wit. Maybe Adrian was a little more serious than the others, certainly more intelligent, but they all swore to stay friends f An alternative cover edition for this ISBN can be found hereTony Webster and his clique first met Adrian Finn at school. Sex-hungry and book-hungry, they would navigate the girl-less sixth form together, trading in affectations, in-jokes, rumour and wit. Maybe Adrian was a little more serious than the others, certainly more intelligent, but they all swore to stay friends for life.Now Tony is retired. He's had a career and a single marriage, a calm divorce. He's certainly never tried to hurt anybody. Memory, though, is imperfect. It can always throw up surprises, as a lawyer's letter is about to prove. ...more
+An alternative cover edition for this ISBN can be found hereTony Webster and his clique first met Adrian Finn at school. Sex hungry and book hungry, they would navigate the girl less sixth form together, trading in affectations, in jokes, rumour and wit. Maybe Adrian was a little more serious than the others, certainly more intelligent, but they all swore to stay friends f An alternative cover edition for this ISBN can be found hereTony Webster and his clique first met Adrian Finn at school. Sex hungry and book hungry, they would navigate the girl less sixth form together, trading in affectations, in jokes, rumour and wit. Maybe Adrian was a little more serious than the others, certainly more intelligent, but they all swore to stay friends for life.Now Tony is retired. He s had a career and a single marriage, a calm divorce. He s certainly never tried to hurt anybody. Memory, though, is imperfect. It can always throw up surprises, as a lawyer s letter is about to prove. ...more
 
-price:
+Below is the retail price of the book on the library's website:
 31.38 Dollars
 
