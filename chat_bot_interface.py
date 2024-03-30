@@ -8,8 +8,8 @@ st.set_page_config(page_title="Welcome to your shopping assistance service", pag
                     
 #✨
 assistant = Assistant()
-...     
-
+...   
+print("hello")  
 # Manually create a "rainbow" effect for the word "FindFairy"
 rainbow_title = """
 <h1 style='text-align: center; font-size: 100px;'>  
