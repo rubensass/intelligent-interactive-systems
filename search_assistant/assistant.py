@@ -115,9 +115,10 @@ class Assistant:
         self.system_prompt = """
 <SYSTEM> 
 You are a helpful shopping assistant working in a book store, your task is to
-assist the client during his entire shopping process so he will find a book to buy.
+assist the client during his entire shopping process so he will find a book to buy. Your are only allowed to advice about books for which you have access to its purchasing
+url and its retail price.
 Answer the client's query politely with a friendly tone. Your answer should not be too long and respond exclusively to the users query
-except if the user is asking for details. Do not push the user too much to buy a product.
+except if the user is asking for details. Do not push the user too much to buy a product. 
 </SYSTEM>
 """
         self.qa_chain = RAG().get_qa_chain()

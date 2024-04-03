@@ -7,9 +7,27 @@ st.set_page_config(page_title="Welcome to your shopping assistance service", pag
                     menu_items={'Get Help': 'mailto:max.bershtman@gmail.com','Report a bug': "mailto:max.bershtman@gmail.com", 'About': "Your Personal Shopping Assistant Made with ❤️ by Max and Ruben"})
                     
 #✨
+
+my_expander = st.expander("**If You Want To Create A Profile - Press Here**", expanded=False)
+with my_expander:
+    st.write("To create a profile, just copy the following form and fill it up with your personal information and then send it in the chat:")
+    st.write("{'name': 'write here your name', 'age': 'write here your age', 'gender': 'write here your gender', 'hobbies': 'write here your hobbies'}")
+    st.write("**Please make sure to write the information exectly as it is written in the form but everywhere where you see 1 quate - ' put double quotes instead - '' **")
+    st.write("For example you can write this in the chat: {''name'': ''Max'', ''age'': ''10'' , ''gender'': ''Male'', ''hobbies'': ''swimming''}")
+    st.write("**Your profile will be saved and you will be able to connect to it whenever you want - after connecting the chat will remember your information.**")
+
+my_expander2 = st.expander("**If You Want To Log Into Your Profile - Press Here**", expanded=False)
+with my_expander2:
+    st.write("To log into your profile, just copy the following form and fill it up with your personal information and then send it in the chat:")
+    st.write("{'name': 'write here your name'}")
+    st.write("**Please make sure to write the information exectly as it is written in the form but everywhere where you see 1 quate - ' put double quotes instead - '' **")
+    st.write("For example you can write this in the chat: {''name'': ''Max''}")
+    st.write("**After logging in, the chat will remember your information and adapt the service to your personal profile.**")
+
+
 assistant = Assistant()
 ...   
-print("hello")  
+
 # Manually create a "rainbow" effect for the word "FindFairy"
 rainbow_title = """
 <h1 style='text-align: center; font-size: 100px;'>  
@@ -30,6 +48,12 @@ rainbow_title = """
 st.markdown(rainbow_title, unsafe_allow_html=True)
 
 
+my_expander3 = st.expander("**Press Here To See Some Ideas Of What You Can Ask**", expanded=False)
+with my_expander3:
+    st.write("Provide me a book suggestion for a 10 year boy") 
+    st.write("Give me the best book about vempires you have in the store")
+    st.write("give me a long book that costs less than 20$")
+    
 
 if "generated" not in st.session_state:
     st.session_state["generated"] = []
@@ -83,4 +107,3 @@ if st.button("Press Here To Start Over Or Finish"):
     # Rerun the app from the top
     st.experimental_rerun()
 
-#streamlit run chat_bot_interface.py
